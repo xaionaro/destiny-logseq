@@ -1,0 +1,35 @@
+[YouTube Link](https://www.youtube.com/watch?v=-U9WGGoUNUU)
+- 4:50 - "Donald Trump backed a bunch of really bad candidates in Purple Districts."
+  - Giving one strong reason why Trump is a bad leader. He has bad political instincts and is not effective at choosing good candidates for either his cabinet, nor candidates for other races.
+- 4:50 - Big Trumpy candidates also cost senate seats in Arizona, Georgia, Pennsylvania because of how much swing voters dislike Trump.
+  - Trump is a bad pick for Republicans because of how much he galvanizes support on the other side.
+- 8:40 - This notion that running against the entire system (like Trump did) produces good results has not been borne out.
+  - This is very true, it's the failure of ALL populist leaders, and it is EXACTLY what Donald Trump aims to repeat in the next election if he were to win.
+- 11:50 - One norm of the house is that you don't remove members from committees just because you don't like them. 
+  - Marjorie Taylor Greene was not removed from her committees simply because "Democrats did not like her." If that was the case, wouldn't there be numerous other Republicans removed from committees? What about Geatz? What about Bobbert?
+  - MTG wasn't removed from her committees because people simply didn't like her, it was because
+    - She [supported](https://www.youtube.com/watch?v=jhe9Fd6YRyA) 9/11 conspiracy theories.
+    - She [harassed](https://www.youtube.com/watch?v=GM05FwyhHPA) a school shooting victim, David Hogg, about using children as shields for red flag laws. She also claims that he's a paid actor in the same video.
+    - She [claimed](https://www.mediamatters.org/false-flag-conspiracy-theory/rep-marjorie-taylor-greene-facebook-2018-parkland-school-shooting-was) that the Parkland School Shooting was a false flag event.
+    - She [supported](https://www.cnn.com/2021/01/26/politics/marjorie-taylor-greene-democrats-violence/index.html) executing Democratic leaders like Pelosi and members of the FBI before running for Congress.
+    - She [mentioned](https://nymag.com/intelligencer/article/marjorie-taylor-greene-qanon-wildfires-space-laser-rothschild-execute.html) Jewish space lasers causing fires in California.
+    - Spoke alongside Nick Fuentes at AFPAC.
+  - Paul Gosar was also [removed from committees](https://www.usnews.com/news/politics/articles/2021-11-17/paul-gosar-censured-removed-from-committees-over-violent-post-about-democrats) and censured for [making an AoT](https://www.youtube.com/watch?v=opQPN3Uqq_A) spoof with Republicans attacking Democrats (tbf the video was incredibly badass).
+    - Spoke alongside Nick Fuentes at AFPAC.
+- 14:00 - He brings up AOC's tweets about Gaetz's lack of support for institutions.
+  - Ben doesn't engage with this at all. Did McCarthy deserve infinite support from the Democrats?
+- 14:20 - Democrats suggested they could ram judicial nominees through with 51 votes.
+  - Nuclear option research on history of judicial nominees.
+- 21:10 - Is Donald Trump going to whip votes? Is he going to fundraise on behalf of members of the house?
+  - Donald Trump is just not good for the Republican party.
+- 32::00 - Joe Biden is running this economy into a ditch.
+  - What could he be doing better?
+- 33:00 - Joe Biden encourages us to talk to us neighbors, Ben Shapiro claims he's a "dead president."
+  - Biden's answer here was incredibly diplomatic and exactly what we need right now.
+- 41:10 - The reason these Kaiser strikes are happening is because Joe Biden is president of the United States.
+  - Really? Did any strikes at all happen under Trump?
+- 41:27 - Economic stagnation is the real threat of the Biden administration.
+  - Isn't the US outcompeting the G7?
+- 42:00 - Where's AOC crying about the border wall?
+  - Are Democrats against all border security? Or just children separated from their family? [Biden wall fact check](https://www.factcheck.org/2023/10/bidens-border-wall-explained/).
+#

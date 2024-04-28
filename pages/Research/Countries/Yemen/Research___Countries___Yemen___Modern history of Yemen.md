@@ -1,0 +1,178 @@
+  - ## 1962-1970 - The North Yemen Civil War
+    - Background
+      - Yemen
+        - In 1955, Iraq-trained Colonel Ahmad Thalaya led a revolt against Imam Ahmad bin Yahya.
+        - Ahmad bin Yahya defeated the besiegers, publicly decapitating Ahmad Thalaya and then executing Emir Saif el Islam Abdullah, the 48 year old Foreign Minister who was to become the new leader under Thalaya's demands.
+        - In March of 1958, Ahmad bin Yahya's son, Muhammad al-Badr, went to Damascus to tell Nasser that Yemen would adhere to the United Arab Republic, as long as Ahmad could keep his throne and power.
+        - In 1959, while Ahmad went to Rome for medical treatments, fights between tribal chieftains erupted. When Ahmad returned, he decapitated one of his subjects and amputated the left hand and right foot of 15 others.
+        - Imam Ahmad died on September 18th, 1962, and was succeeded by his son, Muhammad al-Badr, who appointed Colonel Abdullah Sallal, a known socialist and Nasserist, as commander of the palace guard.
+      - Egypt
+        - Nasser had desired regime change in Yemen since 1957, and acted in January of 1962 by supporting the Free Yemen Movement.
+        - In a desire to continue his pursuit of Arab nationalism, especially after the dissolution of the UAR in 1961, Nasser supported a regime change in Yemen by supporting Colonel Abdullah Sallal.
+        - Nasser's considerations for sending troops to Yemen may have included the following
+          - impact of his support to the [Algerian War of Independence](https://en.wikipedia.org/wiki/Algerian_War_of_Independence "Algerian War of Independence") from 1954–62
+          - Syria breaking up from Nasser's UAR in 1961
+          - taking advantage of a breach in British and French relations, which had been strained by Nasser's support for the [FLN](https://en.wikipedia.org/wiki/National_Liberation_Front_(Algeria) "National Liberation Front (Algeria)") in [Algeria](https://en.wikipedia.org/wiki/Algeria "Algeria") and primarily for his efforts to undermine the [Central Treaty Organization](https://en.wikipedia.org/wiki/Central_Treaty_Organization "Central Treaty Organization") (CENTO), which caused the downfall of the [Iraqi monarchy](https://en.wikipedia.org/wiki/List_of_Kings_of_Iraq "List of Kings of Iraq") in 1958
+          - confronting [imperialism](https://en.wikipedia.org/wiki/Imperialism "Imperialism"), which Nasser saw as Egypt's destiny
+          - guaranteeing dominance of the [Red Sea](https://en.wikipedia.org/wiki/Red_Sea "Red Sea") from the [Suez Canal](https://en.wikipedia.org/wiki/Suez_Canal "Suez Canal") to the [Bab-el-Mandeb](https://en.wikipedia.org/wiki/Bab-el-Mandeb "Bab-el-Mandeb") strait
+          - retribution against the [Saudi royal family](https://en.wikipedia.org/wiki/Saudi_royal_family "Saudi royal family"), whom Nasser felt had undermined his union with Syria.
+    - History
+      - Coup d'état
+        - Plot
+          - Four different plots were happening simultaneously
+            - Lieutenant Ali Abdul al Moghny
+            - Colonel Abdullah Sallal, which eventually merged into...
+            - The Hashid tribal confederation
+            - Several young princes who wanted to get rid of al-Badr but not the imamate
+          - On September 25th, 1962, Sallal gathered known leaders of the Yemeni nationalist movement and began enacting the coup.
+        - Execution
+          - By late morning of September 26th, all areas of Sana'a were secured and the revolutionaries had achieved victory over al-Badr and his guards.
+        - Coup aftermath
+          - Nasser sent Egyptian General Ali Abdul Hameed on September 29th to assess the situation.
+          - Sallal gained control of Yemen and would be protected by a battalion of Egyptian special forces.
+          - al-Badr went to Saudi Arabia.
+      - Diplomatic Attempts
+          - Teams
+            - West Germany, The United Kingdom, The United States, and Jordan all supported al-Badr, the Imam.
+            - Egypt, Italy, Yugoslavia and the USSR supported Sallal.
+          - The US, under John F. Kennedy, tried to resolve the dispute while communicating with Nasser (Egypt), Faisal (Saudi Arabia), Hussein (Jordan) and Salla (Yemen). Nasser agreed to pull out, only if Jordan and Saudi Arabia also stopped their aggression, but Jordan and Saudi Arabia did not trust Egyptian intentions for the peninsula.
+          - Sallal proclaimed he would follow Yemen's international obligations, including respect for Britain's Aden Protectorate, and Nasser promised a gradual withdrawal of its 18,000 man force, as long as Saudi Arabian and Jordanian forces retire from border regions.
+          - On December 19th, 1962, the US recognized the Yemen Arab Republic, with the UN following the next day.
+          - Britain, Iran, Turkey and most of western Europe did not recognize the republic, while West Germany, Italy, Canada, Australia, the remaining Arab governments, Ethiopia and the entire communist bloc did.
+      - Operation Hard-surface
+          - The UN attempted to launch a mission based on the US National Security Council, in which a 25 mile demilitarized strip along the Saudi/Yemen border.
+          - Egypt didn't really want to withdraw its forces, and Saudi Arabia had already begun cutting back support for royalists due to the threat of a combined Syria/Iraq/Egypt.
+          - On September 4th, 1964, the UN admitted failure and ended the mission.
+      - Egyptian offenses
+        - Egypt attempted to win an air war to substitute lack of ground power.
+        - Egypt also bought off and sent humanitarian aid to many tribal leaders in order to encourage them to be loyal to the new republican government.
+      - Ramadan offensive
+        - In February of 1963, Amer and Sadat arrived in Sana'a.
+        - Amer requested 20,000 additional men for Yemen.
+        - Fighting ensued between the Egyptian forces and the royalist forces for the next few months, with the royalist and Egyptian forces pushing each other's territory.
+      - Haradh offensive
+        - More fighting.
+      - Alexandria summit and Erkwit ceasefire
+        - In September of 1964, Faisal and Nasser met in an Arab summit in Alexandria, and agreed to reach a peaceful settlement to resolve the conditions in Yemen.
+        - On November 4th, the Egyptians resumed their bombings of royalist positions, and the peace agreements fell through.
+      - Royalist offensive
+        - More fighting.
+      - Stalemate
+        - Lots of people dead on both sides.
+        - Sallal fired his Premier, General Hassan Amri, and appointed a moderate, Ahmed Noman, in his place, in order to attempt to unite Yemen's two main tribal groupings, the mountain Zaidi Shias (royalists), and the Shafi'i Sunnis (republicans).
+      - Nasser's "long-breath" strategy
+        - Egypt had run up a foreign debt of nearly $3b.
+        - Nasser conceded they were facing difficulties, and raised a variety of taxes on the public to afford the war effort.
+        - Nasser also supported Egyptian sabotage bombings in Saudi Arabia.
+        - On May Day of 1966, Nasser said the war was entering the "long-breath strategy," where he would draw down troops from 70k to 40k and simply focus on reinforcing tighter positions, withdrawing from exposed positions. He also insisted on attacks on Najran, Qizan and other "bases of aggression", claiming they were originally Yemeni towns stolen by the Saudis in the 1930's.
+        - Nasser was warned by both the US and the USSR not to escalate the conflict into a hot war with Saudi Arabia.
+        - Tunisia broke diplomatic relations with the republic, and Sallal's government seemed on the verge of collapse.
+      - Chemical warfare
+        - From 1963-1967 multiple gas attacks occurred against North Yemen villages, with claims that the Egyptians were behind the gas attacks.
+        - By the end of July, 1967, 1,500 fatalities and 1,500 injuries were estimated among royalist Yemen villages.
+      - Egyptian Withdrawal
+        - As part of the Khartoum Resolution, Egypt announced an end to the Yemen war.
+        - Egypt and Saudi Arabia revived their Jeddah agreement of 1965.
+        - Sallal accused Nasser of betrayal.
+        - Sallal rapidly lost popularity at home, firing and appointing an entirely new Cabinet. Nasser in November of 1965 would encourage him to resign and go into exile. Once Sallal refused and went to Baghdad, hoping to get support from other Arab Socialists, Nasser sent a cable of Sana'a instructing his troops there not to block an attempt at a coup.
+      - Siege of Sana'a
+        - The royalists sieged the newly created republican government headed by Qadi Abdul Rahman Iryani, Armed Noman and Mohamed Ali Uthman. The royalists suffered due to Saudi Arabia no longer shipping them arms nor financing them after the Khartoum agreement, however.
+      - Final Accords
+        - By February of 1968, the seige was lifted and the republicans had won.
+        - The British had withdrawn from South Yemen.
+        - Talks commenced and in 1970 Saudi Araba recognized the Republican and a ceasfire was effected.
+  - ## 1967-1990 - The People's Republic of South Yemen
+    - On November 30th, 1967, the British pull out of Aden, leaving it under NLF control.
+    - In June 1969, a Marxist wing of the NLF gained power and changed the country's name to the People's Democratic Republic of Yemen, with all political parties on December 1st of 1970 combining into the Yemeni Socialist Party.
+      - The PDRY established close ties with the Soviet Union, The PRC, Cuba and Palestine.
+  - ## Yemenite War of 1972
+    - Conflict between the Yemen Arab Republic (North Yemen, initially backed by Egypt, later Saudi Arabia) and the People's Democratic Republic of Yemen (PDRY, South Yemen, supported by Cuba, East Germany, North Korea and the USSR).
+    - South Arabian League rebels were attacking positions in eastern South Yemen, but were defeated by the South Yemen government on February 24th, 1972.
+    - Prime Minister Ali Nasir Muhammad survived an assassination attempt by SAL rebels on May 22nd, 1972.
+    - The Cairo Agreement of 1972
+      - The fighting only lasted 23 days with a swift victory by the South, supported by the Soviet Union, Czechoslovakia, Iraq, Libya and Cuba, over the Yemen Arab Republic in the north, supplied by Saudi Arabia, Jordan, Egypt, Iran and the United Kingdom/US.
+  - ## Yemenite War of 1979
+    - Conflict
+      - The Marxist government of South Yemen was allegedly arming rebels through the National Democrat Front in North Yemen.
+      - On February 24th, 1979, forces from North and South Yemen began firing at each other from across the border.
+      - Multiple attacks/excursions with air superiority were carried out by South Yemen.
+      - The South was supported by Cuba, USSR, and East Germany.
+      - The North, supported by Saudi Arabia, the United States, Iraq and Egypt, was eventually re-armed enough by 1983-84 to rebuild its military.
+    - Kuwait Agreement of 1979
+      - On March 20th, North and South Yemen called a bilateral ceasefire and met in Kuwait for reconciliation, pressured by Iraq/Syria and Kuwait, all calling for a unified Arab world in response to pressure from the Camp David Accords and the Iranian Revolution.
+  - ## South Yemen Civil War of 1986
+    - Background
+      - The National Liberation Front was handed power over the country following negotiations in Geneva with the British government.
+      - Ismael would go on to become the General Secretary after the NLF gained power over the country, adopting a Marxist-Leninist scientific socialism as the official state ideology.
+      - The government supported Marxist paramilitary organizations around the Arabian Peninsula, including the PFLOAG and PFLO.
+      - They supported the PFLO during the Dhofar Rebellion, in Oman.
+      - Eventually, due to Ismail's failures in Oman and during the Yemenite War of 1979, he resigned and went into exile, succeeded by Ali Nasir Muhammad, who favored less interventionalist.
+      - The Soviet Union attempted to mediate from the naval base in Yemen which hosted 1,000-1,800 troops in 1986.
+      - In 1985, the YSP politburo adopted a resolution stating political violence to settle political disputes was considered criminal.
+    - War
+      - On January 13th, 1986, bodyguards of Ali Nasir Muhammad opened fire on members of the YSP politburo as they were due to meet. The ensuing firefight caused multiple high ranking officials to die, including Abdul Fattah Ismail.
+      - Abdul Fattah Ismail came back, they fought for 12 days, he died.
+      - Ali Nasir Muhammad and some 60,000 members of his brigade fled to the YAR.
+    - Succession
+      - A former politburo member, al-Beidh, took the top position in the YSP following the 12-day civil war.
+    - Aftermath
+      - Suffering a loss of more than half it's USSR aid from 1986-1989, al-Beidh's government worked towards unification with North Yemen.
+- # Republic of Yemen
+  - ## Unification and transitional period
+    - The Republic of Yemen was declared on May 22nd, 1990
+      - Saleh, the leader of YAR, became president
+      - al-Baidh, the leader of the PDRY, became vice president
+    - The unity constitution was agreed upon in May of 1990, and ratified by the populace in 1991.
+      - It affirmed Yemen's commitment to free elections, a multiparty system, private property rights, equality under the law, and basic human rights.
+    - The government ran into issues in 1993 after al-Bidh self-imposed exile to Aden in August 1993. Tribal conflicts escalated.
+  - ## 1994 Civil War
+    - Political infighting continued, clashes intensified until civil war broke out in May 1994.
+    - Most of the fighting happened in the south, despite missile/air attacks against cities in the north. The US and UN attempted to call for a cease-fire.
+    - In May 1994, the South declared secession and established the Democratic Republic of Yemen.
+    - The war ended, with President Ali Abdallah Salih announcing general amnesty for most people from south Yemen with the exception of 16 people.
+    - In the aftermath of the civil war, YSP leaders within Yemen reorganized the party in 1994, the GPC did the same in 1995.
+  - ## Mid 1990's
+    - President Ali Abdallah Salih was elected by Parliament on October 1st, 1994, then again by the population in September of 1999.
+  - ## 2000's
+    - On October 12th, 2000, the USS Cole was attacked in the port of Aden by suicide bombers from Al-Qaida.
+      - 17 sailors were killed.
+    - In the 2000's, the government began fighting rebel groups such as the Shabab al-Mu'mineen, who would later go on to become the Houthi's, or are the Houthi's.
+  - ## 2011 Yemeni Revolution
+    - Protests
+      - In January 2011, major protests began against living conditions in Yemen, and eventually became more pointed towards President Ali Abdullah Saleh..
+      - Opposition leader Tawakel Karman called for a Day of Rage to topple the government of Tunisia and put pressure on Mubarak in Egypt, which drew 20,000 participants.
+      - Demonstrators also continued marching after Mubarak stepped down, calling for Saleh to step down as well in Yemen.
+      - On March 18th, 2011, 45 protesters were shot dead in Sana'a, which lead to the declaration of a state of emergency.
+    - Mediation attempts
+      - The Gulf Co-operation Council attempted to get Saleh to sign an agreement three times that would see him step down from power, but all three times he trolled the GCC and the opposition by refusing to sign at the last minute.
+    - Uprising
+      - On the 23rd of May, a day after Saleh refused to sign the transition agreement, Sheikh Sadiq al-Ahmar, the head of the Hashid tribal federation, one of the most powerful tribes in the country, declared support for the opposition and his armed supporters began fighting.
+      - Lots of fighting between loyalists and rebels ensues through the end of May.
+    - Presidential Palace assassination attempt
+      - On June 3rd, a bombing attempt against Saleh's life happens at the presidential palace.
+        - He would fly to Riyadh for surgery on the 4th of June. He left the hospital on August 6th but did not return to Yemen.
+      - On July 6th, the government refused opposition demands for a transitional council.
+      - On July 16th, factions of the opposition claimed they would form their own transitional council.
+      - In September, lots of protesters getting shot/shelled in Change Square by military. Sadeq-al-Ahmar claims they did not return fire.
+    - Return of Ali Abdullah Saleh
+      - On September 23rd, 2011, Yemeni state-television announced his return.
+      - On December 4th, 2017, Houthi militia killed Ali Abdullah Saleh
+    - Power-transfer deal
+      - On November 23rd, 2011, Saleh finally returns to Riyadh to sign the Gulf Cooperation Council plan for political transition, despite refusing to in the past.
+      - On January 21st, 2012, the Assembly of Representatives of Yemen approved an immunity deal for Saleh to step down and allow his vice president, Abdrabbuh Mansur Hadi, to run and win the next election with 99.8% of the vote.
+      - He would hold office from the 25th of February, 2012 for 2 years during a transitional government, ending Saleh's 33-year rule.
+    - Domestic responses
+      - On February 2nd, President Saleh said he would freeze the amendment process, not pass on the reigns of power to his son, "No extension, no inheritance, no resetting the clock;" and said he would quit in 2013.
+      - On March 1st, 2011, Saleh [blamed](https://www.seattletimes.com/news/yemeni-president-blames-israel-us/) the US and Israel for tensions rising in Yemen.
+      - On March 20th, Saleh fired all members of his Cabinet of Yemen, including Prime Minister Ali Muhammad Mujaware and vice-Prime Ministers Rashad al-Alimi, Abdul Karim Al-Ar'haby and Sadiq Amin Abu-Rass, but asked them to remain until he forms a new one.
+    - Arrests and repression
+      - On January 23rd, Tawakel Karman, a protestor who would go on to win a nobel peace prize on October 7th, 2011, was arrested with "inciting disorder and chaos" though was later released 30 hours after her arrest after mass protests outside Sana'a University.
+      - On March 14th, security forces raided an apartment shared by four Western journalists and deported them.
+  - ## Yemeni Civil War (2014-2024)
+    - [This shit](https://en.wikipedia.org/wiki/Yemeni_civil_war_(2014%E2%80%93present))
+
+
+
+
+
+#

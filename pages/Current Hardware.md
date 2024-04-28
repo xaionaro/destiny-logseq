@@ -1,0 +1,37 @@
+- Gaming System
+  - Case
+    - Lian Li XL Black Case (011D)
+  - Motherboard
+    - ASUS ROG Z490-e
+  - CPU
+    - i9 10900k
+  - Heatsink
+    - Noctua NH-D15
+  - GPU
+    - RTX 3090
+  - RAM
+    - 32gb DDR 3200mhz
+  - Storage
+    - 1TB NVME SSD
+  - PSU
+    - 1000W PSU
+- Streaming System
+  - Case
+    - Fractal Design R5 - White
+  - Motherboard
+    - ASRock X299 Taichi XE
+  - CPU
+    - Intel Core i9-7980XE
+  - Heatsink
+    - Noctua NH-D15
+  - GPU
+    - GTX 1080
+  - RAM
+    - 32gb DDR 3600mhz
+  - Storage
+    - Samsung 960 PRO Series - 1TB PCIe
+  - PSU
+    - 1000W PSU
+
+
+#

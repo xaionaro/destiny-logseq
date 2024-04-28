@@ -1,0 +1,24 @@
+- Known to Israel as the War of Independence, and to the Palestinians as the Nakba
+- Israel declares [independence](- Israel declares independence at Tel Aviv on May 14th, 1948.) at Tel Aviv on May 14th, 1948.
+- War had two main phases, the first began on November 30th, 1947.
+  - First phase mainly fought between Jewish and Palestinian Arab militias, supported by the Arab Liberation Army and the surrounding Arab states. Escalated at the end of March 1948, when Jews went on the offensive.
+- After Arabs fled Haifa, Jaffa and Jerusalem, the US pulled out of the Partition Plan while the British supported the annexation of the Arab part of Palestine by Transjordan.
+- Funds raised by Golda Meir and Stalin's support allowed Israel to [purchase weapons from Eastern Europe](https://en.wikipedia.org/wiki/Arms_shipments_from_Czechoslovakia_to_Israel_1947%E2%80%931949).
+- May 14th, 1948, the last British troops and personnel departed Haifa, and the Jewish leadership declared the establishment of the state of Israel.
+- Second phase of the war began in May of 1948, the Arab-Israeli War, when invasion happens after Jewish leadership declares independence.
+  - Invading countries were Egypt, Iraq, Transjordan and Syria, supported by the Arab Liberation Army and corps of volunteers from Saudi Arabia, Lebanon and Yemen
+- Plan Dalet
+  - Forced expulsion and control of areas that extended beyond the proposed partition borders. Some (Zionists) claim that this was a defensive action to secure the future safety and borders of the new country, Israel, others claim this was purely an offensive territorial conquest aimed to ethnically cleanse the surrounding lands of Arabs to make it fertile for future Jews to settle.
+- In 1949, Israel signed separate Armistice agreements with Egypt, Lebanon, Jordan and Syria to establish [these](https://upload.wikimedia.org/wikipedia/commons/f/f4/Palestine_Military_Situation%2C_April_6%2C_1949%2C_Truman_Papers.jpg) temporary military borders.
+  - Egypt occupied the Gaza Strip and had a demilitarized zone around 'Uja al-Hafeer.
+  - Lebanon agreed to international boundary between Lebanon and Mandatory Palestine.
+  - Jordanian forces remained in East Jerusalem and other positions held by them.
+    - Also allowed to take over positions previously held by Iraqi forces.
+  - Syria maintained 66 square kilometers in the Jordan Valley, designated as DMZs.
+  - Iraq had no formal agreement as they withdrew their forces.
+  - The new military borders, as set by the agreements, encompassed about 78% of Mandatory Palestine.
+- Israel lost 6,373 people (4,000 soldiers), about 1% of its population. The exact number of Arab losses is estimated between 4,000 and 15,000.
+- Over 700,000 displaced Palestinians that fled or were expelled from their land as a result.
+- Over 700,000 Jews exodus from Arab and Muslim lands in the 3 years following the war, fleeing into Israel.
+- Established Israel as an independent state (founded by David Ben-Gurion), recognized immediately by Truman (U.S.) and Stalin (USSR).
+#

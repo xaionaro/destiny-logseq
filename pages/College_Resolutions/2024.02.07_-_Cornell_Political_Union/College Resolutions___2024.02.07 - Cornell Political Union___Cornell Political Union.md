@@ -1,0 +1,30 @@
+Resolution: Send More Military Aid to Ukraine and Israel to Uphold Global Justice
+
+The year is 2024. We are not currently at war with Iraq nor Afghanistan. It's important to remember this, because it feels as though we are collectively traumarized by the nation building exercises we undertook in these two countries, and it feels as though we are incapable of understanding any other conflict or imagining any other outcome than being quagmires for 20 years in a country that doesn't really want us there.
+
+Support for Ukraine is essential if America is be seen as the safeguard of democracy, economic prosperity, and a safe and secure Europe. Some still scoff at the idea of America being able to maintain any of these ideals around the world. While it's true that our record is far from perfect, the reality is that someone will rise to the occasion of leading the world into the future if we will not.
+
+Perhaps you say America is not worthy, I'd challenge you, then: who? Russia, with Putin leading it into conquest after conquest, peeling territory away from states who don't bow to Putin's whims, such as in Moldova, Georgia, and now Ukraine? A country hell-bent on supporting Iran, and all of their terrorist proxies in the Middle East? A man who destroys entire cities, like in Aleppo and Mariupol, as he conducts warfare with zero regard for human life? 
+
+Would you trust China to lead the world? A country on the precipice of conflict with Taiwan, a country who also stands accused of the forcible removal and genocidal destruction of the Uyghur population for its own territorial conquest?
+
+Support for Ukraine is essential to the United States for 3 key reasons:
+
+Firstly, support for Ukraine is a resounding "NO" to Russia's imperialistic conquest in parts of the world. Why should we stand for Russia unilaterally deciding that they alone have a right to destroy the borders of a country that the entire world, Russia included, recognized in 1991? All of us made promises to the territorial integrity of Ukraine. And again in 1994 as part of the Budapest Memorandums, when we promised Ukraine the integrity of their borders in exchange for their decaying nuclear arsenal, left there with the collapse of the Soviet Union. What message is sent to the rest of the world if we were not to ensure their sovereignty? Every country would understand that the only way to guarantee your borders would be through the acquisition of nuclear weapons or cowering under the nuclear umbrella of another country's warheads.
+
+Secondly, supporting Ukraine allows us to fight in one of the most direct ways possible against an enemy that we all should stand in opposition to. If Ukraine were to regain control of her entire borders, Crimea included, Russia would no longer have free and unconditional access to the Black Sea, and, consequently, the rest of the world in the Winter time. Russia's power projection would be severely hampered, forcing them to engage in diplomatic and economic negotiations more, as opposed to militaristic conquest. Russia would no longer as easily support Iran, fund and or deliver arms to terrorist organizations such as Hezbollah and the Houthis, and would no longer be able to as easily support Assad as he unleashes chemical attacks and devastation upon his own people. Never will the United States have an opportunity to so cheaply and easily provide weaponry in a conflict that will drain Russia of its capacity to terrorize the world in the future.
+
+Thirdly, and, most importantly, we should support Ukraine because it's the right thing to do. In this conflict, the moral authority rests with the Ukrainians. I find it noteworthy that, when we speak about the Ukraine-Russia word, we only speak of what's in the interest of America, and sometimes our European allies. What of the Ukrainians, though, who's will to fight remains unbroken? Are they not to have any say whatsoever in the future of their country, or their borders? If they have the personnel to fight, are we to deprive them of the material to do so if we can so easily provide it? If we do indeed agree, as we should, that Ukraine has the right to fight for their territorial integrity, why would we not provide the means to do so for as long as they have the will to fight?
+
+Support for Ukraine is not only strategically important, it is of vital moral necessity that we continue to support Ukraine in their desire to reassert their borders.
+
+Israel provides an interesting example where America's influence exists not just to provide unlimited military support for an ally, but to force restraint. Israel obviously needs no support from the United States to defeat her enemies today, but the support we provide can condition her to act in a more humanitarian way.
+
+The United States has forced Israel at times to slow her aggression in the Gaza Strip, giving more time for civilians to evacuate, to allow humanitarian aid into Gazan corridors, and, recently, Biden has applied pressure to the West Bank settlements, levying harsh penalties on settlers accused of violence against Palestinians in the forms of sanctions.
+
+If the United States were to diplomatically and financially withdraw from this region, why would Israel halt or pause any of their aggression? Historically, Israel has been forced to show restraint as well due to pressure from the US, such as withdrawing the Sinai in 1956 after hostilities had escalated with Russia.
+
+The Ukrainians have a right to have their borders defended, and the US is in the best place to help them militarily. If we value at all the lives of Palestinians, the US is one of the only countries that could force Israel to show restraint, so we ought to continue to do so.
+
+While I'm sympathetic towards those who remain skeptical of US foreign policy after our Middle Eastern blunders of recent decades, it shouldn't cause us to turn a blind eye to every conflict where the US may intervene in a righteous way. If we have any responsibility to the world, it should be to help nations def weend themselves.
+#
