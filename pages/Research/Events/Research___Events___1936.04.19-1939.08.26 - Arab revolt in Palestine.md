@@ -1,0 +1,58 @@
+- # Sources
+  - 1. ”[1936–1939 Arab revolt in Palestine](https://en.wikipedia.org/wiki/1936%E2%80%931939_Arab_revolt_in_Palestine)“ Wikipedia. Accessed April 26th, 2024.
+- # Belligerents
+  - 1. [[United Kingdom]]
+    - 1. British Army
+      - 1. 25,000-50,000 British soldiers
+    - 2. Palestine Police Force
+      - 1. 2,883 fighters
+    - 3. Jewish Settlement Police, Jewish Supernumerary Police and settlement guards
+      - 1. 20,000 guards
+  - 2. [[Jewish National Council]]
+    - 1. [[Haganah]]
+      - 1. 15,000 fighters
+    - 2. [[Irgun]]
+      - 1. 2,000 militants
+  - 3. [[The National Defense Party]] (from 1937)
+    - 1. Arab “peace bands”
+      - 1. Notable Leaders
+        - 1. [[Raghib al-Nashashibi]] (from 1937)
+  _______
+  - 1. [[Arab Higher Committee]]
+    - 1. Local rebel factions (fasa’il)
+      - 1. Notable Leaders
+        - 1. [[Mohammed Amin al-Husseini]] (exiled)
+        - 2. [[Raghib al-Nashashibi]] (defected)
+      - 2. 1,000-3,000 fighters (1936-1937)
+      - 3. 2,500-7,500 fighters (plus an additional 6000-15,000 part-timers) (1938)
+    - 2. Volunteers from Arab world
+  - 2. [[Central Committee of National Jihad in Palestine]] (October 1937-1939)
+    - 1. Bureau of the Arab Revolt in Palestine (late 1938-1939)
+  - 3. [[Society for the Defense of Palestine]]
+  - ## Casualties and losses
+    - 1. British
+      - 1. 262 killed
+      - 2. 550 wounded
+    - 2. Jews
+      - 1. 500 killed
+      - 2. 2 executed
+    _____
+    - 1. Arabs
+      - 1. 5,000 killed
+      - 2. 108 executed
+      - 3. 15,000 wounded
+      - 4. 12,622 detained
+      - 5. 5 exiled
+    
+    - # Location
+    - In Mandatory Palestine
+- # Causes
+  - Popular uprising by Palestinian Arabs in Mandatory Palestine against British mandate due to increasing flow of Jewish immigrants.
+  - Sparked by back and forth killings of two Jews by a Qassamite band, followed by the retaliatory killing of two Arab workers.
+- # Events
+  - First part of movement was seized upon by the urban and elitist Arab Higher Committee, which made the revolt focus on strikes and other political forms of protest.
+  - Second phase in 1937 lead to violent conflict between British Army and Palestine Police Force against the peasant-led resistance movement.
+- # Outcome
+  - Walid Khalidi estimates 19,792 casualties for the Arabs, with 5,032 dead, 3,832 killed by the British and 1,200 dead due to intracommunal terrorism, and 14,760 wounded. Several hundred Palestinian Jews were killed.
+- # Important Notes
+#

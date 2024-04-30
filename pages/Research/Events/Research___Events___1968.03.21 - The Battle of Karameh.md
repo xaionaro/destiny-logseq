@@ -1,0 +1,67 @@
+- # Sources
+  - 1. “[Battle of Karameh](https://en.m.wikipedia.org/wiki/Battle_of_karameh)” Wikipedia. Accessed April 26th, 2024.
+- # Belligerents
+  - 1. [[Israel]]
+    - 1. Notable Leaders
+      - 1. Prime Minister [[Levi Eshkol]]
+      - 2. Minister of Defense [[Moshe Dayan]]
+    - 2. 15,000 troops, 47 tanks
+  ______
+  - 1. [[Jordan]]
+    - 1. Notable Leaders
+      - 1. King [[Hussein]]
+    - 2. 2nd armored division, 10 artillery batteries, 4 brigades, 1 Patton tank battalion
+  - 2. [[Palestine Liberation Organization]]
+    - 1. Notable Leaders
+      - 1. [[Yasser Arafat]]
+    - 2. 900 - 1,000 guerrillas
+  - ## Casualties and losses
+    - 1. Israel
+      - 1. 28 - 33 dead
+      - 2. 69 - 161 wounded
+      - 3. 27 tanks damaged, 4 abandoned
+      - 4. 2 APCs
+      - 5. 2 vehicles
+      - 6. 1 aircraft
+    ______
+    - 1. Jordan
+      - 1. 40 - 84 dead
+      - 2. 108 - 250 wounded
+      - 3. 4 captured
+      - 4. 28 tanks damaged, 2 captured
+    - 2. PLO
+      - 1. 156 dead
+      - 2. ~100 wounded
+      - 3. 141 captured
+    - 175 buildings destroyed
+- # Location
+  - The East Bank of the Jordan River, near the Allenby Bridge.
+- # Causes
+  - Before the Six-Day War, Palestinian groups would attack Israeli targets from both the West Bank and Jordan.
+  - In early 1968, Fatah guerrillas would raid Israeli bases. These were mostly blocked by the IDF, but sometimes the JAF artillery would give Fatah squads covering fire, leading to frequent direct skirmishes between the IDF and the Jordanian Army.
+  - On February 14th-15th, Jordanian mortars hit several Israeli settlements in the Beit Shean Valley and the Jordan Valley. Israeli artillery and air forces retaliated, causing thousands of Jordanian farmers to flee eastward, being replaced by fedayeen coming west. King Hussein declared he would prevent these groups from using Jordan as a base for attack.
+  - In February, King Hussein sent 20 carloads of troops to Karameh, but they were turned back by Fatah fighters.
+  - By March, several hundred civilians and 900 guerrillas, along with Yasser Arafat, lived in the camp.
+  - Initially the attack on the camp was not getting approved. Moshe Dayan warned that a bus may strike a mine, and on March 18th, one did. The next day, an operation was scheduled.
+    - 2 adults were killed and 10 children were wounded by a mine near Be’er Ora in the Arava.
+    - This was the 38th Fatah operation in about 3 months.
+  - The IAF dropped leaflets telling the Jordanian army that Israel did not want to fight, but the leaflets went unheeded.
+  - The fedayeen had been warned in advance by Egyptian intelligence, and most of the 2,000 Arab commandos living Karameh went into the surrounding hills to snipe.
+- # Events
+  - 15 hour military engagement between the IDF and the PLO/JAF (Palestine Liberation Organization, and the Jordanian Armed Forces)
+  - Fedayeen moved bases into Jordan and stepped up attacks on Israel/the West Bank after the Six Day War.
+  - Israel wanted to capture Arafat and destroy the border town of Karameh. They also wanted to punish Jordan for their perceived support to the fedayeen.
+- # Outcome
+  - Israel retreated after the JAF returned artillery fire on the invading IDF forces; most of the camp was destroyed and 140 PLO members were captured.
+  - Israel claimed victory for destroying the camp, but the PLO and Jordan claimed victory for killing 3 IDF soldiers and damaging several Israeli vehicles/tanks.
+  - This engagement marked the first known deployment of suicide bombers by Palestinian fighters.
+  - The UNSC issued Resolution 248, condemning Israel for violating the cease-fire line and its disproportionate use of force.
+  - King Hussein initially supported and  allowed the PLO to take credit for the military operation, but the growth of their strength caused them to speak openly of overthrowing the Hashemite monarchy.
+  - Fatah reported that 5,000 volunteers applied to join within 48 hours of the battle.
+    - By late March, there were nearly 20,000 fedayeen in Jordan.
+  - Iraq and Syria offered raining programs for several thousand guerrillas.
+  - The Gulf states, led by Kuwait, raised money for them through a 5% tax on Palestinian resident workers, and a fund drive in Lebanon raised $500,000 from Beirut alone.
+  - Within a year of the battle, Fatah had branches in about 80 countries.
+  - This battle and the subsequent increase in the PLO’s strength is a major catalyst for [[1970.10.01-1971.07.23 - Black September, or the Jordanian Civil War|The Jordanian Civil War]].
+- # Important Notes
+#

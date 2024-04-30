@@ -1,0 +1,18 @@
+- # Sources
+  - 1. “[Peel Commission](https://en.wikipedia.org/wiki/Peel_Commission)” Wikipedia. Accessed April 26th, 2024.
+  - 2. ”[Text of the Peel Commission Report](https://www.jewishvirtuallibrary.org/text-of-the-peel-commission-report)”The Jewish Virtual Library. Accessed April 26th, 2024.
+- # Parties
+  - 1. The United Kingdom
+    - 1. British Royal Commission of Inquiry headed by [[Research/People/Earl Peel|Lord Peel]].
+- # Location
+  - Concerning Mandatory Palestine
+- # Causes
+  - Appointed by the UK government, this was a British Royal Commission of Inquiry headed by [[Earl Peel 1|Lord Peel]], who’s job was to investigate the conflict in Mandatory Palestine following the six-month-long Arab general strike.
+- # Facts
+  - The Commission explored what was happening in Mandatory Palestine and found that Arabs and Jews were bitterly divided over what to do with the land.
+  - Though Arabs benefited from the increase in Jewish productivity in the land, this has no positive impact on the two groups working together.
+  - This was the first time partition was formally recommended.
+- # Outcome
+  - In 1938 the [[Woodhead Commission]] was appointed to examine the report in detail to recommend an actual partition plan.
+- # Important Notes
+#

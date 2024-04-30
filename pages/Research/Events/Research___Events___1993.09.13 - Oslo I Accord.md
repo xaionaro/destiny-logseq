@@ -1,0 +1,33 @@
+- # Sources
+  - 1. ”[Oslo Accords](https://en.m.wikipedia.org/wiki/Oslo_Accords)” Wikipedia. Accessed April 27th, 2024.
+  - 2. ”[Arafat’s Johannesburg Speech](https://iris.org.il/arafats-johannesburg-speech/)” Information Regarding Israel’s Security. Accessed April 27th, 2024.
+- # Parties
+  
+  | **Bilateral negotations** | —                                                                             |
+  | ------------------------- | ----------------------------------------------------------------------------- |
+  | Purpose                   | Israeli-Palestinian peace negotiations                                        |
+  | Date                      | September 13th, 1993                                                          |
+  | Location                  | Washington, D.C. [[United States]] (Oslo I)                                   |
+  | Signatories               | [[Yitzhak Rabin]], [[Yasser Arafat]                                           |
+  | Parties                   | [[Israel]], [[Palestine Liberation Organization\|PLO]], [[Norway]] (mediator) |
+  
+  - # Location
+  - Negotiations occurred in secret in Oslo, Norway, with the first agreements being signed in Washington D.C., concerning Israel and Palestine.
+- # Causes
+- # Facts
+  - Israel and the PLO reached a mutual peaceful agreement
+    - This called for the withdrawal of the IDF from parts of the Gaza Strip and the West Bank
+    - Remaining issues needed to be settled, including Jerusalem, Palestinian refugees, Israeli settlements, security and borders.
+    - Letters of Mutual Recognition between the Israeli Government and the PLO were signed.
+      - Israel recognized the PLO as the governing body of the Palestinians, the PLO renounced terrorism and other violence and its desire for the destruction of the state of Israel.
+- # Outcome
+  - Reactions
+    - In the Knesset a strong debate emerged between the left and right wing over support for the Oslo accords.
+    - Fatah, the Palestinians present at the negotiations, accepted the accords, but Hamas, Palestinian Islamic Jihad, and the Popular Front for the Liberation of Palestine (PFLP), all objected to the accords.
+    - Israelis were nervous that this peace process would simply be a part of the PLO's Ten Point Program, which essentially calls for escalating steps until all of historic Palestine is liberated from Israel.
+    - Palestinians feared that Israel was not serious about dismantling their settlements in the West Bank, especially around Jerusalem.
+    - The Nobel Peace Prize was awarded to Israeli Prime Minister Yitzhak Rabin, Israeli Foreign Minister Shimon Peres, and PLO Chairman Yasser Arafat.
+    - Netanyahu, in a secret recording, claims that his plan was to define "specified military locations" in the broadest possible sense according to the Oslo Accords, which could theoretically encompass the entirety of the Jordan Valley.
+- # Important Notes
+  
+  #

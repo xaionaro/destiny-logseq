@@ -1,0 +1,68 @@
+- # Sources
+  - 1. ”[War of Attrition](https://en.m.wikipedia.org/wiki/War_of_Attrition)” Wikipedia. Accessed April 26th, 2024.
+- # Belligerents
+  - 1. [[Israel]]
+    - 1. Notable Leaders
+      - 1. [[Levi Eshkol]]
+      - 2. [[Ariel Sharon]]
+    - 2. 275,000 troops (including reserves)
+  ______
+  - 1. [[Egypt]]
+    - 1. Notable Leaders
+      - 1. [[Gamal Abdel Nasser]]
+      - 2. [[Anwar Sadat]]
+    - 2. 200,000 troops
+  - 2. [[Soviet Union]]
+    - 1. 10,700 - 15,000 troops
+  - 3. [[Kuwait]]
+  - 4. [[Palestine Liberation Organization]]
+    - 1. Notable Leaders
+      - 1. [[Yasser Arafat]]
+    - 2. 900 - 1,000 troops
+  - 5. [[Jordan]]
+    - 1. 15,000 troops
+  - 6. [[Syria]]
+  - 7. [[Cuba]]
+  - ## Casualties and losses
+    - 1. Israel
+      - 1. 694 - 1,424 soldiers killed
+      - 2. 227 civilians killed
+      - 3. 2,659 wounded, 999 of which were at the Egyptian front
+      - 4. 24-30 aircraft
+    ______
+    - 1. Egypt
+      - 1. 2,882 - 10,000 soldiers and civilians killed
+      - 2. 6,285 wounded
+      - 3. 60 - 114 aircraft lost
+    - 2. Palestine Liberation Operation
+      - 1. 1,828 killed
+      - 2. 2,500 captured
+    - 3. Jordan
+      - 1. 300 killed
+      - 2. 4 captured
+      - 3. 30 tanks lost
+    - 4. Soviet Union
+      - 1. 58+ dead
+      - 2. 5 aircraft
+    - 5. Cuba
+      - 1. 180 dead
+      - 2. 250 wounded
+    - 6. Syria
+      - 1. 500 killed
+- # Location
+- # Causes
+- # Events
+  - Ongoing border conflict between Israel and Egypt, Jordan and the PLO and their allies.
+    - No territorial changes during this time.
+    - In 1968 the PLO deploys suicide bombers for the first time.
+    - Israel engaged in an air battle, Rimon 20, to directly target Soviet fighter pilots to drive the USSR from the conflict.
+    - In August of 1970, Israel, Jordan and Egypt agreed to an "in place" ceasefire under the Rogers Plan, though Egyptians and Soviet allies violated the agreement shortly thereafter.
+  - Battle of Karameh
+    - 1968 Battle of Karameh involved IDF forces crossing into Jordan to attack Karameh and the village of Safi, purportedly to eliminate PLO forces and fedayeen camps staging attacks against Israel, and to capture Yasser Arafat, including a school bus full of children running into a mine.
+    - Israel dropped leaflets to warn the Jordanian army not to intervene, but Jordan decided to assist the PLO regardless.
+    - In the aftermath, though Israel had achieved its tactical aims, they came at international political cost, with the US condemning Israel's actions.
+    - Nearly 20,000 fedayeen in Jordan due to surging recruits after the psychological victory over the IDF.
+    - Iraq and Syria offered training programs for several thousand guerillas, the Persian Gulf States and Kuwait raised money through taxes on Palestinian workers, and a fund drive in Lebanon raised $500,000 from Beirut alone. The PLO began to guarantee a lifetime support for the families of guerillas killed in action. Fatah had branches in about 80 countries after the conflict.
+- # Outcome
+- # Important Notes
+#

@@ -1,0 +1,42 @@
+- # Sources
+  - 1. ”[Jewish insurgency in Mandatory Palestine](https://en.wikipedia.org/wiki/Jewish_insurgency_in_Mandatory_Palestine)” Wikipedia. Accessed April 26th, 2024.
+- # Belligerents
+  - 1. [[United Kingdom]]
+    - 1. British Army, Navy, Air Force and Marines
+      - 1. 100,000 troops (peak strength)
+    - 2. Palestine Police Force
+      - 1. 4,000 policemen
+  _______
+  - 1. [[Jewish National Council]]
+    - 1. [[Haganah]]
+      - 1. 21,000 troops
+      - 2. [[Palmach]]
+        - 1. 3,000 troops
+    - 2. [[Irgun]]
+      - 1. Notable Leaders
+        - 1. [[Menachem Begin]]
+      - 2. 4,000 troops
+    - 3. [[Lehi]]
+      - 1. Notable Leaders
+        - 2. [[Yitzhak Shamir]]
+      - 2. 500 troops
+  - ## Casualties and losses
+    - 1. United Kingdom
+      - 1. 141 deaths
+      - 2. 475 wounded
+    ______
+    - 1. Jewish National Council
+      - 1. 55+ killed
+      - 2. 7 executed
+      - 3. 2 committed suicide
+- # Location
+  - Mandatory Palestine
+- # Causes
+  - Insurgent activities in the area were in response to the proposed [[White Paper of 1939]].
+- # Events
+  - The Haganah, Irgun, Lehi all joined together to form the Jewish Resistance Movement.
+  - On the 22nd of July, 1946, the Irgun bombed the King David Hotel in Jerusalem, leading to the deaths of 91 people of various nationalities. This hotel was the headquarters for Mandatory Palestine.
+    - Was the deadliest attack against the British during the entire Mandate era (1920-1948)
+- # Outcome
+- # Important Notes
+#
