@@ -3,8 +3,8 @@
 - # Belligerents
   - 1. [[Israel]]
     - 1. Notable Leaders
-      - 1. Prime Minister [[Golda Meir]]
-      - 2. Minister of Defense [[Moshe Dayan]]
+      - 1. Prime Minister - [[Golda Meir]]
+      - 2. Minister of Defense - [[Moshe Dayan]]
     - 2. 375,000 - 415,000 troops
     - 3. 1,700 tanks
     - 4. 3,000 APCs

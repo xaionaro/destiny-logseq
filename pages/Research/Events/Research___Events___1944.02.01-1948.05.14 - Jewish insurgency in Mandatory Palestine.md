@@ -30,7 +30,7 @@
       - 2. 7 executed
       - 3. 2 committed suicide
 - # Location
-  - Mandatory Palestine
+  - [[Mandate for Palestine|Mandatory Palestine]]
 - # Causes
   - Insurgent activities in the area were in response to the proposed [[White Paper of 1939]].
 - # Events

@@ -2,45 +2,71 @@
   - 1. “[Six-Day War](https://en.m.wikipedia.org/wiki/Six_day_war)” Wikipedia. Accessed April 26th, 2024.
   - 2. Lozowick, Yaacov. “[The Secret Transcripts of the Six-Day War, Part I](https://www.tabletmag.com/sections/israel-middle-east/articles/secret-transcripts-six-day-war-1)”. Tabletmag. May 17th, 2017.
   - 3. Lozowick, Yaacov. “[Israeli Security Cabinet Secret Transcripts Part II, The Accidental Occupation](https://www.tabletmag.com/sections/israel-middle-east/articles/israeli-security-cabinet-secret-transcripts-part-2)”. Tabletmag. June 7th, 2017.
+  - 4. Ben-Ami, Shlomo. *Scars of War, Wounds of Peace: The Israeli-Arab Tragedy*. Cary: Oxford University Press USA - OSO, 2007.
 - # Belligerents
-  - 1. Country 1 or Major Faction 1
-    - 1. Division of Country 1’s Forces
-      - 1. Notable Leaders
-      - 2. Strength
-        - 1. Numbers
-  - 2. Country 2 or Major Faction 2
-    - 1. Division of Country 2’s Forces
-      - 1. Notable Leaders
-      - 2. Strength
-        - 1. Numbers
-  - Involved Forces
-    - Egypt amassing 100,000 troops in the Sinai.
-    - Syria deploying 75,000 along their border with Israel.
-    - Jordanian Armed Forces totaled 55,000 troops.
-    - 100 Iraqi tanks and an infantry division readied near the Jordanian border, along with two squadrons of Iraqi fighter-aircraft.
-    - Saudi Arabia mobilized a few forces for deployment to the Jordanian front.
-    - Arab air forces were also reinforced by aircraft from Libya, Algeria, Morocco, Kuwait and Saudi Arabia to make up for the first day losses of the war. Volunteer pilots also came from the Pakistan Air Force.
+  - 1. [[Israel]]
+    - 1. Notable Leaders
+      - 1. Prime Minster - [[Levi Eshkol]]
+      - 2. Defense Minster - [[Moshe Dayan]]
+      - 3. Chie of Staff - [[Yitzhak Rabin]]
+    - 2. 264,000 soldiers
+    - 3. 250-300 combat aircraft
+    - 4. 800 tanks
+  _____
+  - 1. [[Egypt]] (still known then as the [[United Arab Republic]])
+    - 1. Notable Leaders
+      - 1. President - [[Gamal Abdel Nasser]]
+    - 2. 160,000 total troops
+    - 3. 100,000 deployed
+    - 4. 420 aircraft
+    - 5. 900-950 tanks
+  - 2. [[Syria]]
+    - 1. Notable Leaders
+      - 1. President - [[Nureddin al-Atassi]]
+      - 2. General - [[Hafez al-Assad]]
+    - 2. 75,000 troops
+  - 3. [[Jordan]]
+    - 1. Notable Leaders
+      - 1. King - [[Hussein]]
+    - 2. 55,000 total troops
+    - 3. 45,000 deployed
+    - 4. 270 tanks
+  - 4. [[Iraq]]
+    - 1. Notable Leaders
+      - 1. President - [[Abdul Rahman Arif]]
+    - 2. 100 tanks
+  - 5. [[Lebanon]]
+    - 1. 2 combat aircraft
+  - 6. [[Pakistan]]
+    - 1. Helped to reinforce with volunteer pilots from the Pakistan Air Force
+  - 7. [[Libya]], [[Algeria]], [[Morocco]], [[Kuwait]], [[Saudi Arabia]]
+    - 1. Sent aircraft to reinforce losses for the first days of the war.
   - ## Casualties and losses
-    - 1. Casualties
-      - 1. Country or Major Faction 1
-        - 1. Deaths
-          - 1. Numbers
-        - 2. Wounded
-          - 1. Numbers
-        - 3. Imprisoned
-          - 1. Numbers
-      - 2. Country or Major Faction 2
-        - 1. Deaths
-          - 1. Numbers
-        - 2. Wounded
-          - 1. Numbers
-        - 3. Imprisoned
-          - 1. Numbers
-    - Military: 20,000 Arab deaths vs 1,000 Israeli deaths Civilian: 20 Israeli Civilians killed in Arab forces air strikes on Jerusalem, 15 UN peacekeepers killed by Israeli strikes in the Sinai, and 34 US personnel killed in the USS *Liberty* incident.
-    - Casualties - ~850 Israelis killed, 4,500 wounded. 10k-15k Egyptians killed, 4,300 capture. 700 Jordanian soldiers killed, 2,500 wounded. Syrians lost between 1k-2.5k, and about 450 captured.
+    - 1. Israel
+      - 1. 776-983 killed
+      - 2. 4,517 wounded
+      - 3. 15 captured
+      - 4. 400 tanks destroyed
+      - 5. 46 aircraft destroyed
+      - 6. 1,000+ civilians injured in Jerusalem
+    _____
+    - 1. Egypt
+      - 1. 9,800 - 15,000 killed or missing
+      - 2. 4,338 captured
+    - 2. Syria
+      - 1. 1,000 - 2,500 killed
+      - 2. 367 - 591 captured
+    - 3. Jordan
+      - 1. 696 - 700 killed
+      - 2. 2,500 wounded
+      - 3. 533 captured
+    - 4. Lebanon
+      - 1. 1 aircraft lost
+    In general, hundreds of tanks and 450+ aircraft were destroyed.
     
-    - # Location
-    - Israel, and all of the formally Mandatory Palestinian area, plus the Sinai Peninsula in Egypt and the Golan Heights in Syria.
+    Also, 15 UN peacekeepers were killed, and 34 US troops killed in the [[1967.06.08 - USS Liberty Incident]].  17 Soviet Marines were allegedly killed, and 413,000 additional Palestinians were displaced.
+- # Location
+  - [[Israel]], and all of the formally [[Mandate for Palestine|Mandatory Palestinian area]], plus the [[Sinai Peninsula]] in [[Egypt]] and the [[Golan Heights]] in [[Syria]].
 - # Causes
   - Summary
     - May 1967, Nasser mobilizes Egyptian military into defensive lines along the Israeli border and closes the shipping lanes through the Straits of Tiran to Israeli vessels, despite Israel warning this would be a *casus belli*. Nasser also orders the removal of all UNEF personnel.
@@ -54,6 +80,21 @@
       - Statements made by Nasser leading up to the war
         - “The armies of Egypt, Jordan, Syria and Lebanon are poised on the borders of Israel to face the challenge, while standing behind us are the armies of Iraq, Algeria, Kuwait, Sudan and the whole Arab nation. This act will astound the world. Today they will know that the Arabs are arranged for battle, the critical hour has arrived. We have reached the stage of serious action and not of more declarations.” Gamal Abdel Nasser May 30th 1967
         - Nasser May 26 "The Arab people wants to fight. We have been waiting for the right time when we will be completely ready. Recently we have felt that our strength has been sufficient and that if we make battle with Israel we shall be able, with the help of God, to conquer Sharm el-Sheikh implies a confrontation with Israel. Taking this step makes it imperative that we be ready to undertake a total war with Israel." 
+  
+  >[!quote]- Ben-Ami, Shlomo. *Scars of War, Wounds of Peace: The Israeli-Arab Tragedy*. (p. 93)
+  >Lack of superpower guarantees, an almost apocalyptic fear of physical annihilation, the threat of a Nasserite Middle East bent on the destruction of Israel, a fatalistic pessimism as to the chances that the Arab world would ever reconcile itself to the existence of a Jewish state in its midst and the ever-present Holocaust complex, was the context for Ben-Gurion’s quest for a credible nuclear option. The nuclear option could also be seen as a protest against, or an alternative to, America’s reluctance to accord solid and unequivocal conventional guarantees to Israel’s existence and incorporate it into an organic regional alliance. Indeed, there were those in the Israeli political system who wanted to use the Dimona nuclear reactor as a way of pressuring America into securing Israel’s conventional capabilities.
+  
+  >[!quote]- Ben-Ami, Shlomo. *Scars of War, Wounds of Peace: The Israeli-Arab Tragedy*. (p. 94)
+  >Ben-Gurion oscillated frantically from a strategy of deterrence to the politics of hysteria. He bombarded world leaders with dramatic appeals for an international commitment to the independence and territorial integrity of all the states in the Middle East. Whatever territorial dreams he might have harboured in the past, he was now a keen champion of the status quo. To him, the territorial phase of Zionism was over and the safety of Israel within the borders of 1949 was his exclusive concern. Only the full demilitarisation of the West Bank and a formal defence treaty with America could set his mind at rest.
+  
+  >[!quote]- Ben-Ami, Shlomo. *Scars of War, Wounds of Peace: The Israeli-Arab Tragedy*. (p. 98)
+  >King Hussein’s predicament proved to be even more serious than that of Nasser. In his case it was the very existence of his kingdom that was at stake. He did not want to be dragged into war, but was too weak to resist the tide. As much as the supposed threat posed by Israel, it was actually the pressure of Fatah and the PLO that put in jeopardy the stability of the Hashemite kingdom. For the PLO, liberating Palestine also meant overthrowing the Hashemites’ ‘colonialist rule’. The King harboured no illusions as to the ultimate rationale of the PLO’s presence in Jordan, namely, as he explicitly wrote to Nasser, ‘the destruction of Jordan’.
+  
+  >[!quote]- Ben-Ami, Shlomo. *Scars of War, Wounds of Peace: The Israeli-Arab Tragedy*. (p. 100)
+  >And when retaliations and verbal threats failed to deter the Syrians, Rabin made it clear that his intention was to provoke the Syrians into an all-out war. In December 1966 he wrote to General Zvi Zamir, Israel’s military attaché in London: ‘an escalation with Syria is not against Israel’s interest, and in my view there is no better time than now for a confrontation with Syria. I prefer to go to war rather than allow this continuous harassment, especially if the Syrians persist in their efforts to facilitate the activity of Fatah on our border.’
+  
+  >[!quote]- Ben-Ami, Shlomo. *Scars of War, Wounds of Peace: The Israeli-Arab Tragedy*. (p. 104)
+  >Nor was the restless General spared Ben-Gurion’s ire. From his seclusion in the Negev desert, the Old Man had been following the evolving crisis with awe. Precisely because he shared the military’s assessment that the closure of the Straits threatened to vitiate all the achievements of the Sinai Campaign and could soon turn into a question of ‘national survival’–this was Rabin’s expression–Ben-Gurion saw all his old fears coming true: Israel was now surrounded by an all-Arab coalition aggressively supported by the Soviet Union, without being able to rely on an alliance with, or security guarantees from, a Western superpower.
 - # Events
   - Noteworthy Battle Things
     - Surprise attack on Egyptian airfield guaranteed all but certain victory in the Sinai for Israel.

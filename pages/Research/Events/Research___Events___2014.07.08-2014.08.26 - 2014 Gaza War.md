@@ -1,5 +1,6 @@
 - # Sources
   - Main Source - Wikipedia Entry - [2014 Gaza War](https://en.wikipedia.org/wiki/2014_Gaza_War)
+  - _BBC News_. 2014. “[Caution Needed with Gaza Casualty Figures](https://www.bbc.com/news/world-middle-east-28688179),” August 8, 2014, sec. Middle East.
   - ## Background
     - Hamas became the government of the Gaza Strip as of 2007.
     - Israel placed a blockade on the Gaza Strip after the takeover of Hamas.
@@ -60,6 +61,7 @@
         - About 2,200 Palestinians were killed.
           - Hamas reported that about 75% of these were civilians.
           - The IDF claims that about 49% were militants.
+        - It's worth nothing that it's difficult to know exactly how many civilians vs militants were killed, though it would appear that the large number of fighting-aged men that were killed [heavily implies](https://www.bbc.com/news/world-middle-east-28688179) a large number of them were militants.
       - #### Israeli
         - 67 soldiers were killed.
   - ## Reactions

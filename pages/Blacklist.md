@@ -59,4 +59,6 @@ Unhinged.
   - Right leaning
     - The Federalist
       - [Blatant lies about what was included in the January 6th Select Committee report.](https://thefederalist.com/2024/03/08/exclusive-liz-cheney-january-6-committee-suppressed-exonerating-evidence-of-trumps-push-for-national-guard/)
+    - Forensic Architecture
+      - [Referring to the IDF as the IOF](https://twitter.com/ForensicArchi/status/1715422493274427414)
 #

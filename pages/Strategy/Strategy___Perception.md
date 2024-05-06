@@ -12,4 +12,5 @@
     - Hasan, Vaush, etc...saying things about me, or friendly sources like Erudite, Pisco, etc...
   - "Curated" content of me put out by other people
     - X clips (especially groypers), TikTok stitches, small YT videos, etc...can be good or bad
+HOW TO DEAL WITH NEGATIVE STUFF WHEN OTHER POEPLE ARE ENGAGING IN PROPAGANDA? + amplifying things from other communities and stuff
 #

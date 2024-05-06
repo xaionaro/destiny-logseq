@@ -6,13 +6,15 @@ Ben-Ami, Shlomo
 
 Citation (APA): Ben-Ami, S. (2006). _Scars of War, Wounds of Peace: The Israeli-Arab Tragedy_ [Kindle iOS version]. Retrieved from Amazon.com
 
+Citation (Chicago): Ben-Ami, Shlomo. *Scars of War, Wounds of Peace: The Israeli-Arab Tragedy*. Cary: Oxford University Press USA - OSO, 2007.
+
 ---
 
 I Prelude: The Birth of an Intractable Conflict
 
 Highlight(orange) - Page 10 · Location 291
 
-Nor were the restrictions on land acquisition an obstacle the Zionists could not overcome. Throughout, the Arabs’ incompetent leadership, their lack of purpose and national cohesion, proved to be a major ally of the Zionist enterprise. White Papers notwithstanding, Arab landowners ready to sell land to the Jews and to betray their own national cause were never in short supply. As no other than King Abdullah of Transjordan observed in his memoirs, ‘The Arabs are as prodigal in selling their land as they are in … weeping [about it].’
+Nor were the restrictions on land acquisition an obstacle the Zionists could not overcome. Throughout, the Arabs’ incompetent leadership, their lack of purpose and national cohesion, proved to be a major ally of the Zionist enterprise. White Papers notwithstanding, Arab landowners ready to sell land to the Jews and to betray their own national cause were never in short supply. As no other than King Abdullah of Transjordan observed in his memoirs, ‘The Arabs are as prodigal in selling their land as they are in … weeping \[about it\].’
 
 Highlight(orange) - Page 20 · Location 507
 
@@ -86,7 +88,7 @@ And it was only when this euphemism was embedded in the language of a UN Securit
 
 Highlight(pink) - Page 129 · Location 2585
 
-Neither of the parties to the conflict was especially happy with Resolution 242’ s oblique and foggy formulas, least of all the Palestinians, whose problem was reduced in the Resolution to that of the humanitarian plight of refugees. The PLO’s outright rejection of 242 was an additional manifestation by the Palestinians that their struggle would from now on be independent of the Arabs’ diplomatic strategy. The Palestinians were about to disengage from the status of a tool in the hands of the Arab states to that of an independent subject in the history of the Middle East. As from the Palestinian débâcle of 1936–9 and later the 1948 Naqbah, the Palestinians had lost their independence as a national movement. They disappeared from the regional arena as autonomous players. The 1967 war, the defeat of the Arab armies with their consequent loss of a credible military option in the foreseeable future, and the relegation by Resolution 242 of the Palestinian problem to the margins of peacemaking in the region, signalled the beginning of a new phase in the history of Palestinian nationalism.
+Neither of the parties to the conflict was especially happy with Resolution 242’s oblique and foggy formulas, least of all the Palestinians, whose problem was reduced in the Resolution to that of the humanitarian plight of refugees. The PLO’s outright rejection of 242 was an additional manifestation by the Palestinians that their struggle would from now on be independent of the Arabs’ diplomatic strategy. The Palestinians were about to disengage from the status of a tool in the hands of the Arab states to that of an independent subject in the history of the Middle East. As from the Palestinian débâcle of 1936–9 and later the 1948 Naqbah, the Palestinians had lost their independence as a national movement. They disappeared from the regional arena as autonomous players. The 1967 war, the defeat of the Arab armies with their consequent loss of a credible military option in the foreseeable future, and the relegation by Resolution 242 of the Palestinian problem to the margins of peacemaking in the region, signalled the beginning of a new phase in the history of Palestinian nationalism.
 
 VII Begin’s ‘Capsule Theory’ and Sadat’s ‘Separate Peace’
 
@@ -99,6 +101,8 @@ Highlight(orange) - Page 155 · Location 3107
 Sadat did not believe that a Soviet–American co-sponsorship of the peace process would bear the political fruits he wanted. He could see his fears vindicated already in a joint declaration of the superpowers that, to his dismay, endorsed the Israeli interpretation of Security Council Resolution 242 when it spoke of ‘withdrawal of Israeli armed forces from territories occupied in 1967’. And as to Begin, he was not yet ready to digest the concept of ‘the legitimate rights of the Palestinian people’, one of the central premises upon which the Geneva Conference was to be convened.
 
 Highlight(pink) - Page 158 · Location 3170
+
+________
 
 One lesson and legacy of Sadat’s initiative is that in highly protracted conflicts where deep emotions and historical hatred are involved, when almost every conceivable diplomatic formula has been tried, the shock of a visionary, generous and imaginative step is likely to open new and untold paths to peace. For the major problem in the Arab–Israeli conflict, as in many other intricate collisions throughout history, has always been the incapacity or unwillingness of leaders to conduct a peace policy that is not supported by what looked at the time like the legitimate, and frequently paralysing, consensus prevailing in their respective societies and polities. Leaders, more frequently than not, act as the hostages of the socio-political environment that produces them instead of shaping it. Anwar Sadat gained a privileged place in history and achieved immortality the moment he fled from the comfortable prison of inertia, and from the pseudo-solidarity and hollow rhetorical cohesion of Arab summits.
 

@@ -8,36 +8,16 @@ donalold trump telling people to leave the border fucked lmao https://twitter.co
 
 
 - PUT TOGETHER A LIST OF POWERFUL TALKING POINTS/QUESTIONS FOR ELECTION
-
-
-
-___________________
-- 1. Obama drone striking American Citizens in other countries.
-- 3. Bush lying to the American Public to go to war in Iraq.
-- 4. Joe Biden inviting illegal immigrants to come to the country.
-
-
-
-- 5. Personally invested in things of "voter fraud"
-- 6. Personally invested in things relating to Zelensky/op-ed research.
-
-
-
-- ENDOWMENTS FOR STUDIES
-- WEAPONS RESEARCH
-- ISRAELI COUNTER-PROTESTORS/COPS PROTECTING "BAD GUYS"
-- 1. why is the conflict happening?
-- history didn't start on october 7th, or 1949
-- religious text as justification for property rights
-- end of british mandate palestine has been worsening for palestinian people on their ancestral land
-- 10 generations = a thousand years
-- 2. What if Jews lived there prior?
-- Yeah that might matter 
-- apartheigh regime
-- genocide
-- radicalized settler violence
-- us economy has been built on international arms dealing
-- israel was fully funded by the US/west
-
-
+__________
+memorize arafat stories
+population of arabs in Jerusalem
+how many palestinians have died in Israeli jails
+SECOND INTIFADA ATTACKS MEMORIZE
+Arab Peace initiative 2002
+  - refers to resolution 194
+MLK QUOTE ABOUT UNEASY PEACE
+__________________________
+- "morally wrong"
+- "world would be better if everyone acted in a way that supported xyz ethical principles"
+- "you're trying to effect outcomes"
 #

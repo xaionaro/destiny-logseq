@@ -1,5 +1,6 @@
 - # Sources
   - 1. ”[1936–1939 Arab revolt in Palestine](https://en.wikipedia.org/wiki/1936%E2%80%931939_Arab_revolt_in_Palestine)“ Wikipedia. Accessed April 26th, 2024.
+  - 2. Ben-Ami, Shlomo. *Scars of War, Wounds of Peace: The Israeli-Arab Tragedy*. Cary: Oxford University Press USA - OSO, 2007.
 - # Belligerents
   - 1. [[United Kingdom]]
     - 1. British Army
@@ -45,12 +46,14 @@
       - 5. 5 exiled
     
     - # Location
-    - In Mandatory Palestine
+    - [[Mandate for Palestine|Mandatory Palestine]]
 - # Causes
   - Popular uprising by Palestinian Arabs in Mandatory Palestine against British mandate due to increasing flow of Jewish immigrants.
   - Sparked by back and forth killings of two Jews by a Qassamite band, followed by the retaliatory killing of two Arab workers.
 - # Events
   - First part of movement was seized upon by the urban and elitist Arab Higher Committee, which made the revolt focus on strikes and other political forms of protest.
+  >[!quote]- Ben-Ami, Shlomo. *Scars of War, Wounds of Peace: The Israeli-Arab Tragedy*. (p. 20)
+  >The war for Palestine in 1948 was lost by the Arab community ten years before it even began. The Arab Revolt had, of course, an understandable rationale behind it, namely, to force Britain to reverse her policies in favour of the National Home for the Jews, stop immigration and curtail the land acquisition by the Zionists. But the method and the evolution of the Revolt reflected rage and blind despair more than organisation or careful strategy. The result would be a resounding defeat for the Palestinian Arabs that would bring them to the ultimate débâcle of 1948 in a state of fatalistic disarray. The years between the Arab Revolt and the Naqbah of 1948 witnessed the dismemberment of the Palestinian community and the loss of their political autonomy to the extent that when they had to face the challenge of partition and war in 1947–8, they were no longer the masters of their own destiny. By then their cause would be usurped by the neighbouring Arab states. It was not until the emergence of the Fatah movement and Yasser Arafat’s PLO in the mid 1960s that the Palestinians recovered the control of their own cause.
   - Second phase in 1937 lead to violent conflict between British Army and Palestine Police Force against the peasant-led resistance movement.
 - # Outcome
   - Walid Khalidi estimates 19,792 casualties for the Arabs, with 5,032 dead, 3,832 killed by the British and 1,200 dead due to intracommunal terrorism, and 14,760 wounded. Several hundred Palestinian Jews were killed.
