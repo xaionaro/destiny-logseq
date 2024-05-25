@@ -26,7 +26,7 @@
 - # Location
   - [[Gaza Strip]] 
 - # Causes
-  - This conflict was instigated by the [[2024.10.07 - October 7th Hamas Attack]].
+  - This conflict was instigated by the [[2023.10.07 - October 7th Hamas Attack]].
 - # Events
   - Prime Minister Netanyahu made the first official statement at 11:35 AM (GMT+3) on Twitter, declaring Israel to be at war.
   - ## Major Contention Events
@@ -118,6 +118,11 @@
       https://twitter.com/GeoConfirmed/status/1784735589364859140
     - ### The Drone strike of the 4 walking men.
     - ### "Flour massacre"
+    - ### ICC Arrest Warrants
+      - ICC Prosecutor Karim A.A. Khan KC on May 20th, 2024, [issued a statement](https://www.icc-cpi.int/news/statement-icc-prosecutor-karim-aa-khan-kc-applications-arrest-warrants-situation-state) that he had filed applications for arrest warrants for Yahya Sinwar, Mohammed Diab Ibrahim and Ismail Haniyeh, as well as Benjamin Netanyahu and Yoav Gallant for breaches of the Rome Statute committed on and after October 7th, 2023.
+        - Karim gave [a 30 minute interview](https://www.youtube.com/watch?v=6BquEw4kNNE&list=RDNS6BquEw4kNNE&start_radio=1) adding more context around the warrant request.
+      - The United States Secretary of State [[Antony Blinken]] [published a response](https://www.state.gov/warrant-applications-by-the-international-criminal-court/) rejecting the application for arrest warrants, calling into question the speed at which the prosecutor moved to request charges against Israeli leadership.
+        - Antony Blinken and U.S. Senator [[Lindsey Graham]] both [claimed](https://x.com/LindseyGrahamSC/status/1792535545249165506) that the ICC blind-sided Israel with the request for arrest warrants on the same day they were supposed to be arranging a visit for the prosecutor to visit and discuss charges with Israel.
 - # Outcome
 - # Important Notes
 #

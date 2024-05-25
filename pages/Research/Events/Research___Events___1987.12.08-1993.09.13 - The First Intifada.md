@@ -1,5 +1,6 @@
 - # Sources
   - 1. ”[First Intifada](https://en.m.wikipedia.org/wiki/First_Intifada)” Wikipedia. Accessed April 27th, 2024.
+  - 2. Ben-Ami, Shlomo. *Scars of War, Wounds of Peace: The Israeli-Arab Tragedy*. Cary: Oxford University Press USA - OSO, 2007.
 - # Belligerents
   - 1. [[Israel]]
     - 1. Notable Leaders
@@ -25,6 +26,8 @@
       - 2. ~1,000 killed by PLO for suspected collaboration
 - # Location
 - # Causes
+  >[!quote]- Ben-Ami, Shlomo. *Scars of War, Wounds of Peace: The Israeli-Arab Tragedy*. (p. 189)
+  >The political void created by the collapse of the London agreement–and now also by the evaporation of the Shultz initiative and the threat that the Intifada posed to the stability, and perhaps even to the very existence, of the Hashemite kingdom–encouraged King Hussein to take a dramatic step. He cancelled the Act of Annexation of the West Bank to Jordan and cut all administrative links to the West Bank. His attempts so far to reconcile Jordan’s historical claims to the West Bank, his commitment to the Arab consensus on the predominant role of the PLO, and his search for a settlement with Israel was an exercise in diplomatic juggling that was no longer sustainable. He left the stage to the PLO and in one stroke eliminated for ever the so-called Jordanian option from the diplomacy of peace. From now on, if the PLO wanted the territories back it had to change its policies and come to terms directly with Israel and the United States. Jordan would no longer serve as a diplomatic buffer or bridge.
   -  General Causes
     - Israel opened up low and semi-skilled labor markets to Palestinians in occupied territory. By the time of the Intifada, over 40% of Palestinian workers were working in Israel daily.
     - Palestinian populations were growing, but work and other opportunities were heavily restricted in the occupied territories.
@@ -47,12 +50,14 @@
     - In the beginning of the Intifada, no Israeli settlements were attacked nor were there any Israeli fatalities.
     - The IDF used every crowd control measure available, though disturbances continued to gain momentum.
     - Israel engaged in mass arrests and the closure of Palestinian schools and businesses, utilities and confinement to homes, as well as damage to farms and blockage from selling agricultural produce. Settlers also engaged in private violence against Palestinians.
+  >[!quote]- Ben-Ami, Shlomo. *Scars of War, Wounds of Peace: The Israeli-Arab Tragedy*. (p. 190)
+  >In the Intifada, as Amos Elon succinctly put it, the Palestinians discovered the power of their weakness and the Israelis the weakness of their power. The PLO was also in dire straits. Like Israel, it was taken by surprise by the Palestinian uprising. It suddenly realised that the real showdown with Israel was taking a totally different course from that preached and executed for years by an organisation of professional revolutionaries and terrorists. It was an irony of history that the biggest revolt by the Palestinians since the 1930s had begun without PLO direction. Its supremacy was now being effectively undermined by grass-roots revolutionary committees and a non-PLO United National Leadership of the Uprising (UNLU) that emerged throughout the territories and succeeded in establishing areas of Palestinian self-rule in different parts of the occupied lands. The PLO was also challenged by the dramatic surge of Islamic fundamentalist organisations like Hamas and Jihad, especially in Gaza.
 - # Outcome
   - Foreign reaction
     - The UN (including the US) drafted a resolution condemning alleged Israeli violations of human rights. Israel declared it would not abide by SCR672 because it did not pay attention to attacks on Jewish worshippers. Israel also blocked a delegation of the Secretary-General for investigating Israeli violence.
   - Outcomes
     - The Intifada broke the image of Jerusalem as a united city, and the increase in international coverage was heavily critical of Israel.
-    - Arafat and his followers moderated their political programme; at the meeting of the Palestine National Council in Algiers in November of 1988, Arafat won a majority for the historic decision to recognize Israel's legitimacy, to accept all relevant UN resolutions going back November 29th, 1947, and to adopt the principle of a two-state solution.
+    - Arafat and his followers moderated their political programme; at the meeting of the Palestine National Council in Algiers in November of 1988, Arafat won a majority for the historic decision to recognize Israel's legitimacy, to accept all relevant UN resolutions (even 181 and 242 together) going back November 29th, 1947, and to adopt the principle of a two-state solution.
     - Arafat's support for Sadam Hussein's invasion into Kuwait essentially lead to a mass exodus of 300,000+ Palestinians fleeing Kuwait, mostly to return to Jordan. It also lead to Kuwait and Saudi Arabia cutting off financial support to the PLO.
 - # Important Notes
 #

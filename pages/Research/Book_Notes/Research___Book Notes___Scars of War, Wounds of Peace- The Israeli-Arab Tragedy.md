@@ -102,8 +102,6 @@ Sadat did not believe that a Soviet–American co-sponsorship of the peace proce
 
 Highlight(pink) - Page 158 · Location 3170
 
-________
-
 One lesson and legacy of Sadat’s initiative is that in highly protracted conflicts where deep emotions and historical hatred are involved, when almost every conceivable diplomatic formula has been tried, the shock of a visionary, generous and imaginative step is likely to open new and untold paths to peace. For the major problem in the Arab–Israeli conflict, as in many other intricate collisions throughout history, has always been the incapacity or unwillingness of leaders to conduct a peace policy that is not supported by what looked at the time like the legitimate, and frequently paralysing, consensus prevailing in their respective societies and polities. Leaders, more frequently than not, act as the hostages of the socio-political environment that produces them instead of shaping it. Anwar Sadat gained a privileged place in history and achieved immortality the moment he fled from the comfortable prison of inertia, and from the pseudo-solidarity and hollow rhetorical cohesion of Arab summits.
 
 Highlight(orange) - Page 164 · Location 3276
@@ -160,10 +158,6 @@ Highlight(orange) - Page 190 · Location 3796
 
 In the Intifada, as Amos Elon succinctly put it, the Palestinians discovered the power of their weakness and the Israelis the weakness of their power. The PLO was also in dire straits. Like Israel, it was taken by surprise by the Palestinian uprising. It suddenly realised that the real showdown with Israel was taking a totally different course from that preached and executed for years by an organisation of professional revolutionaries and terrorists. It was an irony of history that the biggest revolt by the Palestinians since the 1930s had begun without PLO direction. Its supremacy was now being effectively undermined by grass-roots revolutionary committees and a non-PLO United National Leadership of the Uprising (UNLU) that emerged throughout the territories and succeeded in establishing areas of Palestinian self-rule in different parts of the occupied lands. The PLO was also challenged by the dramatic surge of Islamic fundamentalist organisations like Hamas and Jihad, especially in Gaza.
 
-Highlight(orange) - Page 192 · Location 3844
-
-In a declaration of Palestinian independence the Palestinian National Council (PNC) accepted the existence of the State of Israel and endorsed ‘all relevant UN Resolutions’, paradoxically including two mutually exclusive Resolutions, namely 242 and 181.
-
 Highlight(pink) - Page 196 · Location 3912
 
 Yasser Arafat’s and the PLO’s support for Saddam Hussein’s invasion of Kuwait was certainly a major strategic blunder of the Palestinian leadership. Once again, as so often in the past, one could watch with stupor and bewilderment the self-defeating nature of Palestinian nationalism. The PLO’s failure to join a coalition based on the same key principle on which the Palestinians had built their case–a principle that was, moreover, embedded in SCR 242, about the ‘inadmissibility of acquiring territory by force’–was a sad display of political stupidity which, moreover, morally spoiled the Palestinian case. This was how Arafat misunderstood and misrepresented to his people the coalition’s war to undo the Iraqi aggression against another Arab country: These are days of glory and pride and steadfastness of our Arab nation…. The real aim of the treacherous American aggression is not to enforce compliance with UN resolutions but to destroy Palestine and the Arab nation and make way for three million Russian Jews in a greater Israel stretching from the Nile to the Euphrates.
@@ -189,10 +183,6 @@ Hardly had the ink on the agreements dried when a Palestinian opposition of Isla
 Highlight(orange) - Page 214 · Location 4269
 
 As it turned out, the Johannesburg speech was not an isolated incident where Arafat simply got carried away. He uttered similar notions on other occasions. One such was a speech in Gaza’s al-Azhar University on the day celebrating the ascension of the Prophet to heaven, where he spoke again of Hudaybiyya as a ‘despised peace’. On another occasion, a meeting with an Arab audience in Stockholm as quoted by Yedidia Atlas from the Norwegian newspaper Dagen, Arafat presented the right of return and the demographic weapon as his way to subvert the spirit of the Oslo accords: ‘We of the PLO will now concentrate all our efforts on splitting Israel psychologically into two camps. … We will make life unbearable for the Jews by psychological warfare and population explosion.’ 1 This was to be Arafat’s mode of behaviour throughout the Oslo years. His was always the language of battle and Jihad. ‘We stand by our oath to pursue the battle,’ he promised in his speech at al-Azhar, where he also embraced the memory of Izzedin al-Qassam, the icon of Hamas’s struggle against the ‘Zionist entity’. He would never convey a clear message of peace and reconciliation to the Israeli public. A born master of double talk, he always preferred the language of ambiguities. Throughout his life as a terrorist and guerrilla leader, Arafat avoided an open confrontation with his rivals in the movement. He preferred to co-opt them. Holding the national movement together at all costs, shunning clear-cut divisive decisions, forever looking for leadership through consensus even when this meant not curbing the terrorist activities of those he had pledged to discipline in the Oslo accords–such was his disastrous and eventually self-defeating way of government throughout. An autocrat with no interest whatever in a modicum of good government or in policies of welfare and economic development, he was unable to create the necessary popular, democratic legitimacy for cracking down on Hamas.
-
-Highlight(orange) - Page 215 · Location 4289
-
-A few days before he was gunned down, on 28 September 1995, Oslo II, an agreement practically ending Israel’s coercive control over the Palestinians, was signed in Washington.
 
 Highlight(pink) - Page 216 · Location 4302
 

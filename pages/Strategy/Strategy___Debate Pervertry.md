@@ -22,4 +22,14 @@
   - 1. When someone suggests that simply because a party benefited from something (or because they had something to gain something failing) that there must have been some sort of cohesive plot or scheme in order to bring about that particular thing, often involving highly subversive and unethical means.
 - 11. "Moral Dodgeball"
   - 1. Accusing someone of holding a different core value simply because you disagree with an applied position that they have.
+- 12. "Robinhood Complex"
+  - 1. Always siding with the less powerful entity in any conflict, simply due to the amount of power both sides are capable of exercising.
+- 13. "The Braveheart"
+  - 1. When someone poses a question about how a person should respond in a situation, where it's obvious that the person would need to act in a certain way to protect their interests, but the more privileged debater responds with "Personally, I wouldn't do this..." instead of acknowledging the need for the affected party to respond and protect their interests in a particular way.
+- 14. "You're being so weird/obsessed!"
+  - 1. When someone does something that you do exactly and then you accuse them of being weird when they do it, e.g. making clips/compilations of what the other person does and then the other community creates something in response.
+- 15. "Death by a thousand anecdotes"
+  - 1. When someone is incapable of pushing back factually against a heavily data-driven argument and instead relies upon personal (or popular) anecdotes, or unrelated data, to make their point.
+- 16. "Tragedy of the Commons Sense"
+  - 1. Basically any time someone invokes common sense because they're unable to explain or justify their position in any other way.
 #

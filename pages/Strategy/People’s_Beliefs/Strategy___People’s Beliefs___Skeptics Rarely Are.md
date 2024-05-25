@@ -1,0 +1,8 @@
+When individuals become skeptical of a particular thing, it’s not usually because it is failing to live up to some [[Humans are not Truth-Seeking Machines|internal rational rubric]], it’s usually because it’s failing to satisfy some other [[Humans are not Truth-Seeking Machines|personal desire]] or it’s causing some amount of [[Resolving Cognitive Dissonance|cognitive dissonance]].
+
+Evidence can be found of this in multiple ways.
+- 1. Skeptics are rarely skeptical in an even way across multiple entities, e.g. a skeptic might be highly suspicious of something reported by NPR, but will implicitly trust anything reported by RT.
+- 2. Skeptics will apply their skepticism selectively across the same class of media entities, e.g. a skeptic will tell you that you can rarely if ever trust the mainstream media, but they will hold onto stories like the Hunter Biden Laptop reporting from the New York Post uncritically as gospel.
+- 3. Skeptics will apply their skepticism selectively across the same media entity, e.g. if a particular media entity is reporting something they disagree with, it’s further evidence that the entity is not to be trusted, but as soon as that entity is reporting something they do believe in, that media entity suddenly becomes a worthy source.
+- 4. Skeptics almost never move towards an area that requires further investigation or requires a critical re-examination of their own ideas or beliefs, instead they almost always utilize their skepticism to move to areas of greater comfort, e.g. if a report comes out showing an mRNA vaccine as performing well, it’s easy to be skeptical of that report and hold onto the belief that the vaccines don’t work, because this reaffirms our [[Constellation of Beliefs|anti-establishment world-view]].
+#

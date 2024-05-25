@@ -1,2 +1,0 @@
-- 1. There is little to no social reward for having measured or accurate conviction with regards to a particular topic, because the topic is not something that you arrive at after some amount of reasonable consideration, but rather, because the social group you belong to believes in that particular topic. Therefor, it's always socially rewarded and advantageous to display the maximum amount of conviction for any given position.
-#

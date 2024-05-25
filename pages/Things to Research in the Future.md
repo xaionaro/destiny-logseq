@@ -1,5 +1,3 @@
-- <span style="color:#0070c0">College education</span>
-- <span style="color:#0070c0">Immigration and US Border Issues</span>
 - Hitler's Rise to Power
 - Nuclear fission/nuclear chemistry
 - US History

@@ -16,8 +16,8 @@
   | <span style="color:#FF0000">Against</span>   | <span style="color:#FF0000">0</span>                                                                                               |
   | <span style="color:#FFC000">Abstained</span> | <span style="color:#FFC000">0</span>                                                                                               |
   | **Result**                                   | **Adopted under Chapter VI**                                                                                                       |
-  | Permanent members                            | China, France, United Kingdom, United States, Soviet Union                                                                         |
-  | Non-Permanent members                        | Argentina, Brazil, Bulgaria, Canada, Denmark, Ethiopia, India, Japan, Mali, Nigeria                                                |
+  | Permanent members                            | [[China]], [[France]], [[United Kingdom]], [[United States]], [[Soviet Union]]                                                     |
+  | Non-Permanent members                        | [[Argentina]], [[Brazil]], [[Bulgaria]], [[Canada]], [[Denmark]], [[Ethiopia]], [[India]], [[Japan]], [[Mali]], [[Nigeria]]        |
   
   - # Causes
 - # Facts
