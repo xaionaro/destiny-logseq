@@ -12,8 +12,9 @@
     - 2. [[Palestinian Islamic Jihad]]
     - 3. [[Democratic Front for the Liberation of Palestine]]
     - 4. Notable Leaders
-      - 1. Commander [[Mohammed Deif]]
-      - 2. Prime Minister [[Ismail Haniyeh]]
+      - 1. Commander - [[Mohammed Deif]]
+      - 2. Prime Minister - [[Ismail Haniyeh]]
+      - 3. Gaza Strip Leader - [[Yahya Sinwar]]
   - 2. Iran
   - 3. Hezbollah
   - 4. Houthis

@@ -5,6 +5,8 @@
   I’ll keep this archive updated with stuff I’ve researched for my stream.
   
   This landing page will include what we're going to be researching currently and in the immediate future.
+  
+  **For my Israel-Palestine Canvas, click here: https://www.sharecanvas.io/p/destiny%E2%80%99s-israel-palestine-canvas
 - # General Research Schedule
   - ## Now through June 15th, 2024
     - Probably Israel/Palestine stuff

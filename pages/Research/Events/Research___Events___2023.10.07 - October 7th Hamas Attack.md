@@ -15,6 +15,7 @@
     - 4. Notable Leaders
       - 1. Commander [[Mohammed Deif]]
       - 2. Prime Minister [[Ismail Haniyeh]]
+      - 3. Gaza Strip Leader - [[Yahya Sinwar]]
     - 5. ~3,000 militants entered Gaza
   
   https://twitter.com/JoeTruzman/status/1712253680022630827

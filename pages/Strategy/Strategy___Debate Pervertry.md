@@ -32,4 +32,6 @@
   - 1. When someone is incapable of pushing back factually against a heavily data-driven argument and instead relies upon personal (or popular) anecdotes, or unrelated data, to make their point.
 - 16. "Tragedy of the Commons Sense"
   - 1. Basically any time someone invokes common sense because they're unable to explain or justify their position in any other way.
+- 17. "I don't even care."
+  - 1. 
 #
