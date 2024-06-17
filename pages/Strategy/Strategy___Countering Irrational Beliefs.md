@@ -1,2 +1,0 @@
-Offering someone in the audience of my interlocuter some $100 if they are capable of rationally explaining how you can justify a belief in some inherently contradictory position. Ensure that those people are organically a part of the community, and have been for years.
-#

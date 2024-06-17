@@ -3,7 +3,7 @@
   - 2. ”[Text of the Peel Commission Report](https://www.jewishvirtuallibrary.org/text-of-the-peel-commission-report)”The Jewish Virtual Library. Accessed April 26th, 2024.
 - # Parties
   - 1. The United Kingdom
-    - 1. British Royal Commission of Inquiry headed by [[Research/People/Earl Peel|Lord Peel]].
+    - 1. British Royal Commission of Inquiry headed by [[Earl Peel|Lord Peel]].
 - # Location
   - Concerning Mandatory Palestine
 - # Causes

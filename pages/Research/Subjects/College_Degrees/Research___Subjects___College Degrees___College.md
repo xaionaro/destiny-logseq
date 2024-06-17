@@ -71,7 +71,7 @@
           - SOURCE: Tamborini, Christopher R., ChangHwan Kim, and Arthur Sakamoto. 2015. “Education and Lifetime Earnings in the United States.” Demography 52: 1383–1407.
           - NOTES: Results are based on median regression using data from the 2004 Survey of Income and Program Participation (SIPP) and longitudinal records from the Social Security Administration. All content is simplified for presentation. Please see source material for full details and caveats. The findings and conclusions presented in this summary are those of the authors and do not necessarily represent the views of the agency.
       
-      ![Pasted image 20240318184233.png](../../../assets/obsidian_unknown_43b20f0d_Pasted_image_20240318184233.png)
+      ![Pasted image 20240318184233.png](../../../../assets/obsidian_unknown_71fae5d2_Pasted_image_20240318184233.png)
       - [The Burning Glass Institute](https://static1.squarespace.com/static/6197797102be715f55c0e0a1/t/65d7705653660e652db98306/1708617815952/Talent+Disrupted+02222024.pdf)
         - Source: Burning Glass Institute analysis of American Community Survey, 2022. Calculated for workers ages 22–27 with a terminal bachelor's degree, employed full-time, year-round and not enrolled in school.
     - ### Quick Facts for College Degree Worth

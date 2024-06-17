@@ -187,7 +187,7 @@
       | U.S. Department of Homeland Security  | 11.4 million  | 2018 | ACS; DHS and other administrative data<br>                         |
     - ### Pew Research on Number of Illegal Immigrants in the US
       Source - [What we know about unauthorized immigrants living in the U.S.](https://www.pewresearch.org/short-reads/2023/11/16/what-we-know-about-unauthorized-immigrants-living-in-the-us/)
-      ![Pasted image 20240420201229.png](../../../assets/obsidian_unknown_94ae6624_Pasted_image_20240420201229.png)
+      ![Pasted image 20240420201229.png](../../../../assets/obsidian_unknown_1251b0b4_Pasted_image_20240420201229.png)
   - ## Eligibility for Federal/State aid
     - Illegal immigrants are not eligible for most federal benefits, including non-emergency Medicaid, the Supplemental Nutrition Assistance Program (SNAP), Supplemental Security Income (SSI), Temporary Assistance for Needy Families (TANF), and most housing assistance programs.
     - Illegal immigrants are eligible for: emergency Medicaid, short-term, in-kind disaster relief, immunization against and treatment for communicable diseases, and other random programs designated by Title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996.

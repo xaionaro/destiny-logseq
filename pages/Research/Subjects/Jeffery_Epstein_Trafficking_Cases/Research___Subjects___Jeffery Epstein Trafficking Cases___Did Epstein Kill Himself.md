@@ -1,4 +1,4 @@
-![Pasted image 20240113191523.png](../../../assets/obsidian_unknown_aeb41696_Pasted_image_20240113191523.png)
+![Pasted image 20240113191523.png](../../../../assets/obsidian_unknown_096d433a_Pasted_image_20240113191523.png)
 
   - ## Arrest and Imprisonment
     - ### Apprehension and indictment
