@@ -14,6 +14,7 @@ Things to create notes on
   - https://en.wikipedia.org/wiki/Iran_hostage_crisis_negotiations#Release
 - Egyptian Fatwa for Sadat Peace
   - https://www.meforum.org/530/must-innocents-die-the-islamic-debate-over
+- Mueller Report
 - NATO History and Expansion
 - Ukraine-Russia War
 - Nixon Watergate Scandal
@@ -24,6 +25,12 @@ Things to create notes on
 - https://www.supremecourt.gov/opinions/23pdf/22-976_e29g.pdf
 - Tucker Carlson Dominion Fox News Suit
 - CHAZ
+- Macro Econ Course
+- Propositional Logic Course
+- Who classifies things in the United States?
+- Vegas shooting story
+- Genetic Race Stuff
+- The Federal Reserve Act
 ________
 
 https://www.nbcnews.com/think/opinion/did-trump-kushner-ignore-blue-state-covid-19-testing-deaths-ncna1235707
@@ -50,5 +57,12 @@ https://x.com/BidenHQ/status/1782902085891022877
 
 __________
 Current Conversation
+
+
+
+
+
+
+
 
 #

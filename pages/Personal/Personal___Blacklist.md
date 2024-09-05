@@ -36,6 +36,10 @@ Lauren DeLaguna
 March 6th, 2024 - March 6th, 2025
 Unhinged.
 
+Sean "ActualJusticeWarrior"
+August 20th, 2024 - August 20th, 2025
+Explicitly [lying/snakey](https://www.youtube.com/watch?v=5RC_PIv9zTM) around quotes in a debate
+
   - ## Super Blacklist
     - 1. Bad Empanada
       - 1. March 5th, 2024 - indefinite
