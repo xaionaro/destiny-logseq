@@ -31,6 +31,7 @@ Things to create notes on
 - Vegas shooting story
 - Genetic Race Stuff
 - The Federal Reserve Act
+- *Bush v Gore*
 ________
 
 https://www.nbcnews.com/think/opinion/did-trump-kushner-ignore-blue-state-covid-19-testing-deaths-ncna1235707
@@ -56,13 +57,6 @@ https://www.youtube.com/watch?v=kJxzEs7NERU&t=78s
 https://x.com/BidenHQ/status/1782902085891022877
 
 __________
-Current Conversation
-
-
-
-
-
-
 
 
 #
