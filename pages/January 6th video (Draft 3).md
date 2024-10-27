@@ -142,8 +142,6 @@
           - Mike Pence
           - Gregory Jacob
       - #### Presentation
-        - Since November 15th, Pence had only tweeted or retweeted things about voting irregularities. Pence had no signed on to any of Trump’s conspiracies yet, saying he would “keep fighting until every legal vote is counted” and “every illegal vote is thrown out.”
-        - On December 8th, Jacobs begins to advise the VP on the illegality of Eastman’s theory.
         - Memos reveal that Eastman didn’t believe the claims would ever even go to court. They just wanted Trump to remain president for as long as possible from December 14th and December 22nd.
         - On December 27th, Gohmert filed a court case to pressure Pence against certifying the election.
   - ## Major Confrontation
