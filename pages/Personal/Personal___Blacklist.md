@@ -4,9 +4,10 @@ Supporting a mass flagging/banning campaign
 [[Fuentes Deplatforming.jpg]]
 
 Sam Seder
-November 11th, 2023 - indefinite
+November 11th, 2023 - November 29th, 2024
 Unbelievably stupid summary of prior conversation we had + unbelievably stupid understanding of Rittenhouse case.
 https://www.youtube.com/watch?v=O__JRZODn-A&t=4188s
+- Removed from the blacklist for [not being an idiot](https://www.reddit.com/r/Destiny/comments/1h29p14/sam_seder_asks_tim_pool_about_the_money_he/)
 
 Andrew Wilson
 January 13th, 2024 - indefinite

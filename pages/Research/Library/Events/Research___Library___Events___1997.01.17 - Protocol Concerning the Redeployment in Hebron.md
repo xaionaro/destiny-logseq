@@ -1,26 +1,91 @@
-- # Sources
-  - 1. ”[Protocol Concerning the Redeployment in Hebron](https://en.m.wikipedia.org/wiki/Protocol_Concerning_the_Redeployment_in_Hebron).” Wikipedia. Accessed May 10th, 2024.
-- # Parties
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Worker threw exception | publish-01.obsidian.md | Cloudflare</title>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" />
+<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" /><![endif]-->
+<style>body{margin:0;padding:0}</style>
+
+
+<!--[if gte IE 10]><!-->
+<script>
+  if (!navigator.cookieEnabled) {
+    window.addEventListener('DOMContentLoaded', function () {
+      var cookieEl = document.getElementById('cookie-alert');
+      cookieEl.style.display = 'block';
+    })
+  }
+</script>
+<!--<![endif]-->
+
+
+</head>
+<body>
+  <div id="cf-wrapper">
+    <div class="cf-alert cf-alert-error cf-cookie-error" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
+    <div id="cf-error-details" class="cf-error-details-wrapper">
+      <div class="cf-wrapper cf-header cf-error-overview">
+        <h1>
+          <span class="cf-error-type" data-translate="error">Error</span>
+          <span class="cf-error-code">1101</span>
+          <small class="heading-ray-id">Ray ID: 8f52fa2a2a4fbdd6 &bull; 2024-12-20 22:13:01 UTC</small>
+        </h1>
+        <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
+      </div><!-- /.header -->
+
+      <section></section><!-- spacer -->
+
+      <div class="cf-section cf-wrapper">
+        <div class="cf-columns two">
+          <div class="cf-column">
+            <h2 data-translate="what_happened">What happened?</h2>
+            <p>You've requested a page on a website (publish-01.obsidian.md) that is on the <a href="https://www.cloudflare.com/5xx-error-landing/" target="_blank">Cloudflare</a> network. An unknown error occurred while rendering the page.</p>
+          </div>
+
+          
+          <div class="cf-column">
+            <h2 data-translate="what_can_i_do">What can I do?</h2>
+            <p><strong>If you are the owner of this website:</strong><br />you should <a href="https://www.cloudflare.com/login?utm_source=error_100x" target="_blank">login to Cloudflare</a> and check the error logs for publish-01.obsidian.md.</p>
+          </div>
+          
+        </div>
+      </div><!-- /.section -->
+
+      <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+  <p class="text-13">
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8f52fa2a2a4fbdd6</strong></span>
+    <span class="cf-footer-separator sm:hidden">&bull;</span>
+    <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
+      Your IP:
+      <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
+      <span class="hidden" id="cf-footer-ip">86.44.204.189</span>
+      <span class="cf-footer-separator sm:hidden">&bull;</span>
+    </span>
+    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
+    
+  </p>
+  <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
+</div><!-- /.error-footer -->
+
+
+    </div><!-- /#cf-error-details -->
+  </div><!-- /#cf-wrapper -->
+
+  <script>
+  window._cf_translation = {};
   
-  | **Agreement Type** | Territorial Transfer                                                                                                                                                                               |
-  | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-  | Purpose            | To transfer [[Hebron]] from [[Israel]] to the [[Palestinian Authority]]                                                                                                                            |
-  | Date               | January 17th, 1997                                                                                                                                                                                 |
-  | Location           |                                                                                                                                                                                                    |
-  | Signatories        | Israeli Prime Minister - [[Benjamin Netanyahu]], [[Palestine Liberation Organization\|PLO]] Chairman - [[Yasser Arafat]], [[United States]] Secretary of State - [[Christopher Warren]] (mediator) |
-  | Parties            | [[Israel]], [[Palestinian Authority]]    [[Israel]], [[Palestinian Authority]]                                                                                                                     |
-  | Ratifiers          | Neither party has ratified                                                                                                                                                                         |
   
-  - # Location
-  - [[Hebron]]
-- # Causes
-- # Facts
-  - The Agreements provided:
-    - An [IDF](https://en.wikipedia.org/wiki/Israel_Defense_Forces "Israel Defense Forces") withdrawal from 80% of Hebron within ten days.
-    - The division of Hebron into _Area H-1_ and _Area H-2_, and transfer of powers to the Palestinians
-    - The Hasbahe (wholesale market) with its shops would be opened and the Al-Shuhada Street completely reopened
-    - The first phase of further redeployments will be carried out during the first week of March
-- # Outcome
-  - Within two months after implementation of the Hebron Accord, Israel and the PA would begin negotiations on the permanent status agreement to be completed by 4 May 1999.
-- # Important Notes
+</script>
+
+</body>
+</html>
+
 #
