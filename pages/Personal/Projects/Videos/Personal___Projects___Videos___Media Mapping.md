@@ -94,22 +94,29 @@ There are things in the prior media atmosphere, especially from 2016-2024, that 
         - Conservatives often sunset legislation or push out expiration dates on things outside of their administration so they can blame the next administration when things go wrong, e.g. the Afghanistan pull-out, or a lot of the [tax provisions](https://waysandmeans.house.gov/2020/09/03/how-it-works-president-trumps-payroll-tax-deferral-executive-order/) that Trump made (i.e. people having to pay back their suspended FICA income as part of his tax cuts)
         - Perhaps things like FEMA or other federal financial aid should only be taxed from and given to people who vote to support it?
         - Having "paid for by x legislation" required to be attached to projects that are paid for by legislation from a particular congress.
-  - ## Facts Never Reduce to Real World Things
-    - 5. Facts do not reduce to any real-world thing.
-      - 1. In the current media environment, anyone can basically say anything and there is no way that anyone can really fact-check outside whether a thing is true or not, instead they have to rely on wherever they get their media from, e.g. how many illegals actually crossed the border?
-    - ### Examples of the Problem
-    - ### How the Right Deals with this Problem
-      - #### Examples of their Solutions
-    - ### How to fix the problem
-      - #### Examples of our Potential Solutions
+        - Stop using tax money to compensate losers from Trump executive actions, e.g. Tariffs
   - ## Lack of Accountability
-    - 6. No accountability for the right.
-      - 1. The right will crucify the left on singular statements (e.g. Fauci saying something about masks) but will totally vindicate their side by singular statements (e.g. Trump said to "march peacefully")
+    It seems as though any politically expedient statement or claim about the past can be made by some as long as it benefits the current political narrative, and no accountability is ever provided for making incorrect claims or predictions.
     - ### Examples of the Problem
+      - Lies about what would come out of Hillary's email investigation
+      - Lies relating to COVID/vaccine injuries, vaccine passports
+      - Election would be stolen in 2024
+      - Biden will start WW3/nuclear winter
+      - WEF Great Reset would happen
+      - Communism/socialism under Biden or Obama
+      - "The Kraken" for January 6th
+      - Guns will be banned under any Democrat
+      - Everything related to qanon/pizzagate
+      - Elon Musk and keeping X neutral
     - ### How the Right Deals with this Problem
+      They control the media environment where their people go, they will repeat the exact same claims, and never take accountability for them, either repeating them as though they were right or just conveniently forgetting them.
       - #### Examples of their Solutions
+        - Literally any time one of these people repeat the same debunked claim over and over again, e.g. election being stolen, mass vaccine injuries, "fedsurrection"
+        - They will cite things like "russigate" or the Twitter Files like they prove their point, even though they prove just the opposite
     - ### How to fix the problem
+      The only way to fix this problem is to not "both sides" issues in liberal media, and to hold politicians or pundits accountable when you get a chance to speak with them.
       - #### Examples of our Potential Solutions
+        - Repeat the same issue over and over again until you force them to stake out a harder position or claim that can be verifiably proven true or false.
   - ## No Overall Narrative
     - 7. Lack of cohesive narratives.
       - 1. The right seems to have a cohesive narrative for the direction they point themselves in, the left is endlessly getting lost defending micro-issues without having a strong macro-narrative for the things they support.
@@ -184,4 +191,8 @@ Collapse things into each other, find great examples of them, make them snappy/u
 Making things better
 Accountability/track tecord
 Show your work/reseadch
+
+
+
+
 #

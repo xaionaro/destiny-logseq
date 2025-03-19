@@ -1,0 +1,107 @@
+- # Supreme Court denies Trump's stay
+  - [Supreme Court](https://www.nytimes.com/live/2025/03/05/us/trump-news#foreign-aid-supreme-court-trump) denies the government's request for a stay against the TRO for the USAID funding freeze
+- # MAGA Messaging
+  Amy Coney Barrett votes alongside Roberts and the liberals in the Supreme Court against the government's request for a stay in their case concerning the USAID funds.
+  - [@EndWokeness](https://x.com/EndWokeness/status/1897357014457835827)
+    - 3,624,530
+  - [@Catturd2](https://x.com/catturd2/status/1897292692159390022) and [@Catturd2](https://x.com/catturd2/status/1877529548285165981)
+    - 3,608,831
+  - [@JackPosobiec](https://x.com/JackPosobiec/status/1897338451114254710) and [@JackPosobiec](https://x.com/JackPosobiec/status/1897372206092751045)
+    - 3,092,546
+  - [@DC_Draino](https://x.com/DC_Draino/status/1897341156478111792)
+    - 2,155,000
+  - [@atensnut](https://x.com/atensnut/status/1897349850372641119)
+    - 1,710,641
+  - [@MZHemingway](https://x.com/MZHemingway/status/1897310331699126335)
+    - 1,423,759
+  - [@Cernovich](https://x.com/Cernovich/status/1897333453039001779)
+    - 1,407,629
+  - [@TaraBull808](https://x.com/TaraBull808/status/1897384068783989160)
+    - 1,177,336
+  - [@realJennaEllis](https://x.com/realJennaEllis/status/1897331787837431846)
+    - 1,099,855
+  - [@MAGAVoice](https://x.com/MAGAVoice/status/1897343382596562945)
+    - 1,035,744
+  - [@DefiyantlyFree](https://x.com/DefiyantlyFree/status/1897292116331782472)
+    - 963,551
+  - [@ChuckCallesto](https://x.com/ChuckCallesto/status/1897342665630577049)
+    - 915,550
+  - [@DerrickEvans4WV](https://x.com/DerrickEvans4WV/status/1897363640866750643)
+    - 818,142
+  - [@BehizyTweets](https://x.com/BehizyTweets/status/1897309037525647710)
+    - 653,661
+  - [@JoeyMannarinoUS](https://x.com/JoeyMannarinoUS/status/1897375565797318759)
+    - 606,364
+  - [@RealJessica05](https://x.com/RealJessica05/status/1897369020363629036)
+    - 509,676
+  - [@FDRLST](https://x.com/FDRLST/status/1897326024922456366)
+    - 492,267
+  - [@ProudElephantUS](https://x.com/ProudElephantUS/status/1897383591677714454)
+    - 488,295
+  - [@Sassafrass84](https://x.com/Sassafrass_84/status/1897345981668319399)
+    - 459,275
+  - [@its_The_Dr](https://x.com/its_The_Dr/status/1897380026490015989)
+    - 449,711
+  - [@BuzzPatterson](https://x.com/BuzzPatterson/status/1897349706516455725)
+    - 424,170
+  - [@EricLDaugh](https://x.com/EricLDaugh/status/1897290717674037647)
+    - 380,796
+  - [@mrddmia](https://x.com/mrddmia/status/1897336208717762737)
+    - 377,172
+  - [@1Nicdar](https://x.com/1Nicdar/status/1897350129738547517)
+    - 351,879
+  - [@AndrewPollackFL](https://x.com/AndrewPollackFL/status/1897312929898488084)
+    - 351,506
+  - [@AdrianneCurry](https://x.com/AdrianneCurry/status/1897371147903361143)
+    - 338,620
+  - [@LangmanVince](https://x.com/LangmanVince/status/1897302901267292461)
+    - 324,439
+  - [@LegendaryEnergy](https://x.com/LegendaryEnergy/status/1897313191446896745)
+    - 312,047
+  - [@Bubblebathgirl](https://x.com/bubblebathgirl/status/1897294266038403332)
+    - 294,183
+  - [@IanJaeger29](https://x.com/IanJaeger29/status/1897310392973697305)
+    - 278,199
+  - [@Babygravy9](https://x.com/Babygravy9/status/1897320803701809354)
+    - 276,038
+  - [@GigaBeers](https://x.com/GigaBeers/status/1897332778842349609)
+    - 217,113
+  - [@RealHickory](https://x.com/RealHickory/status/1897382226112950674)
+    - 211,477
+  - [@AnthonySabatini](https://x.com/AnthonySabatini/status/1897357490758857020)
+    - 211,420
+  - [@Pismo_B](https://x.com/Pismo_B/status/1897349270111707324)
+    - 202,987
+  - [@TheThe1776](https://x.com/TheThe1776/status/1897359824251445733)
+    - 200,925
+  - [@Bannons_WarRoom](https://x.com/Bannons_WarRoom/status/1897418228600889612)
+    - 180,701
+  - [@MilaLovesJoe](https://x.com/MilaLovesJoe/status/1897376753452261518)
+    - 176,376
+  - [@TheGeneral_0](https://x.com/TheGeneral_0/status/1897305988564500605)
+    - 172,467
+  - [@ThePatriotOasis](https://x.com/ThePatriotOasis/status/1897340679225008264)
+    - 160,988
+  - [@N76247476Man](https://x.com/N76247476Man/status/1897371740378165719)
+    - 157,834
+  - [@RCMaxw3ll](https://x.com/RCMaxw3ll/status/1897296384451338376)
+    - 145,726
+  - [@JKash000](https://x.com/JKash000/status/1897302276269859118)
+    - 144,469
+  - [@JDRucker](https://x.com/JDRucker/status/1897379398741012743)
+    - 119,241
+  - [@GlockfordFiles](https://x.com/GlockfordFiles/status/1897375569484112023)
+    - 117,195
+  - [@JohnStrandUSA](https://x.com/JohnStrandUSA/status/1897305453966799055)
+    - 116,182
+  - [@KylieJaneKremer](https://x.com/KylieJaneKremer/status/1897312653116428737)
+    - 110,939
+  - [@EvanAKilgore](https://x.com/EvanAKilgore/status/1897329089712914690)
+    - 110,076
+  - [@MAGACult2](https://x.com/MAGACult2/status/1897401975509069985)
+    - 99,615
+  - [@QueenDarbyy](https://x.com/QueenDarbyy/status/1897356231754608721)
+    - 95,049
+
+
+#

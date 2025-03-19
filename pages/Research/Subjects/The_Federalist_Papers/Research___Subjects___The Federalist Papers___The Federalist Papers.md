@@ -90,6 +90,23 @@
       - "There is nothing absurd or impracticable in the idea of a league or alliance between independent nations for certain defined purposes precisely stated in a treaty regulating all the details of time, place, circumstance, and quantity; leaving nothing to future discretion; and depending for its execution on the good faith of the parties. Compacts of this kind exist among all civilized nations, subject to the usual vicissitudes of peace and war, of observance and non-observance, as the interests or passions of the contracting powers dictate. In the early part of the present century there was an epidemical rage in Europe for this species of compacts, from which the politicians of the times fondly hoped for benefits which were never realized. With a view to establishing the equilibrium of power and the peace of that part of the world, all the resources of negotiation were exhausted, and triple and quadruple alliances were formed; but they were scarcely formed before they were broken, giving an instructive but afflicting lesson to mankind, how little dependence is to be placed on treaties which have no other sanction than the obligations of good faith, and which oppose general considerations of peace and justice to the impulse of any immediate interest or passion."
       - " It at all times betrayed an ignorance of the true springs by which human conduct is actuated, and belied the original inducements to the establishment of civil power. Why has government been instituted at all? Because the passions of men will not conform to the dictates of reason and justice, without constraint. Has it been found that bodies of men act with more rectitude or greater disinterestedness than individuals? The contrary of this has been inferred by all accurate observers of the conduct of mankind; and the inference is founded upon obvious reasons. Regard to reputation has a less active influence, when the infamy of a bad action is to be divided among a number than when it is to fall singly upon one. A spirit of faction, which is apt to mingle its poison in the deliberations of all bodies of men, will often hurry the persons of whom they are composed into improprieties and excesses, for which they would blush in a private capacity."
       - "If, therefore, the measures of the Confederacy cannot be executed without the intervention of the particular administrations, there will be little prospect of their being executed at all. The rulers of the respective members, whether they have a constitutional right to do it or not, will undertake to judge of the propriety of the measures themselves. They will consider the conformity of the thing proposed or required to their immediate interests or aims; the momentary conveniences or inconveniences that would attend its adoption. All this will be done; and in a spirit of interested and suspicious scrutiny, without that knowledge of national circumstances and reasons of state, which is essential to a right judgment, and with that strong predilection in favor of local objects, which can hardly fail to mislead the decision. The same process must be repeated in every member of which the body is constituted; and the execution of the plans, framed by the councils of the whole, will always fluctuate on the discretion of the ill-informed and prejudiced opinion of every part. Those who have been conversant in the proceedings of popular assemblies; who have seen how difficult it often is, where there is no exterior pressure of circumstances, to bring them to harmonious resolutions on important points, will readily conceive how impossible it must be to induce a number of such assemblies, deliberating at a distance from each other, at different times, and under different impressions, long to co-operate in the same views and pursuits."
+  - ## Federalist No. 16 - The Same Subject Continued: The Insufficiency of the Present Confederation to Preserve the Union 
+    - Author: [[Alexander Hamilton]]
+    - [Text](https://guides.loc.gov/federalist-papers/text-11-20)
+    - ### Notes
+      - Hamilton argues that too weak a federal government or federal military would induce large states to rise up against other states, possibly gathering smaller states or foreign enemies up with them in their rebellion. But enforcing federal law with the military is not desirable, so the best outcome would be for all state governments to recognize the supremacy of federal law and not require further state legislature action to implement it.
+    - ### Quotes
+      - "And as to those mortal feuds which, in certain conjunctures, spread a conflagration through a whole nation, or through a very large proportion of it, proceeding either from weighty causes of discontent given by the government or from the contagion of some violent popular paroxysm, they do not fall within any ordinary rules of calculation. When they happen, they commonly amount to revolutions and dismemberments of empire. No form of government can always either avoid or control them. It is in vain to hope to guard against events too mighty for human foresight or precaution, and it would be idle to object to a government because it could not perform impossibilities."
+  - ## Federalist No. 17 - The Same Subject Continued: The Insufficiency of the Present Confederation to Preserve the Union
+    - Author: [[Alexander Hamilton]]
+    - [Text](https://guides.loc.gov/federalist-papers/text-11-20)
+    - ### Notes
+      - Hamilton argues that a federal government would simply have no desire to be in control of things state governments are more easily in control of, citing agriculture and policing powers as examples. He argues that the existence of individual judicial systems across each state would impress upon the individual citizens how important and relevant their own state governments are when it comes to administering to the states for state issues.
+  - ## Federalist No. 18 - The Same Subject Continued: The Insufficiency of the Present Confederation to Preserve the Union
+    - Author: [[Alexander Hamilton]] and [[James Madison]]
+    - [Text](https://guides.loc.gov/federalist-papers/text-11-20)
+    - ### Notes
+      - This essay draws upon the history of the Greek Republics and argues that the federal power they possessed (or lacked) was defining in their maintaining control over the entirety of the confederacy, mirroring issues that current states faced with the weakness of the articles of confederation.
   - ## Federalist No. xx - xx 
     - Author: [[Alexander Hamilton]]
     - [Text](https://guides.loc.gov/federalist-papers/text-11-20)
@@ -97,18 +114,23 @@
       - 
     - ### Quotes
       - ""
-  - ## Federalist No. xx - xx 
+
+
+
+
+
+
+
+  - ## Federalist No. 74 - The Command of the Military and Naval Forces, and the Pardoning Power of the Executive
     - Author: [[Alexander Hamilton]]
-    - [Text](https://guides.loc.gov/federalist-papers/text-11-20)
+    - [Text](https://guides.loc.gov/federalist-papers/text-71-80)
     - ### Notes
-      - 
+      - This is a short paper arguing that the president should of course have a single, powerful command of the military. It also argues that, due to the harshness of criminal law, it's wise to allow an equally powerful executive to be able to grand pardon to individuals who are convicted of crimes. Hamilton's belief was that embarrassment would prevent presidents from exercising this power too frequently.
     - ### Quotes
       - ""
-  - ## Federalist No. xx - xx 
-    - Author: [[Alexander Hamilton]]
-    - [Text](https://guides.loc.gov/federalist-papers/text-11-20)
-    - ### Notes
-      - 
-    - ### Quotes
-      - ""
+
+
+
+
+
 #
