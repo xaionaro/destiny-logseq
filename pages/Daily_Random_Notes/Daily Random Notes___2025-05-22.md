@@ -1,0 +1,15 @@
+- # Republicans pass Big Beautiful Bill
+  - [Full Text](https://www.congress.gov/bill/119th-congress/house-bill/1/text)
+  - [House Republicans narrowly passed Trump’s ‘big, beautiful’ bill. Here’s what’s in it](https://www.pbs.org/newshour/politics/house-republicans-narrowly-passed-trumps-big-beautiful-bill-heres-what-in-it)
+    - Seems to massively increase spending with no plans to recover the lost money. The biggest increases in spending seem to come from making permanent the 2017 TCJA, and reducing expenditures on Medicaid.
+  - [Adding Up the House Reconciliation Bill](https://www.crfb.org/blogs/adding-house-reconciliation-bill)
+    - Over the next 10 years, as written, it would increase our debt by $3.3t, or $5.2t if temporary provisions are made permanent
+    - Would increase annual deficits to $2.9t or $3.3t (if temporary provisions made permanent) by 2034.
+  - ['Hidden' Provision in Trump's Big Bill Could Disarm US Supreme Court](https://www.newsweek.com/hidden-provision-trump-bill-court-2075769)
+    - There's a provision in the bill that makes it so TROs/PIs cannot be enforced unless a security is paid by the plaintiff, effectively nullifying them in most cases.
+- # Israel Embassy Shooting
+  - [Live Updates: Suspect Charged With Murder in Killings of 2 Embassy Aides](https://www.nytimes.com/live/2025/05/22/us/israel-embassy-shooting-dc)
+    - Elias Rodriguez, 31, told officers he killed two Israeli Embassy employees in D.C. "for Palestine" and "for Gaza"
+  - [The Israel Embassy Shooter Manifesto](https://www.kenklippenstein.com/p/the-israel-embassy-shooter-manifesto)
+    - Seems to just be a general "anti-genocide" person who thinks killing is justified to stop the bloodshed.
+#

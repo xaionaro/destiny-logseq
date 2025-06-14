@@ -16,7 +16,7 @@
     - 2. [[Hamas]]
       - 1. Notable Leaders
         - 1. [[Ahmed Yassin]]
-        - 2. [[Abdel Aziz al-Rantisi]]
+        - 2. [[1947.10.23-2004.04.17 - Abdel Aziz al-Rantisi]]
         - 3. [[Khaled Mashal]]
         - 4. [[Ismail Haniyeh]]
         - 5. [[Mohammed Deif]]

@@ -1,0 +1,16 @@
+- # Roberts Lashes Out
+  - [NYTimes](https://www.nytimes.com/2025/03/18/us/chief-justice-roberts-impeachment-trump.html) article on Roberts' Statement
+  - [Scotusblog](https://www.scotusblog.com/2025/03/chief-justice-rebukes-trumps-call-for-judicial-impeachment/) statement
+- # Deportation Troubles
+  - [Government's response to](https://static.foxnews.com/foxnews.com/content/uploads/2025/03/doj-filing.pdf) order to turn around deportation planes
+  - [Richard Hanania](https://x.com/RichardHanania/status/1901824294419832981) tweet about ICE detaining a US citizen in Chicago
+  - [Independent article](https://www.independent.co.uk/news/world/americas/milwaukee-laos-ma-yang-deported-ice-attorney-b2716777.html) Mother of 5 deported back to Lao after being in the US since 8 months of age
+  - [French scientist denied entry](https://newrepublic.com/post/192946/french-scientist-denied-us-entry-trump-criticism) to US due to "Trump criticisms"
+  - [DoJ argument for calling](https://storage.courtlistener.com/recap/gov.uscourts.dcd.278436/gov.uscourts.dcd.278436.26.0_1.pdf) TdA the Venezualian Government
+- # Israel goin' crazy
+  - [NYTimes](https://www.nytimes.com/live/2025/03/17/world/israel-gaza-airstrikes) article on ceasefire broken with Israeli strikes into Gaza
+- # Trump appointments
+  - [TheHill](https://thehill.com/policy/defense/5199551-trump-appoints-charlie-kirk-walt-nauta-michael-flynn-to-military-boards/) Trump appoints Walt Nauta, Charlie Kirk and Michael Flynn to Boards of Visitors at military academies
+- # Elon Musk's car dealerships
+  - [lol](https://www.reddit.com/r/Destiny/comments/1jet6mh/elon_musk_goes_on_fox_news_and_blames_the_left/) Elon implies some Deep State is behind the attacking of Tesla car dealerships
+#

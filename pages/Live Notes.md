@@ -29,59 +29,6 @@ Things to create notes on
 - El Salvador Gangs
 ________
 
-Questions
-Basics
-- 1. How long have you been a viewer?
-- 2. What is your political leaning?
-- 3. Would you consider yourself to the left or right of me, or perfectly aligned?
-
-
-
-Acquisition from...?
-- 1. Where did you come from?
-  - 1. Converted from another audience/fanbase.
-    - 1. Political leanings
-      - 1. What were your political leanings?
-      - 2. What are they now?
-    - 2. What changed your mind from different political alignments? (Pool/Rubin/Shapiro)
-      - 1. Debates
-        - 1. Aggressive/adversarial conversations/"debates"
-        - 2. "Empathetic" conversations
-      - 2. Solo content
-        - 1. Solo content that is aggressive ("react")
-        - 2. Solo content that is empathetic ("accurately explains the other side")
-        - 3. Solo content around research/boring stuff
-        - 4. Politically unrelated content
-    - 3. What brought you over from similar political alignments? (Vaush/Hasan/Pakman)
-      - 1. Debates
-        - 1. Aggressive/adversarial conversations/"debates"
-        - 2. "Empathetic" conversations
-      - 2. Solo content
-        - 1. Solo content that is aggressive ("react")
-        - 2. Solo content that is empathetic ("accurately explains the other side")
-        - 3. Solo content around research/boring stuff
-        - 4. Politically unrelated content
-  - 2. "Discovered" without any strong political content consumption.
-- 2. What other political content do you consume?
-  - 1. School
-    - 1. Education for econ/finance/poly sci/etc...
-  - 2. Media
-    - 1. CNN/MSNBC/Fox
-  - 3. "Alt media"
-    - 1. YT channels etc...
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
