@@ -107,28 +107,16 @@
     - [Text](https://guides.loc.gov/federalist-papers/text-11-20)
     - ### Notes
       - This essay draws upon the history of the Greek Republics and argues that the federal power they possessed (or lacked) was defining in their maintaining control over the entirety of the confederacy, mirroring issues that current states faced with the weakness of the articles of confederation.
-  - ## Federalist No. xx - xx 
-    - Author: [[Alexander Hamilton]]
+  - ## Federalist No. 19 - The Same Subject Continued: The Insufficiency of the Present Confederation to Preserve the Union
+    - Author: [[Alexander Hamilton]] and [[James Madison]]
     - [Text](https://guides.loc.gov/federalist-papers/text-11-20)
     - ### Notes
-      - 
-    - ### Quotes
-      - ""
-
-
-
-
-
-
-
+      - Another paper that analyzes a system with a central government that was too weak to hold together all of its member states, this time focused on the empires in Germany.
   - ## Federalist No. 74 - The Command of the Military and Naval Forces, and the Pardoning Power of the Executive
     - Author: [[Alexander Hamilton]]
     - [Text](https://guides.loc.gov/federalist-papers/text-71-80)
     - ### Notes
       - This is a short paper arguing that the president should of course have a single, powerful command of the military. It also argues that, due to the harshness of criminal law, it's wise to allow an equally powerful executive to be able to grand pardon to individuals who are convicted of crimes. Hamilton's belief was that embarrassment would prevent presidents from exercising this power too frequently.
-    - ### Quotes
-      - ""
-
 
 
 

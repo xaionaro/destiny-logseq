@@ -1,0 +1,46 @@
+  - ## DC vs Trump
+    - [DC Revolts to PUSH Trump TROOP OUT (8 minutes) | Adam Mockler](https://youtu.be/MjluK2sKll4?si=Blj1kuJlzjjzCdv0)
+    - [National Guard officially deployed to DC this morning](https://youtube.com/shorts/tIu8bN17FEw?si=2Dk8QrdbvViFJifz)
+    - [DC resident heckles federal law enforcement, gets chased](https://x.com/YourAnonCentral/status/1955192154290262113)
+    - [DC residents say Trump is too involved in polling on National Guard deployment](https://x.com/ForecasterEnten/status/1955272450846994793)
+    - [Maryland Governor Moore: 'I will not authorize" National Guard in Maryland (8 minutes)](https://youtu.be/oU-UgxXzC94?si=CZS3TBOfdALDD9Vd)
+    - [Mixed signals over what Trump takeover means for D.C. police - The Washington Post](https://www.washingtonpost.com/dc-md-va/2025/08/12/trump-dc-police-takeover-control/)
+      - no archive NOPERS
+    - [Jeanine Pirro highlights 'silent victims' killed in DC (11 minutes)](https://youtu.be/X3oNx6fKhe4?si=1spWACIGzfXEeVPD)
+    - [Benny Johnson claims he has witnessed many crimes at his own doorstep](https://x.com/atrupar/status/1955345789665829236)
+    - [DC Police Union chairman says DC was out of control and needed to be dealt with](https://x.com/TrumpDailyPosts/status/1955049144462045659)
+    - [Jessica Tarlov fact checks Tomi Lahren on LA protests](https://x.com/Acyn/status/1955348608339136635)
+    - [Joe Scarborough's 'very liberal' friend texts him about DC crime](https://x.com/RapidResponse47/status/1955295517941883329)
+  - ## Texas Democrats Return
+    - [Texas Democrats to return after governor ends special session that included redistricting, sources say - ABC News](https://abcnews.go.com/Politics/texas-democrats-return-after-governor-ends-special-session/story?id=124592449)
+    - [Newsom says California will draw new electoral maps after Trump ‘missed’ deadline | US politics | The Guardian](https://www.theguardian.com/us-news/2025/aug/12/newsom-california-trump-deadline-electoral-maps)
+  - ## Trumpnomics
+    - [‘CHESS GAME’: Scott Bessent reveals status of US-China trade talks and Fed chair search (19 minutes)](https://youtu.be/IgcmRJpE1pc?si=xDtEur2okJZBKubG)
+    - [Trump wants Goldman Sachs to find a new economist after tariff data yesterday](https://x.com/TrumpDailyPosts/status/1955280411023511724)
+  - ## Trumpdate and Other Politics
+    - [HANNITY BOMBSHELL: Docs show James Comey associate leaked classified info to NYT (6 minutes)](https://youtu.be/uVHNSJ9MXjE?si=2WiM9GG2Gs9j53Rc)
+    - [State Department rolls out scaled-back Human Rights Report - ABC News](https://abcnews.go.com/Politics/state-department-rolls-scaled-back-human-rights-report/story?id=124587579)
+    - [Exclusive | White House to Vet Smithsonian Museums to Fit Trump’s Historical Vision - WSJ](https://www.wsj.com/politics/policy/white-house-to-vet-smithsonian-museums-to-fit-trumps-historical-vision-78875c8a)
+      - [Smithsonian adds Trump back to impeachment display with some changes](https://www.usatoday.com/story/news/politics/2025/08/11/smithsonian-trump-impeachment-display-changes/85611633007/)
+      - [Letter to the Smithsonian: Internal Review of Smithsonian Exhibitions and Materials – The White House](https://www.whitehouse.gov/briefings-statements/2025/08/letter-to-the-smithsonian-internal-review-of-smithsonian-exhibitions-and-materials/)
+    - [Appeals Court Allows DOGE Access to Sensitive Data at Several Agencies - The New York Times](https://www.nytimes.com/2025/08/12/us/politics/appeals-court-doge-data.html)
+    - [Dissatisfaction is with Democratic party is not translating into votes for GOP (4 minutes) | NBC News](https://youtu.be/MaFE_LLuon0?si=lV1B22U7KQ7NoXKq)
+    - [Bernie blames Kamala's loss on leaning too much on billionaires](https://x.com/RpsAgainstTrump/status/1955434559899832483)
+    - [Elon Musk's America Party Is Nowhere to Be Seen 1 Month Later - Business Insider](https://www.businessinsider.com/elon-musk-america-party-status-one-month-later-2025-8)
+    - [CDC shooting suspect blamed COVID vaccine for health problems (2 minutes)](https://youtu.be/fvVzWRC1F_w?si=Fp0SLaIf6sLqHJ6Q)
+    - [Donald J Trump is the president of PEACE](https://x.com/WhiteHouse/status/1955350484421619897)
+    - [Christian Nationalist thanks Hegseth for the quote tweet](https://x.com/Ronxyz00/status/1955283773416726773)
+      -  [Original quote tweet](https://x.com/PeteHegseth/status/1953626931234054558)
+        - [Asmongold reacts to full video of Christian Nationalist (20 minutes)](https://youtu.be/7krLPE-_O54?si=pOWujRaiwD_XHAmz)
+    - [JD Vance van roaming the streets of UK](https://x.com/WUTangKids/status/1955274019973873722)
+    - [Karoline Leavitt says there may have been plans to travel to Russia](https://x.com/atrupar/status/1955347358713069693)
+    - [There will be no update on Trump's health](https://x.com/PoliticusSarah/status/1955363211290481064)
+    - [Minnesota teen says server forced her to prove her gender in restaurant bathroom](https://www.nbcnews.com/nbc-out/out-news/minnesota-teen-says-server-forced-prove-gender-restaurant-bathroom-rcna224562)
+  - ## Streamer Corner
+    - [Hasan says Biden allowed Netanyahu to kill more Palestinians than Trump](https://x.com/Awk20000/status/1955485026759610807)
+    - [Hasan malding against 'ultra Zionist genocidal' Dan Saltman](https://x.com/Awk20000/status/1955426798306726061)
+    - [Tectone moving to Austin](https://x.com/Awk20000/status/1955371320482623703)
+    - [More Rileycs alleged cheating footage](https://x.com/CoachPlague/status/1955328122699575532)
+  - ## One Liners
+    - [weeee](https://x.com/ShouldHaveCat/status/1955307320654585874)
+#

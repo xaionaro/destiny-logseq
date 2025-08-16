@@ -1,0 +1,12 @@
+- # Sources
+  - [The Ultimate Guide to Nuclear Weapons](https://www.youtube.com/watch?v=QHL2nTFPdpg)
+  - "Gadget" was the first nuclear device ever detonated.
+  - Contained 6kg of plutonium.
+  - American Nuclear Test.
+  - 1945.
+  - 90% Uranium-235 enrichment for nuclear bombs. Very difficult/expensive/huge process.
+  - Critical mass = amount of fissile material needed to sustain a chain reaction.
+  - "Little Boy" contained 64kg of fissile material, but only 1kg of uranium underwent fission.
+  - Counterforce nuclear attack vs countervalue nuclear attack - attacking enemy's nuclear capabilities vs just causing massive amounts of damage
+  - Airburst explosions maximize the different types of energies released from nuclear weapons, especially the high pressure blast wave.
+#
