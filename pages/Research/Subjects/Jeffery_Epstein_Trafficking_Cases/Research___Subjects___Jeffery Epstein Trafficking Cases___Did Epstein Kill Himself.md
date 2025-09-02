@@ -39,11 +39,15 @@
       - On October 30th, 2019, Baden issued a report stating that Epstein's neck injuries, due to all the broken bones, were more consistent homicide.
         - Baden claimed that over a thousand jail hangings, none of them had three fractures.
       - Gerald Rodts, chief of spinal surgery at Emory University Hospital, and a professor of forensic science at John Jay College of Criminal Justice said the death was consistent with suicide.
+      - #### Michael Baden Claims
+        - [NPR Article](https://www.npr.org/2019/10/30/774838950/jeffrey-epstein-case-expert-hired-by-his-family-suggests-doubt-on-suicide-findin)
+          - Michael Baden claims the bones broken are rare for suicides, but provides no evidence of that, and seems to be [contradicted](https://edition.cnn.com/2019/10/30/us/jeffrey-epstein-autopsy-fox/index.html#:~:text=hyoid%20bone%20is%20a%20weak%2C%20fragile%20structure) by others concerning the same bones.
   - ## Aftermath
     - ### Reaction
       - Lots of people called for and called to investigate the circumstances surrounding Epstein's death.
     - ### Investigations
       - The US DoJ's OIG's investigation report released on June 27th, 2023, claimed repeated "negligence, misconduct, and outright job performance failures" and pushed back against any suggestion that anything other than suicide had occurred.
+      - "Further, the SHU staff and three interviewed inmates with a direct line of sight to Epstein’s cell door on the night of his death stated that no one entered or exited Epstein’s cell after the SHU staff returned Epstein to his cell on August 9."
     - ### Subsequent criminal trials and developments
       - On November 19th, 2019, federal prosecutors in New York indicted Michael Thomas and Tova Noel with multiple counts of falsifying records and conspiracy to falsify records.
       - In 2020, associate Jean-Luc Brunel was arrested and charged with rape of minors in France, and died of suicide before trial could proceed.

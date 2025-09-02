@@ -1,21 +1,38 @@
 - # Purpose
-  Even today, there remains this pervasive theory that “conspiracy theorists were right” (JOE ROGAN CLIP and more?) about most of the baseless theories they propagated along the alternative (and mainstream) media networks over the past decade. There are many surrounding COVID and the vaccines, but some are so pervasive that even the left has largely bought into them. I don’t believe there is any theory that has a greater divide between “what is likely true” and “what do most people believe to be true” as the origin theory for SARS-CoV-2.
-- # Thesis
-  When one accounts for all of the information available, one can say with a high degree of probability that SARS-CoV-2’s first appearance in humans was due to zoonotic spillover at the Huanan Seafood Market in Wuhan, China. All of the available evidence points **heavily** in that direction, and the only convincing evidence against it simply relies on a lack of knowledge about particular facts or education on the part of the listener with regards to how SARS-CoV-2 works.
+  The “[conspiracy theorists were correct](https://www.reddit.com/r/JoeRogan/comments/1h8c1nc/joe_rogan_all_the_conspiracy_theorists_were/)” idea remains pervasive in today's media environment. Even the most of the baseless theories that were propagated along the alternative (and mainstream) media networks over the past decade are propped up under this umbrella of uncertainty regarding conspiracy theories revolving around the origins of COVID and the associated medical topics around them. These have become so pervasive that both the left and right sides of the aisle have bought into them, with [over 50% of Americans believing that SARS-CoV-2, the virus responsible for COVID-19, originated from a lab in China](https://today.yougov.com/politics/articles/45389-americans-believe-covid-origin-lab).
   
-  The reality is, when one steps the heavy politically polluted framing from this question, the origination of SARS-CoV-2 from the seafood market becomes painfully obvious.
-  - 1. The first known infections occurred in the Seafood market, and the pattern of infections spread from there quite predictably in the weeks that followed.
-  - 2. The Huanan Seafood Market is a likely location for such a spillover to occur as it contained the highest number of wild animal selling stalls in all of China.
-  - 3. Testing at the markets allows us to trace with a high degree of probability the exact stalls where the zoonotic spillover likely occurred.
-  - 4. The animals that were kept in this stall were not only theorized to function as host species for these coronaviruses, a scientist had literally taken a trip to exactly this seafood market to the exact stall where these animals were held over 6 years prior and warned about the possibility of a spillover event.
-  - 5. The animals brought to the Huanan Seafood Market were brought in from caves in South China (FACT CHECK SPECIFIC), an area that is a rich reservoir for the types of coronaviruses the infect humans.
+  There is no conspiracy theory alive today where the scientific and empirical evidence stands so confidently and aggressively against the widespread (mis)conceptions regarding what is almost certainly true and what is baseless, unsupported speculation.
   
+  I will be dispelling much of the misinformation concerning the "lab leak" hypothesis (if you could even say there is one) and providing the strongest version of the zoonotic transfer argument in this document.
+  - ## Credit
+    I'd like to offer a ton of props to [Peter Miller](https://x.com/tgof137) for countless hours of research he put into his [Rootclaim Debate](https://www.astralcodexten.com/p/practically-a-book-review-rootclaim) for this. I'd also like to extend thanks for the many members in my community that pointed me in the right direction for research and information regarding this subject, and I'd like to thank the countless scientists and public health professionals who put in an unbelievable amount of tireless and thankless work on this subject as well.
+- # Zoonotic Spillover Hypothesis
+  When one accounts for all of the information available, one can say with a high degree of probability that SARS-CoV-2’s first appearance in humans was due to zoonotic spillover at the Huanan Seafood Market in Wuhan, China. All of the available evidence points **heavily** in that direction, and the only "evidence" against it simply relies on a lack of knowledge about particular facts or education on the part of the listener with regards to how SARS-CoV-2, or any virus, works.
+  - ## Most Likely Zoonotic Spillover Explanation
+    There are an almost-universally agreed upon set of facts that, once removed from any political framing, make the origin of SARS-CoV-2's appearance in humans painfully obvious.
+    - 1. The first known infections occurred in the Seafood market, and the pattern of infections spread from there quite predictably in the weeks that followed.
+      - 1. "[On 18 December, Ai Fen, director of the emergency department, encountered her first unexplained pneumonia patient, a 65-year-old man who had become ill on either 13 or 15 December. Unbeknownst to Ai at the time, the patient was a delivery-man at Huanan Market.](https://www.science.org/doi/10.1126/science.abm4454)" Although SARS-CoV-2 wasn't identified at the time, a bronchoalveolar lavage specimen collected from the patient was sent into analysis and identified on December 24th as a new SARSr-CoV strain.
+      - 2. "[Dr. Zhang Jixian is considered the first doctor to report the novel coronavirus before its outbreak.](https://pmc.ncbi.nlm.nih.gov/articles/PMC7262218/)" On December 26th, observed a senior couple who reported pneumonia-like symptoms and, due to her experience with the 2003 SARS outbreak, reported it to the Chinese CDC the next day. It's important to note that this elderly couple **had no known connection to the Huanan Seafood Market** at the time, dispelling the notion that people were simply applying a bias in trying to blame the market as the origin for SARS-CoV-2.
+      - 3. Another patient, a worker at the HSM, was admitted on December 27th. On December 28th and 29th "[three more patients, all of whom worked at Huanan Market, were admitted and recognized to have the same unknown respiratory disease.](https://www.science.org/doi/10.1126/science.abm4454)" Similar patients, also linked to the HSM, were discovered at the Tongji and Xiehe hospitals, causing Xia Wenguang, the vice president of Hubei Provincial Hospital of Integrated Chinese and Western Medicine to alert the CDC.
+    - 2. The Huanan Seafood Market is a likely location for such a spillover to occur as it contained the highest number of wild animal selling stalls in all of China. The animals that were kept in this stall were not only theorized to function as host species for these coronaviruses, a scientist had literally taken a trip to exactly this seafood market to the exact stall where these animals were held over 6 years prior and warned about the possibility of a spillover event.
+      - 1. Edward Holmes, a biologist at the University of Sydney, visited China searching for likely places for a new outbreak to occur **back in 2014.** "[In a visit to Wuhan, a commercial center of 11 million people, scientists from the city’s Center for Disease Control and Prevention brought him to Huanan Seafood Wholesale Market. In stall after stall of the poorly ventilated space, he saw live wild animals — snakes, badgers, muskrats, birds — being sold for food. But it was the raccoon dogs that made him pull out his iPhone.](https://www.nytimes.com/2022/03/23/health/wuhan-pandemic-edward-holmes.html)" These are the [same stalls](https://www.science.org/doi/10.1126/science.abp8715) that would later test with the highest amount of positive samples and with the highest density of positive samples epidemiologists would later collect.
+    - 3. Animal DNA later tested from the HSM found that animals there were actively shedding the virus.
+      - 1. Researchers were able to sequence DNA from samples taken in stalls where very little human DNA was found and also discovered SARS-CoV-2 active in the samples from those stalls as well. "[Our analysis...provides genomic evidence of the presence of SARS-CoV-2 susceptible live animals at the Huanan market, Wuhan, before it was closed on 1 January 2020. Importantly, the genomic data confirming the presence of wildlife species occurred in the same market stalls where some of these animals had been documented to be sold. These samples were positive for SARS-CoV-2 and often had a lower abundance of human genetic material than other animal genetic material, in some cases including animals known to be susceptible to SARS-CoV-2...Human genetic material was abundant and predominant in many samples with no evidence of non-human mammal DNA, indicating that the SARS-CoV-2 virus at these sites was likely shed by humans.](https://zenodo.org/records/7754299)"
+    - 4. The animals brought to the Huanan Seafood Market were brought in from caves in South China, an area that is a rich reservoir for the types of coronaviruses the infect humans.
+      - 1. Two genetic sequences for *sarbecovirus'*, the subgenus that SARS-CoV-2 belongs to, have been identified in bats in South China, with similarities of "[96.8% for BANAL-52 and 96.1% for RaTG13](https://www.nature.com/articles/s41586-022-04532-4)." This is a closer ancestral match to a virus than what was even found for SARS-CoV-1, which also is believed to have emerged during a zoonotic spillover event.
+  - ## Challenges for Zoonotic Spillover
+    There are no issues, really, for the zoonotic spillover theory that require some extraordinary explanation. Everything is very neatly encapsulated in the official story, so much so that [movies](https://en.wikipedia.org/wiki/Contagion_(2011_film)) have been made about pandemics originating in a similar manner (bonus, said movies even include scenes of people [pushing fake drugs](https://www.youtube.com/watch?v=k9_PEu47ANE) to monetarily benefit from the panic they push!).
+    
+    There are some "issues" that frauds push publicly, but most of these boil down to simple misunderstandings of science or misstatements of factually true things.
+    - ### The Wuhan Institute of Virology was very close to the Huanan Seafood Market
+      This is simply not true. A simple search of the Wuhan Institute of Virology and the Huanan Seafood Market shows that it's about a 12km drive between the two. For comparison, Manhattan Island at it's widest point is 3.7km and 21.6km long. The idea that someone could travel between the WIV and the HSM and infect only individuals at the HSM without infecting anyone else on the way there and on the way back is asinine.
+    - ### The Wuhan Institute of Virology Researchers were sick with COVID in November
+      This is not true. None of the researchers at the WIV have ever tested positive for COVID, despite claims that some were sick with COVID-like illnesses in the Fall of 2019. Past samples taken of all of these researchers have failed to confirm any SARS-CoV-2 positive infections, and there has never been any pattern of infections coming from any of the researchers. 
+- # Zoonotic Spillover Hypothesis
   The challenges for the lab leak theory are numerous, but the largest challenge for the lab leak theory is that there isn’t even a single lab leak theory. There are many competing theories, some of which are necessarily mutually exclusive of one another, so even getting lab leak proponents to narrate a coherent theory from start to finish is incredibly challenging.
   - 1. None of the researchers at the WIV were found to have been infected with SARS-CoV-2.
     - 1. Not even past samples had tested positive for SARS-CoV-2 for any of the researchers working there.
   - 2. There are pictures of them going out and eating prior to the start of the pandemic, **after** they would have certainly been infected, if they had been infected secretly without anyone knowing.
-  - 3. The WIV was a 12 mile distance from the HSM.
-    - 1. How did they manage to not infect anyone along the way? And no one in their personal lives? Or anyone else they could have come into contact with once they’d left the lab and the seafood market?
 - # Background
   - ## [SARS-CoV-2](https://pmc.ncbi.nlm.nih.gov/articles/PMC9839213/)
     - ### Naming
@@ -88,8 +105,6 @@
       - 5. On January 20th, 2020, the Chinese National Health Commission publicly confirmed COVID-19's spread to healthcare workers, and on the 23rd Wuhan entered lockdown.
       - 6. From December 10th, 2019, to January 1st, 2020, approximately 200 people are known to have had onset of COVID, of which 62 or 63 were vendors at the market and others had known epidemiological connections to it.
       - #### First Cases
-        - December 8th, 2019, Mr. Chen or Wei Guixian, on December 10th, 2019?
-          - LOOK UP STUDY
         - The WHO identified 174 known cases in December of 2019, with 30 being vendors and 25 being visitors to the Huanan Seafood Market.
     - ### Huanan Seafood Market
       - 1. 1,200 employee market with 680 shops, located on the first story of a multistory building.
@@ -123,8 +138,6 @@
       It's noteworthy that no genetic engineering was to be performed at WIV, nor would any chimeric viruses be transported there, except for prototype vaccines which use a raccoonpox chimera. WIV was to be involved with samples collected from bats, tests on bats, tests on people who live near bats, and experiments in bat caves.
       
       Project DEFUSE was involved in studying a broad array of things related to coronaviruses and did not really lay out a precise blueprint for creating SARS-CoV-2. especially not in any singular research lab.
-  - ## Key Players
-    - [[Peter Daszak]]
 - # The Case for Zoonotic Origin
   - ## Challenging Questions for Lab Leakers
     - 1. What is the explanation for a and b lineages both showing up for the very first time in the wet market?
@@ -167,6 +180,7 @@
 - # Sources
   - ## Encyclopedias
     - 1. Wikipedia - "[COVID-19](https://en.wikipedia.org/wiki/COVID-19)" Accessed July 3rd, 2025.
+    - 2. Wikipedia - "[Contagion (2011 film)](https://en.wikipedia.org/wiki/Contagion_(2011_film))" Accessed August 8th, 2025)
   - ## Journals
     - 1. "[A SARS-like cluster of circulating bat coronaviruses shows potential for human emergence](https://pmc.ncbi.nlm.nih.gov/articles/PMC4797993/)" (November 9th, 2015) by Vineet D Menachery, Boyd L Yount Jr., Kari Debbink, et al., *Nature Medicine* 21(12) [DOI](https://doi.org/10.1038/nm.3985)
     - 2. "[Discovery of a rich gene pool of bat SARS-related coronaviruses provides new insights into the origin of SARS coronavirus](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1006698)" (November 30th, 2017) by Ben Hu, Lei-Ping Zeng, et al., *PLOS Pathogens* 13(11) [DOI](https://doi.org/10.1371/journal.ppat.1006698)
@@ -186,11 +200,14 @@
   - ## News Articles
     - 1. Reuters - "[Chinese officials investigate cause of pneumonia outbreak in Wuhan](https://www.reuters.com/article/business/healthcare-pharmaceuticals/chinese-officials-investigate-cause-of-pneumonia-outbreak-in-wuhan-idUSKBN1YZ0GO/)" (December 31st, 2019) by Beijing Monitoring Desk. ([archive](https://archive.ph/pIhxb))
     - 2. The Telegraph - "[Wuhan officials identified Huanan market as a pandemic risk at least five years before Covid emerged](https://www.telegraph.co.uk/global-health/science-and-disease/wuhan-officials-identified-huanan-market-pandemic-risk-least/)" (April 18th, 2021) by Sarah Newey. ([archive](https://archive.ph/yyn06))
-    - 3. YouGov - "[Two-thirds of Americans believe that the COVID-19 virus originated from a lab in China](https://today.yougov.com/politics/articles/45389-americans-believe-covid-origin-lab)" (March 10th, 2023) by Linley Sanders. ([archive](https://archive.ph/4k3Ol))
+    - 3. The New York Times - "[A top virologist who visited a Wuhan market in 2014 said he found it to be a ‘pandemic waiting to happen.’](https://www.nytimes.com/2022/03/23/health/wuhan-pandemic-edward-holmes.html)" (March 23rd, 2022) by Carl Zimmer. (archive)
+    - 4. YouGov - "[Two-thirds of Americans believe that the COVID-19 virus originated from a lab in China](https://today.yougov.com/politics/articles/45389-americans-believe-covid-origin-lab)" (March 10th, 2023) by Linley Sanders. ([archive](https://archive.ph/4k3Ol))
   - ## Social Media
-    - 1. YouTube - the bumbling biochemist - "[Coronavirus Spike (S) protein biochemistry part 2: cleavage sites, glycosylation, antibody binding](https://www.youtube.com/watch?v=22M2Wh6rQmA)" (July 28st, 2021) (archive)
-    - 2. YouTube - Maastricht University - "[The lifecycle of SARS-CoV-2. Scientific version](https://www.youtube.com/watch?v=XlOi2hVGtg0)" (November 18th, 2022) (archive)
-    - 3. Reddit - u/Mrmini231 - "[The Lab Leak that wasn't: A look at the COVID origin](https://www.reddit.com/r/neoliberal/comments/1kap0jm/the_lab_leak_that_wasnt_a_look_at_the_covid_origin/)" (April 29th, 2025) (archive)
+    - 1. YouTube - Movieclips - "[Contagion (2011) - Arresting the Fraud Scene (4/5) | Movieclips](https://www.youtube.com/watch?v=k9_PEu47ANE)" (April 16th, 2021) (archive)
+    - 2. YouTube - the bumbling biochemist - "[Coronavirus Spike (S) protein biochemistry part 2: cleavage sites, glycosylation, antibody binding](https://www.youtube.com/watch?v=22M2Wh6rQmA)" (July 28st, 2021) (archive)
+    - 3. YouTube - Maastricht University - "[The lifecycle of SARS-CoV-2. Scientific version](https://www.youtube.com/watch?v=XlOi2hVGtg0)" (November 18th, 2022) (archive)
+      - 1. Reddit - u/WilloowUfgood - "[Joe Rogan - "All the conspiracy theorists were correct"](https://www.reddit.com/r/JoeRogan/comments/1h8c1nc/joe_rogan_all_the_conspiracy_theorists_were/)" (December 6th, 2024) (archive)
+    - 4. Reddit - u/Mrmini231 - "[The Lab Leak that wasn't: A look at the COVID origin](https://www.reddit.com/r/neoliberal/comments/1kap0jm/the_lab_leak_that_wasnt_a_look_at_the_covid_origin/)" (April 29th, 2025) (archive)
   - ## Organizations
     - 1. *U.S. Centers for Disease Control* - "[Laboratory Biosafety Guidelines for working with SARS-CoV-2](https://www.cdc.gov/covid/php/lab/index.html)" (March 27th, 2025) ([archive](https://archive.ph/x6ulF))
   - ## Websites

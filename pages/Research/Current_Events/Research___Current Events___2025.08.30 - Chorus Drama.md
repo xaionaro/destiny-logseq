@@ -1,0 +1,123 @@
+- # Taylor Lorenz Article
+  - [A Dark Money Group Is Secretly Funding High-Profile Democratic Influencers](https://www.wired.com/story/dark-money-group-secret-funding-democrat-influencers/)
+    - [August 29th archive](https://archive.ph/O0Lxc#selection-699.0-699.74) with revisions made on August 28th.
+      - There are some comments by Wilson added in parenthesis after some statements, though it appears that all of the original text and claims remains unchanged.
+  - ## Claims from the Article
+    *Evaluating the statements Lorenz makes about Chorus, whether they're good (supportive), neutral (simple facts), or bad (negative viewpoints), and then the truth value of said statements.*
+    - 1. Good
+    - 2. Neutral
+      - 1. Creators are being paid $8,000/month.
+      - 2. Creators have an obligation to have messaging check-ins and to attend two "newsroom" events per month.
+    - 3. Bad
+      - 1. (<span style="color:rgb(255, 0, 0);font-weight:bold">False</span>) Mentions multiple times that the program is "secretive" and mandates "extensive secrecy" about payment disclosure.
+        - 1. Chorus seems to be openly and publicly spoken about, both on the website itself and by several content creators. I'm not sure what is supposed to be secretive?
+        - 2. BTC disagrees with this as well in his Twitter video.
+      - 2. (<span style="color:rgb(255, 0, 0);font-weight:bold">False</span>) Claims that the Chorus contract restricted signees from doing certain political content.
+        - 1. Allie O'Brien claims that you can be critical of the Dems or their policy agendas if you want, and shows examples of her doing such.
+        - 2. David Pakman denies all of these claims as well.
+        - 3. BTC disagrees with this as well in his Twitter video.
+      - 3. (<span style="color:rgb(0, 255, 0);font-weight:bold">True</span>) Lots of "Dark Money Group" mentions in relation to the Sixteen Thirty Fund.
+        - 1. The Sixteen Thirty Fund does appear to be set-up as a Super PAC, though it seems silly to claim Chorus is "dark money funded" when we can see that they are funded directly by the Sixteen Thirty Fund.
+      - 4. A lot of talk about restrictions from the contract that *seem* to be bad, such as:
+        - 1. (<span style="color:rgb(255, 0, 0);font-weight:bold">False</span>) creators not being allowed to acknowledge the existence of the program
+          - 1. Allie O'Brien claims you can make public statements about Chorus. with written consent.
+          - 2. BTC disagrees with this as well in his Twitter video.
+        - 2. (**Irrelevant**) their part in the program (without prior written consent)
+          - 1. This seems to be true, although it's not a big deal if creators aren't restricted from disclosure, which they don't appear to be.
+        - 3. (<span style="color:rgb(255, 0, 0);font-weight:bold">False</span>) receiving payments from the program
+          - 1. Allie O'Brien and David Pakman, as well as others, seem to publicly state they are in the program, and imply there is some payments received.
+          - 2. BTC disagrees with this as well in his Twitter video.
+        - 4. (<span style="color:rgb(255, 0, 0);font-weight:bold">False</span>) being prohibited from organizing independently their own lawmaker engagements
+          - 1. Allie O'Brien's contract paste seems to indicate that you can indeed arrange your own interviews/other content with political figures, you simply need to notify Chorus of this agreement. She provides a lot of emails/business cards/evidence confirming as much.
+        - 5. (**Irrelevant**) giving Chorus the ability to remove or correct content made by Creators at any Chorus-organized event.
+          - 1. This could be true, but is totally standard for anyone that runs events that you create content out of.
+      - 5. (**Irrelevant**) A leaked Zoom call with Graham Wilson claims members won't have to worry about FEC disclosures or public disclaimers.
+        - 1. If you are receiving money from a program that's not paying you directly to create political content, this is just how the law works.
+      - 6. (**Irrelevant**) A quote from Elizabeth Dubois saying the legal aspect of the organization is "murky."
+        - 1. Nothing more supportive of her is provided, so the truth claim here is doubtful at best.
+      - 7. (<span style="color:rgb(255, 0, 0);font-weight:bold">False</span>) A quote from Don Heider claiming "if the contract says you can't disclose money, it is unethical."
+        - 1. Allie O'Brien clarifies in her video that Chorus does not pay people to create any content individually/explicitly, so there is no need for disclosures as would ordinarily be legally required.
+      - 8. (<span style="color:rgb(255, 0, 0);font-weight:bold">False</span>) One Creator claimed they were denied the ability to red-line the contract.
+        - 1. The beginning of this article literally demonstrates creators talking about a revised (red-lined) contract.
+      - 9. (**Irrelevant**) The article lists many times of influencers who are working with or accepted a contract with Chorus, including six creators who were involved a weekly series titled "Good News in Politics." It also names two creators who defended Chorus through a prior drama relating to utilizing people's images without permission for fundraising purposes.
+        - 1. Creators are only listed in this article for purposes of harassment.
+      - 10. (<span style="color:rgb(255, 0, 0);font-weight:bold">False</span>) There's a claim about a non-disparagement clause that makes it seem as though it is out of the ordinary or overly burdensome.
+        - 1. NDCs aren't super uncommon, but there's no evidence in the article this claim is even true.
+  - ## Contradictions
+    *These statements exist in the article, but they're seemingly contradictory and no resolution nor explanation for them is given in the article.*
+    - 1. There is a quote from Elizabeth Dubois claiming that these groups can be used to evade spending limits from individual creators, but the article also claims that creators in the program can't use funds from the program to support or oppose any political candidate. It seems as though the whole reason for the restriction on funds is to avoid what Dubois is warning against.
+    - 2. Lorenz writes that Republicans have spent decades building an independent media infrastructure, but it sounds like she's describing a highly interdependent and integrated independent media apparatus that works directly with the Republican Party. She also claims that Chorus highlights a difference between Democrats and Republicans, claiming that Chorus' attempts to build an online media ecosystem are somehow the opposite of what the Republicans have done, but doesn't seem to explain how?
+    - 3. In the article, there is an anonymous creator who claims he was specifically told his lawyer could not red-line a contract, yet the article opens with a bunch of creators speaking about red-lining their contracts. Why were some allowed and others weren't?
+    - 4. Lorenz claims a copy of the contract forbade creators from independently organizing their own content with lawmakers/political leaders, but also says they have an obligation to inform Chorus of said independently organized events. How can both of these be true at once?
+  - ## Prescriptions
+    - There's a quote/claim by V Spehar, saying that funding from middleman groups is bad and that funding should go to creators directly. How? How is that different from just watching streams/YouTubes? How does that address at all the issues with a lack of coherence and cohesion with Democrat Party messaging?
+  - ## Verdict
+    **This is a hit-piece**, with the goal of attacking/destroying the Chorus organization and destroying the reputation of anyone who touches it or defends it, and sending a signal/message that anyone involved with it in the future will be similarly targeted. It's not even clear from reading this article what Chorus is. Do they pay creators to make content? Do they just try to synchronize messaging? Do they dictate to creators the subject matter they must cover? What are creators even being compensated for?
+- # Responses
+  - ## Defending Chorus
+    - ### Creators Involved
+      [allie_202_](https://www.tiktok.com/@allie_202_/video/7543788692905790751), [David Pakman](https://www.youtube.com/watch?v=oQl5JcBnQ9A), [Brian Tyler Cohen](https://x.com/briantylercohen/status/1961201488782578160), [@bookersquad and @iamlegallyhype](https://www.instagram.com/reel/DN3xSpI0gdf/?hl=en) all seem to disagree with basically the entire article. I have yet to see any substantive response to anything they've said, and I have yet to see any creator come out agreeing with anything in the article.
+    - ### Other Creators
+      iamlegallyhype and 3 others posted a [reel](https://www.instagram.com/reel/DN8RjAxDXCP/?hl=en) where they claimed to be receiving harassment due to Lorenz's article, and Jon Favreau [posted](https://x.com/jonfavs/status/1961586491093860635) on X that he found the article to be "dishonest."
+  - ## Attacking Chorus
+    The entire socialist media apparatus seemed to join Lorenz in unison attacking and slandering Chorus and all of the content creators involved, with all of them echoing her claims uncritically and with zero due diligence.
+    - ### "Leftists" - Socialists
+      - 1. Emma Vigeland
+        - 1. On [X](https://x.com/EmmaVigeland/status/1961589694992465994)
+      - 2. The Majority Report
+        - 1. On [YouTube](https://www.youtube.com/watch?v=herbQyrZzGM)
+        - 2. Emma uncritically reads many parts of Lorenz's reporting, basically all of which has been debunked. She and the rest of the crew also lie and say NONE of the Chorus creators talk about Israel/Palestine over and over and over again. They also play Hasan and The Vanguard's reaction to this.
+      - 3. The Vanguard Podcast
+        - 1. On [X](https://x.com/vanguard_pod/status/1961483037687906562) and on [YouTube](https://www.youtube.com/watch?v=wzU1u1eKb0Y)
+      - 4. Glenn Greenwald interviewing Taylor Lorenz
+        - 1. On [Rumble](https://rumble.com/v6y7dam-system-update-show-507.html?start=3239)
+      - 5. Ben Burgis
+        - 1. On [X](https://x.com/BenBurgis/status/1961896833653113176)
+      - 6. The Majority Report
+        - 1. On [YouTube](https://www.youtube.com/watch?v=herbQyrZzGM)
+      - 7. Vaush
+        - 1. On [YouTube](https://www.youtube.com/live/3-amXfvyeAE?t=3974s)
+        - 2. He reads through and uncritically accepts every lie that Taylor publishes in the article. He reacts to several content creators and goes in on them pretty aggressively.
+      - 8. Hasan Piker
+        - 1. On [YouTube](https://www.youtube.com/watch?v=JpgpGpa0g74)
+        - 2. Just uncritically accepting Lorenz's framing and supporting attacks against liberals and the Democratic party to his audience.
+        - 3. Hasan tells multiple lies in this video, including accusing Olivia Juluanna was being paid by Chorus in reference to tweets she made in January of 2024.
+      - 9. Breaking Points
+        - 1. On [YouTube](https://www.youtube.com/watch?v=YZ-iyFrNMy4&t=1076s) 
+        - 2. Claims Chorus was co-opted by the DNC.
+    - ### Others
+      - 1. [Fox News](https://www.youtube.com/watch?v=X2r018aHjnI)
+        - 1. YouTube segment largely quoting false sections of Taylor Lorenz's article.
+      - 2. [Reddit Post](https://www.reddit.com/r/OutOfTheLoop/comments/1n3ztyk/whats_the_deal_with_taylor_lorenzs_new_wired/) where the top answer is all of Lorenz's misinformation.
+      - 3. [Random other Tweets](https://www.reddit.com/r/Destiny/comments/1n3nmxb/comment/nbeuzwp/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) amplifying Lorenz's article.
+      - 4. [Asmongold Video](https://www.youtube.com/watch?v=cxJ04lxqmv8) covering this negatively
+- # Important Notes
+  - 1. According to an [announcement](https://omidyar.com/update/omidyar-network-announces-sixth-class-of-reporters-in-residence/) by Omidyar Network, Lorenz herself is a recipient of "dark money" for her journalistic activities, and she gets paid $8,000/month as well. This Omidyar Network group also receives money from the Sixteen Thirty Fund, according to their [2022 990](https://www.sixteenthirtyfund.org/wp-content/uploads/2023/11/Sixteen-Thirty-Fund-2022-Public-Disclosure-Copy.pdf), and utilizes a similar funding method (501(c)4 + an LLC) to allow it to receive "dark money".
+- # Sources
+  - ## News Articles
+    - 1. WIRED - "[A Dark Money Group Is Secretly Funding High-Profile Democratic Influencers](https://www.wired.com/story/dark-money-group-secret-funding-democrat-influencers/)" (August 27th, 2025) by [[Taylor Lorenz]]. (August 27th, 2025 [archive](https://archive.ph/sSVgV)) (August 29th, 2025 [archive](https://archive.ph/O0Lxc#selection-699.0-699.74))
+    - 2. Mediaite - "[Progressive YouTuber Savagely Tears Apart Taylor Lorenz’s Report on ‘Dark Money Group’ Funding Dem Influencers](https://www.mediaite.com/media/news/progressive-youtuber-savagely-tears-apart-taylor-lorenzs-report-on-dark-money-group-funding-dem-influencers/)" (August 29th, 2025) by Alex Griffing. [archive](https://archive.ph/ZImje))
+    - 3. The Daily Signal - "[Left-Wing Dark Money Outfit Accused of Trying to Buy Social Media Influencers](https://www.dailysignal.com/2025/08/31/left-wing-dark-money-outfit-accused-trying-buy-social-media-influencers/)" (August 31st, 2025) by Tyler O'Neil. ([archive](https://archive.ph/MJzaY))
+  - ## Social Media
+    - 1. TikTok - allie_202_ - "[Video](https://www.tiktok.com/@allie_202_/video/7543788692905790751)" (August 28th)
+    - 2. YouTube - David Pakman Show - "[They're trying to TAKE US DOWN!](https://www.youtube.com/watch?v=oQl5JcBnQ9A)" (August 28th, 2025)
+    - 3. X - @briantylercohen - [Post](https://x.com/briantylercohen/status/1961201488782578160) (August 28th, 2025)
+    - 4. Rumble - Glenn Greenwald - "[Minnesota Shooting Exploited to Impose AI Mass Surveillance; Taylor Lorenz on Dark Money Group Paying Dem Influencers, and the Online Safety Act | SYSTEM UPDATE #507](https://rumble.com/v6y7dam-system-update-show-507.html?start=3239)"  (August 28th, 2025)
+    - 5. YouTube - Hasan Daily - "[Paid Dem Influencers Situation ESCALATED | Hasan Daily](https://www.youtube.com/watch?v=JpgpGpa0g74)"( August 28th, 2025)
+    - 6. Instagram - @bookersquad and @iamlegallyhype - [Video](https://www.instagram.com/reel/DN3xSpI0gdf/?hl=en) (August 29th, 2025)
+    - 7. Instagram - @iamlegallyhype and 3 others - [Video](https://www.instagram.com/reel/DN8RjAxDXCP/?hl=en) (August 29th, 2025)
+    - 8. X - @jonfavs - [Post](https://x.com/jonfavs/status/1961586491093860635) (August 29th, 2025)
+    - 9. X - @EmmaVigeland - [Post](https://x.com/EmmaVigeland/status/1961589694992465994) (August 29th, 2025)
+    - 10. X - @vanguard_pod - [Post](https://x.com/vanguard_pod/status/1961483037687906562) (August 29th, 2025)
+    - 11. YouTube - The Majority Report - "[Dark Money Funding Dem Influencers EXPOSED](https://www.youtube.com/watch?v=herbQyrZzGM)" (August 29th, 2025)
+    - 12. YouTube - Breaking Points - "[Adam Friedland RIPS INTO Ritchie Torres on Israel, Demfluencers CAUGHT In Funding Scheme](https://www.youtube.com/watch?v=YZ-iyFrNMy4&t=1076s)" (August 29th, 2025)
+    - 13. Reddit - u/Pablo_Sanchez1 - "[Wired is now issuing retractions to Lorenz’s article. I spent about 20 minutes and found a total of 4.8 million Twitter views spreading the original misinformation to different audiences, including leftists, MAGA, Barstool, and non-political influencers/media outlets, prior to the retraction](https://www.reddit.com/r/Destiny/comments/1n3nmxb/comment/nbeuzwp/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)" (August 29th, 2025)
+    - 14. YouTube - Asmongold - "[Well, this is interesting..](https://www.youtube.com/watch?v=cxJ04lxqmv8)" (August 29th, 2025)
+    - 15. Reddit - u/Doctor_Riptide - [Comment Response](https://www.reddit.com/r/OutOfTheLoop/comments/1n3ztyk/whats_the_deal_with_taylor_lorenzs_new_wired/) (August 30th, 2025)
+    - 16. X - @BenBurgis - [Post](https://x.com/BenBurgis/status/1961896833653113176) (August 30th, 2025)
+    - 17. YouTube - Vaush - "[TRUMP LIVES (sorry) | DEM INFLUENCER DARK MONEY SCANDAL CONTINUES also maybe more war w/ Iran lmao](youtube.com/live/3-amXfvyeAE?t=3974)" (August 30th, 2025)
+    - 18. YouTube - The Vanguard - "[LEFTISTS VS LIBS: Taylor Lorenz EXPOSES Brian Tyler Cohen’s Dark Money Group, David Pakman & Others](https://www.youtube.com/watch?v=wzU1u1eKb0Y)" (August 30th, 2025)
+    - 19. YouTube - Fox News - "[Dark money group allegedly paid far-left influencers for content](https://www.youtube.com/watch?v=X2r018aHjnI)" (August 31st, 2025)
+  - ## Websites
+    - 1. *Omidyar Network* - "[Omidyar Network announces sixth class of reporters in residence]()" (July 9th, 2025)
+#
