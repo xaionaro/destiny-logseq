@@ -119,5 +119,5 @@
     - 18. YouTube - The Vanguard - "[LEFTISTS VS LIBS: Taylor Lorenz EXPOSES Brian Tyler Cohen’s Dark Money Group, David Pakman & Others](https://www.youtube.com/watch?v=wzU1u1eKb0Y)" (August 30th, 2025)
     - 19. YouTube - Fox News - "[Dark money group allegedly paid far-left influencers for content](https://www.youtube.com/watch?v=X2r018aHjnI)" (August 31st, 2025)
   - ## Websites
-    - 1. *Omidyar Network* - "[Omidyar Network announces sixth class of reporters in residence]()" (July 9th, 2025)
+    - 1. *Omidyar Network* - "[Omidyar Network announces sixth class of reporters in residence](https://omidyar.com/update/omidyar-network-announces-sixth-class-of-reporters-in-residence/)" (July 9th, 2025)
 #
