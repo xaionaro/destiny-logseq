@@ -21,18 +21,30 @@
     - 4. The animals brought to the Huanan Seafood Market were brought in from caves in South China, an area that is a rich reservoir for the types of coronaviruses the infect humans.
       - 1. Two genetic sequences for *sarbecovirus'*, the subgenus that SARS-CoV-2 belongs to, have been identified in bats in South China, with similarities of "[96.8% for BANAL-52 and 96.1% for RaTG13](https://www.nature.com/articles/s41586-022-04532-4)." This is a closer ancestral match to a virus than what was even found for SARS-CoV-1, which also is believed to have emerged during a zoonotic spillover event.
   - ## Challenges for Zoonotic Spillover
-    There are no issues, really, for the zoonotic spillover theory that require some extraordinary explanation. Everything is very neatly encapsulated in the official story, so much so that [movies](https://en.wikipedia.org/wiki/Contagion_(2011_film)) have been made about pandemics originating in a similar manner (bonus, said movies even include scenes of people [pushing fake drugs](https://www.youtube.com/watch?v=k9_PEu47ANE) to monetarily benefit from the panic they push!).
+    There are no issues, really, for the zoonotic spillover theory that require some extraordinary explanation. Everything is very neatly encapsulated in the official story, so much so that [movies](https://en.wikipedia.org/wiki/Contagion_(2011_film)) have been made about pandemics originating in a similar manner (bonus, said movies even include scenes of people [pushing fake drugs](https://www.youtube.com/watch?v=k9_PEu47ANE) to monetarily benefit from the "big pharma panic" they push!).
     
     There are some "issues" that frauds push publicly, but most of these boil down to simple misunderstandings of science or misstatements of factually true things.
     - ### The Wuhan Institute of Virology was very close to the Huanan Seafood Market
-      This is simply not true. A simple search of the Wuhan Institute of Virology and the Huanan Seafood Market shows that it's about a 12km drive between the two. For comparison, Manhattan Island at it's widest point is 3.7km and 21.6km long. The idea that someone could travel between the WIV and the HSM and infect only individuals at the HSM without infecting anyone else on the way there and on the way back is asinine.
+      This is simply not true. A simple search of the Wuhan Institute of Virology and the Huanan Seafood Market shows that it's about 12km of distance, or [a 23.2km drive](https://www.google.com/maps/dir/wuhan+institute+of+virology/huanan+seafood+market/data=!4m6!4m5!1m0!1m2!1m1!1s0x342eaeb553b58fd7:0x355ff7d1fe8e8fb7!3e0?sa=X&ved=1t:196274&ictx=111), between the two locations. For comparison, Manhattan Island at it's widest point is 3.7km and 21.6km long. The idea that someone could travel between the WIV and the HSM and infect only individuals at the HSM without infecting anyone else on the way there and on the way home, and throughout the rest of the working week, challenges credulity.
     - ### The Wuhan Institute of Virology Researchers were sick with COVID in November
-      This is not true. None of the researchers at the WIV have ever tested positive for COVID, despite claims that some were sick with COVID-like illnesses in the Fall of 2019. Past samples taken of all of these researchers have failed to confirm any SARS-CoV-2 positive infections, and there has never been any pattern of infections coming from any of the researchers. 
-- # Zoonotic Spillover Hypothesis
-  The challenges for the lab leak theory are numerous, but the largest challenge for the lab leak theory is that there isn’t even a single lab leak theory. There are many competing theories, some of which are necessarily mutually exclusive of one another, so even getting lab leak proponents to narrate a coherent theory from start to finish is incredibly challenging.
-  - 1. None of the researchers at the WIV were found to have been infected with SARS-CoV-2.
-    - 1. Not even past samples had tested positive for SARS-CoV-2 for any of the researchers working there.
-  - 2. There are pictures of them going out and eating prior to the start of the pandemic, **after** they would have certainly been infected, if they had been infected secretly without anyone knowing.
+      This is not true. None of the researchers at the WIV have ever tested positive for COVID, despite claims (even from the US ODNI!) that some were sick with COVID-like illnesses in the Fall of 2019. Past samples taken of all of these researchers have failed to confirm any SARS-CoV-2 positive infections, and there has never been any pattern of infections coming from any of the researchers.
+      
+      "[As for Hu, he categorically denies having anything to do with the origin of SARS-CoV-2. “I did not get sick in autumn 2019, and did not have COVID-19-like symptoms at that time,” Hu wrote. “My colleagues and I tested for SARS-CoV-2 antibody in early March 2020 and we were all negative.”](https://www.science.org/content/article/ridiculous-says-chinese-scientist-accused-being-pandemic-s-patient-zero)"
+- # Lab-Leak Spillover Hypothesis
+  The challenges for the lab leak theory are numerous, but the largest challenge for the lab leak theory is that there isn’t even a single lab leak theory. There are many competing theories, some of which are necessarily mutually exclusive of one another, so even getting lab leak proponents to narrate a coherent theory from start to finish is incredibly challenging. I'll attempt to steel-man what I consider to be the "most likely" lab-leak theory.
+  - 1. The DEFUSE grant project fails to receive funding and approval, but researchers begin to study the material proposed by the grant anyway.
+  - 2. Some of the material in the grant looks like it could conceivably involve gain of function research with SARS that could produce SARS-CoV-2.
+  - 3. One of the researchers gets an asymptomatic infection while working at the lab.
+  - 4. This research ventures to the Huanan Seafood Market, where he infects others, who begin to spread the infection from the market.
+  - ## Challenges for Lab-Leak
+    Unfortunately, the challenges begin with almost every single part of the Lab Leak story. Almost no part of it seriously holds up to scrutiny, and unless some major evidence is released that can explain some huge gaps in the story, this theory is almost mathematically and epidemiologically impossible to reasonably consider.
+    - ### Mathematically Impossible Spread of Disease
+    - ### The DEFUSE Grant
+    - ### Lack of Researchers Testing Positive
+      - 1. None of the researchers at the WIV were found to have been infected with SARS-CoV-2.
+        - 1. Not even past samples had tested positive for SARS-CoV-2 for any of the researchers working there.
+      - 2. There are pictures of them going out and eating prior to the start of the pandemic, **after** they would have certainly been infected, if they had been infected secretly without anyone knowing.
+    - ### Novel Viral Backbone
 - # Background
   - ## [SARS-CoV-2](https://pmc.ncbi.nlm.nih.gov/articles/PMC9839213/)
     - ### Naming
@@ -177,6 +189,9 @@
     - 2. SARS' spill-over animal was not found. Most exact spill-overs were not found.
 - # Incorporate
   https://x.com/tgof137/status/1947421582668009673
+  https://x.com/tgof137/status/1969505817398559088
+  - ## Saar Conversation
+    https://archive.is/BKNba
 - # Sources
   - ## Encyclopedias
     - 1. Wikipedia - "[COVID-19](https://en.wikipedia.org/wiki/COVID-19)" Accessed July 3rd, 2025.
@@ -202,6 +217,7 @@
     - 2. The Telegraph - "[Wuhan officials identified Huanan market as a pandemic risk at least five years before Covid emerged](https://www.telegraph.co.uk/global-health/science-and-disease/wuhan-officials-identified-huanan-market-pandemic-risk-least/)" (April 18th, 2021) by Sarah Newey. ([archive](https://archive.ph/yyn06))
     - 3. The New York Times - "[A top virologist who visited a Wuhan market in 2014 said he found it to be a ‘pandemic waiting to happen.’](https://www.nytimes.com/2022/03/23/health/wuhan-pandemic-edward-holmes.html)" (March 23rd, 2022) by Carl Zimmer. (archive)
     - 4. YouGov - "[Two-thirds of Americans believe that the COVID-19 virus originated from a lab in China](https://today.yougov.com/politics/articles/45389-americans-believe-covid-origin-lab)" (March 10th, 2023) by Linley Sanders. ([archive](https://archive.ph/4k3Ol))
+    - 5. Science - "[‘Ridiculous,’ says Chinese scientist accused of being pandemic’s patient zero](https://www.science.org/content/article/ridiculous-says-chinese-scientist-accused-being-pandemic-s-patient-zero)" (June 23rd, 2023) by Jon Cohen. (archive)
   - ## Social Media
     - 1. YouTube - Movieclips - "[Contagion (2011) - Arresting the Fraud Scene (4/5) | Movieclips](https://www.youtube.com/watch?v=k9_PEu47ANE)" (April 16th, 2021) (archive)
     - 2. YouTube - the bumbling biochemist - "[Coronavirus Spike (S) protein biochemistry part 2: cleavage sites, glycosylation, antibody binding](https://www.youtube.com/watch?v=22M2Wh6rQmA)" (July 28st, 2021) (archive)

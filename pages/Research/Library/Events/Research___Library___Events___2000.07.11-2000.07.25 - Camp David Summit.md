@@ -47,7 +47,7 @@
   - Negotiations continued through the Clinton Parameters, though no final agreement was reached, despite both sides claiming they were closer than they ever had been after the Taba negotiations in January of 2001.
   - Responsibility for failure
     - The Americans, including Clinton and several observers, claim that the failure of the talks hinged on Arafat and the Palestinians refusal to give up on future negotiations relating to the Right of Return, which the Americans believed would ultimately result in the Palestinians fighting for a return to a one state solution in Historic Palestine.
-    - A Clinton special advisor complains that Israel was not willing to concede a reasonable amount to the Palestinians, considering how much they were already willing to give up, including Jewish neighborhoods in East Jerusalem and trading favorable parts of the West Bank to Israel.
+    - A Clinton special advisor complained that Israel was not willing to concede a reasonable amount to the Palestinians, considering how much they were already willing to give up, including Jewish neighborhoods in East Jerusalem and trading favorable parts of the West Bank to Israel.
     - Some argue that the lack of religious consideration hindered discussion around Jerusalem.
     - Finkelstein argues that Israel really was giving up nothing at all that made the Palestinian concessions worth considering.
     - Polling data around the time from Palestinians and their attitude towards Israel.

@@ -1,0 +1,13 @@
+  - ## Mizzy Wizzy Drama
+    - [MAYAHIGA TALKS ABOUT EMIRU AND MIZKIF RELATIONSHIP ON STREAM ! EMIRU AND MAYA DRAMA (8 minutes)](https://www.youtube.com/watch?v=4CPk04dk0Og)
+      - feels like she was replaced blah blah blah
+    - [Knut seemingly leaks Emiru relationship (30 secs)](https://youtu.be/asZUgLhttSg?si=4_GXTA6uNvB_ULF-)
+      - says gf is someone living with him
+    - [Emiru "memeing" about dating Mizkif (30 secs)](https://youtu.be/xbkn0DJyDxA?si=MueKxU6ynQOJXfvc)
+    - [Court docs confirming relationship](https://youtu.be/gvg2BeeG3B4?si=sqEnHcqGR5WI9Cnc)
+    - [Miz crying due to train drama stream on alt channel (long ahh stream)](https://youtu.be/qDQTUlQHi64?si=SLzSASQzpo2zn0vM)
+      - says he can't escape it, cant get over the drama
+    - [Emiru leaks DMs between her and Mizkif showing alleged abuse (timestamped but full vid has decent background)](https://youtu.be/CGVbCdNxyOM?si=TZvKSPi-SwZ-QxNs&t=297)
+      - [certified DGG leak](https://www.reddit.com/r/Destiny/comments/13jr6s5/emiru_accidently_leaks_dms_from_mizkif_where_he/)
+    - [Miz tortures emiru on stream](https://youtu.be/cv2joWT3iUY?si=FTaA0-zPVhLfsn3U)
+#

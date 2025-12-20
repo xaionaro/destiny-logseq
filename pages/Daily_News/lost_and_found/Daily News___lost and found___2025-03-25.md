@@ -1,0 +1,17 @@
+- # Signal Memes
+  - [Hearing](https://www.youtube.com/watch?v=vMeoxWcj_Bc) for some of the involved members of the Signal chat
+  - [Hawley](https://x.com/Acyn/status/1904313342921187825) sweeping
+    - [Hawley](https://x.com/HawleyMO/status/750467243763466240) on Hillary's emails
+  - [Jesse Waters](https://www.reddit.com/r/Destiny/comments/1jjhhwk/this_is_how_jesse_watters_explains_the_hegseth/) sweeping
+  - [Ted Cruz](https://x.com/EdKrassen/status/1904495111259541818) sweeping
+  - [Draft](https://x.com/olivia_beavers/status/1904617583791239256) by Daniel Goldman (Democratic congressman NY-10)to request a special counsel from Pam Bondi
+  - [Hegseth](https://www.reddit.com/r/PublicFreakout/comments/1jjlrez/pete_hegseth_appears_to_be_angry_while_being/) on the 24th trying to discredit the journalist
+  - [Trump](https://x.com/atrupar/status/1904612449204007085) sweeping
+  - [Asmongold](https://www.youtube.com/watch?v=FxD3WrdBYT8) sweeping
+- # More targeting lawyers
+  - [Executive Order](https://www.whitehouse.gov/presidential-actions/2025/03/addressing-risks-from-jenner-block/) targeting another lawfirm he doesn't like, partially because of hiring a lawyer, Andrew Weissmann, whom worked with Robert Mueller
+    - Wiping all of the security clearances
+- # Venezualian deportation case
+  - [DC Court](https://ecf.dcd.uscourts.gov/cgi-bin/show_public_doc?2025cv0766-53) denies the request to vacate the TRO
+  - [Oral Arguments](https://www.youtube.com/watch?v=4DoTLGECQSU) for the circuit court
+#

@@ -1,0 +1,37 @@
+  - ## The Democrat Shutdown
+    - [JD Vance calls out Democrats' hypocrisy (12 minutes)](https://youtu.be/v9FLe9WRlUM?si=54UcwcwYJHOPZpQ9)
+    - [What Americans think of the shutdown (3 minutes)](https://youtu.be/FsLHVhjzXM0?si=H5J5VrYp3bsk66Nh)
+    - [Johnson: 'There's nothing for me to give' Democrats on funding (10 minutes)](https://www.youtube.com/watch?v=1M6THHUSuA4)
+    - [Trump mandates all federal agencies send email blaming Dems for potential gov’t shutdown | The Handbasket](https://www.thehandbasket.co/p/trump-omb-mandatory-email-federal-shutdown)
+    - ['THIS IS INSANITY': Newt Gingrich ridicules Dems' handling of shutdown on Capitol Hill (4 minutes)](https://youtu.be/DGJRJCGJe-s?si=APDGOLdjDb_0v7Sl)
+    - [Federal Workers Are Being Told to Blame Democrats for the Shutdown | WIRED](https://www.wired.com/story/government-employees-out-of-office-email-replies/)
+  - ## Trumpdate and Politics
+    - [Judge Rules Trump Unlawfully Targeted Noncitizens Over Pro-Palestinian Speech - The New York Times](https://www.nytimes.com/2025/09/30/us/politics/student-speech-palestinians-ruling.html?unlocked_article_code=1.qE8.7GhP.j4y8qf7RTe1K&smid=url-share)
+      - [spicy first page](https://static01.nyt.com/images/2025/09/30/us/politics/30dc-speech/30dc-speech-superJumbo.png?quality=75&auto=webp)
+    - [‘Could have been an email’: Officials balk at Hegseth's generals meeting - POLITICO](https://www.politico.com/news/2025/09/30/hegseth-meeting-pushback-00588181)
+    - [Governor Newsom Press Office releases new JD Vance video](https://fxtwitter.com/GovPressOffice/status/1973167665075335449)
+    - [Time for Donald's daily walk](https://fxtwitter.com/GovPressOffice/status/1973185102499946916)
+    - [NEW: 'Big Balls,' ex-DOGE staffer, recounts brutal attack in DC (4 minutes)](https://youtu.be/DcQEXl1UNl8?si=61pE51dXXpUfqX8k)
+    - [Supreme Court allows the Fed's Lisa Cook to stay in office for now as Trump pushes to fire her | NBC News](https://www.nbcnews.com/politics/supreme-court/supreme-court-allows-feds-lisa-cook-stay-office-trump-fire-case-rcna232933)
+    - [1 Journalist vs 20 Conspiracy Theorists (ft. Andrew Callaghan) (1 hour) | Jubilee](https://youtu.be/QU6S3Cbpk-k?si=8UnUIptXJvdpMgkB)
+    - [Oregon sues to block Trump from deploying state’s National Guard in Portland - POLITICO](https://www.politico.com/news/2025/09/28/oregon-sues-block-trump-national-guard-portland-00583937)
+    - [Energy Dept. adds ‘climate change’ and ‘emissions’ to banned words list - POLITICO](https://www.politico.com/news/2025/09/28/energy-department-climate-change-emissions-banned-words-00583649)
+    - ['THEY'VE TRIED TO STRANGLE IT': Trump energy leader Chris Wright fights to keep US coal alive (8 minutes)](https://youtu.be/5r5iZUHzdfU?si=ClooSK2RmEDNGbsD)
+    - [Eric Trump says crypto is the way of the future](https://fxtwitter.com/atrupar/status/1972725224899592658)
+  - ## Foreign Policy
+    - [Top Trump Aides Push for Ousting Maduro, Venezuela’s Leader - The New York Times](https://www.nytimes.com/2025/09/29/us/politics/maduro-venezuela-trump-rubio.html)
+    - [Stephen Miller takes leading role in strikes on alleged Venezuelan drug boats | Trump administration | The Guardian](https://www.theguardian.com/us-news/2025/sep/29/stephen-miller-venezuela-drug-boat-strike)
+    - [Leaked text from Scott Bessent on panic about Argentina selling soybeans to China](https://fxtwitter.com/keithedwards/status/1972704041621921802)
+    - [President Trump's comprehensive plan to end the Gaza conflict is released](https://fxtwitter.com/RapidResponse47/status/1972726021196562494)
+    - ['Bibi is on his own island': Trump will try to secure peace with an isolated Netanyahu - POLITICO](https://www.politico.com/news/2025/09/28/trump-says-a-gaza-peace-deal-is-close-but-hes-yet-to-convince-netanyahu-00583369)
+  - ## Streamer Corner
+    - [Train with shots fired against OTV](https://fxtwitter.com/Awk20000/status/1973268100951974053)
+    - [Hasan says Tectone is why he's not going to TwitchCon](https://fxtwitter.com/Awk20000/status/1973205404017631481)
+      - [Tectone responds](https://fxtwitter.com/Awk20000/status/1973252238631166372)
+    - [Hasan explains who Hegseth's speech was for](https://fxtwitter.com/Awk20000/status/1973425017829597327)
+    - [Dan Clancy drops motivational speech](https://fxtwitter.com/Awk20000/status/1973171888533938353)
+    - [Kai Cenat reveals new haircut](https://fxtwitter.com/DramaAlert/status/1973360171448672659)
+  - ## One Liners
+    - [OpenAI releases Sora 2](https://fxtwitter.com/OpenAI/status/1973075422058623274)
+    - **[The Unforgivable Sin of Ms Rachel (59 seconds) | Lindsay Ellis](https://youtu.be/QwpanShgOp4?si=zZNdCr6dLVCeBc0w)**
+#

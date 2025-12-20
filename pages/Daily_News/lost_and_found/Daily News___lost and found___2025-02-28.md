@@ -1,0 +1,13 @@
+- # Zelenskyy Trump meeting
+  - [Insane](https://www.youtube.com/watch?v=S_YtXWVfkJE) press conference
+  - [CNN Article](https://edition.cnn.com/2025/02/28/media/tass-russian-state-media-oval-office/index.html) on AP/Reuters being banned, Russian state media trying to sneak in
+    - [Tweet as well](https://x.com/nanditab1/status/1895510706545725702)
+  - [Sky News analysis](https://www.reddit.com/r/europe/comments/1iyjkbv/sky_news_analysis_of_who_has_given_what_to/) on aid to Ukraine from Europe/America
+  - [Trump response](https://x.com/realDonaldTrump/status/1895566669281636846) to the meeting
+  - [The Ukrainians](https://x.com/kaitlancollins/status/1895557073003561421) were kicked out of the White House after the meeting
+  - [Trump speaking to reporters](https://x.com/nancycordes/status/1895601344087801929) after
+  - [Trump](https://x.com/JenniferJJacobs/status/1895598009699934673) crying that deal wont' be reached now because of Zelenskyy being "difficult"
+- # Government TRO Blocking
+  - [Deadline](https://x.com/KlasfeldReports/status/1894794328515416075?t=P4j0CMKRLysNLY3c5U-dOA&s=19) was midnight on the 26th, but Roberts came through and [blocked it](https://www.supremecourt.gov/orders/courtorders/022625zr_8758.pdf)
+    - [Government response](https://www.courthousenews.com/wp-content/uploads/2025/02/usds-aids-emergency-appeal.pdf) to the stay (Supreme Court), [defendants response](https://www.supremecourt.gov/DocketPDF/24/24A831/350905/20250228115232365_USAID--SCOTUS%20Opp.pdf) to the stay
+#

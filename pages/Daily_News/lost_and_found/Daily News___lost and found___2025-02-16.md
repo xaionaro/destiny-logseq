@@ -1,0 +1,17 @@
+- # Broken Promises
+  - Day 1 Ukraine-Russia War over
+  - Decrease in price of eggs/inflation in general
+  - The ultimatum with Gaza failed
+  - Trump Tax Plan did not include...
+    - No tax on overtime
+    - No tax on tips
+    - No tax on Social Security benefits
+  - Doge transparency by Valentine's Day
+- # Gay Couples Adopted Children
+  - [Rosenfeld 2010 study](https://sci-hub.ru/https://doi.org/10.1353/dem.0.0112)
+  - [Douglas W. Allen et al 2012 study](https://www.sfu.ca/~allen/RosenfeldCommentDemography.pdf)
+  - [Reply to Allen et al. by Rosenfeld, 2012](https://web.stanford.edu/~mrosenfe/Rosenfeld_Demography_reply_to_Allen_etal.pdf)
+  - [Douglas Allen Article](https://www.mercatornet.com/does_same_sex_parenting_really_make_no_difference)
+- # Ukraine-Russia
+  - [Source](https://www.bbc.com/news/articles/cm292319gr2o) tells BBC Ukraine excluded from talks, but [Rubio](https://www.reuters.com/world/rubio-says-coming-days-will-show-if-putin-serious-about-ukraine-peace-2025-02-16/) contradicts
+#

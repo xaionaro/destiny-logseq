@@ -1,0 +1,12 @@
+- # Trump J6 Pardons
+  - Unrelated charges [now also](https://x.com/kyledcheney/status/1907500616756121661) pardoned as well
+- # Musk Leaving
+  - [Politico Article on Trump](https://www.politico.com/news/magazine/2025/04/02/trump-musk-leaving-political-liability-00265784)
+    - [Karoline Goebbels](https://x.com/PressSec/status/1907476290438901863) angry response
+- # Special Elections
+- # Lawfare
+  - [Trump extorting](https://www.cbsnews.com/news/trumps-big-law-firms-retribution/) law firms for free work
+  - [Ho's dismissal decision](https://x.com/eorden/status/1907435453902458996) on Eric Adams case
+- # Big tariffs
+  - [Trump declares](https://www.whitehouse.gov/presidential-actions/2025/04/regulating-imports-with-a-reciprocal-tariff-to-rectify-trade-practices-that-contribute-to-large-and-persistent-annual-united-states-goods-trade-deficits/) national emergency against the entire world
+#
