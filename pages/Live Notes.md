@@ -1,9 +1,14 @@
-WIP
-- Lab Leak note
-- Jan 6th script (lol)
-________
-Government Shutdown
-- Agreement not to send troops anywhere without governor's authorities
-- Trump statement for all of country to disavow violence
-- Trump divestment from crypto stuff
+- 1. Political teams
+  - 1. Who defends who when someone is attacked?
+- 2. Who are the teams?
+  - 1. Socialists/Tankies
+  - 2. MAGA
+- 3. There is no liberal team.
+  - 1. Who is coming out to defend Pelosi? Schumer? Biden? Kamala? Chorus?
+  - 2. Examples
+    - 1. [Newsom’s New Attack on Political Enemies: You’re Gay](https://www.nytimes.com/2026/03/31/us/politics/newsom-social-media-grindr-homophobia.html?unlocked_article_code=1.XlA.t15z.c-C9mSa5CPcQ&smid=nytcore-ios-share)
+- 4. How do they operate?
+  - 1. Always identify opposing person's tribe, engage in as much peripheral character assassination as possible, never, ever, ever address any substance on any argument ever.
+  - 2. Avoid critical confrontation at all points in time.
+  - 3. Always unquestionably defend every single action by anyone else in the tribe, even if it means denying reality.
 #

@@ -1,0 +1,147 @@
+- # Conversation Goals
+  - 1. There needs to be a better understanding of the conservative media ecosystem and less fixation on what comes out at the end."
+    - 1. "Where is our Joe Rogan of the left?!"
+    - 2. "Why is it that when Republicans are unpopular, Democrats don't gain popularity?"
+    - 3. "How can Trump change his position so much and still have Republicans go along with it?"
+  - 2. Stop fixating on how people like Hasan are "edgy" and focus more on their ideology.
+- # Topics
+  - 1. The conservative media ecosystem
+    - 1. Ideological
+      - 1. Conservatives maintain their ideology even during non-presidential years, allowing them to be more effective for their messaging and policy platforms when they resume office, even if it has to be through a candidate that shares little ideological similarity to them (such as Trump).
+        - 1. Examples
+          - 1. Heritage Foundation -> Project 2025
+          - 2. The Federalist Society -> 5 of the current Supreme Court members are or were members
+    - 2. Media
+      - 1. Conservative mainstream and alternative media sees itself as the messaging arm of the Republican party. It is never their job to criticize nor condemn Republican actions, unless they perceive them to be "against the group" (see: RINOs). This helps to ensure an environment where every action that the administration takes can be sanitized or mutated into something that can be made palatable to conservative audiences. Every single conversation will be treated as a "same team" conversation where conservative figures are given an opportunity to essentially campaign.
+        - 1. Network examples -> Fox News, One America News Network, Newsmax
+      - 2. Alternative conservative media follows a similar trajectory due to the massive audience fostered by the mainstream media + the conservative administration, and due to the active and deliberate interaction of the Republican party with these alternative media figures.
+        - 1. Charlie Kirk claims he was speaking to Trump often, and Trump was making an effort to appear on alternative media shows (Joe Rogan, Tim Pool, the comedian podcast circuit).
+        - 2. Because there is so much uniformity in the messaging from the ideological and mainstream media side of things, there is a massive audience that is ripe and hungry for consumption of conservative messaging on alternative media platforms. All of these things work to create a feedback loop that constantly rewards participants.
+    - 3. Culture
+      - 1. The cultural control conservatives have is largely downstream of the ideological and media pipeline they control. Because Trump can message a thing, and because that exact same thing will be repeated verbatim by everyone who's part of the Media pipeline, anyone who spends any time on social media will get a deluge of algorithmically pushed, totally synchronized and completely affirming stories concerning the Republican party.
+      - 2. There doesn't really need to be a concerted or active effort on Republicans to "rig" or "bot" or in any way compromise social media platforms, because the way algorithms push news to people will naturally push the most synchronized, synergized messaging due to how convincing and appealing it is to people in that audience.
+      - 3. Too much time is spent analyzing the downstream effects of this, rather than going upstream to see how things got to this point.
+        - 1. e.g., "The Joe Rogan of the Left" cannot be created downstream, because Joe Rogan fell victim to the above described pipeline of Ideological/Media interaction, where he slowly became captivated and fell into the intentionally pushed Republican narrative before becoming a part of their pipeline.
+  - 2. The "platforming" question
+    - 1. People need to differentiate more when they talk about what kind of platforming they are expecting different parties to engage in. In the first two styles of conversation, the invited guest will always be boosted and made more palatable. In the latter two styles of conversation, the goal is to make the guest less palatable.
+      - 1. "Same team"
+        - 1. You show up with both audiences understanding that you are both on the "same team" and will mainly be here as a PR/bolster campaign for either the smaller or both parties. This describes essentially every single Trump and MAGA appearance on every single conservative media platform. These conversations allow for conservatives to pilot ridiculous arguments with almost zero pushback from their interviewer. The talking points that end up downstream from Trump and others in the admin will start here.
+        - 2. Style
+          - 1. Lots of "yes and", lots of "lay-up questions", essentially zero disagreement on substance or rhetoric. The goal here is to essentially spread "the talking points" for everyone else to carry forward.
+        - 3. Examples
+          - 1. Tulsi Gabbard [lying]([https://www.youtube.com/watch?v=DjZLElv2ASw](https://www.youtube.com/watch?v=L_HbvN-zSIs)) about the Obama 2016 Russia IC reports on Fox News with Sean Hannity, Trump [basically any time](https://www.youtube.com/watch?v=dXTH0gwq2_c) he goes on Fox News and lies about anything, Kristi Noem [massaging her lies](https://www.youtube.com/watch?v=SErItEqEWhU) about Alex Pretti on Fox News with Hannity
+      - 2. "Friendly Conversations"
+        - 1. You show up with both audiences understanding that there is some disagreement between both sides, with the goal of emphasizing similarities while potentially noting some disagreements between you. The focus will be on building on the similarities between both sides, focusing on how closely united they should be against some third party.
+        - 2. Style
+          - 1. Still lots of "yes and", will ask at least one critical question but there will NEVER be tough follow-ups, EVER.
+        - 3. Examples
+          - 1. Donald Trump on [Joe Rogan](https://www.youtube.com/watch?v=hBMoPUAeLnY), [Tim Pool](https://www.youtube.com/watch?v=GbSjkcVRYQ4), [Theo Von](https://www.youtube.com/watch?v=vC5cHjcgt5g), [Andrew Schulz](https://www.youtube.com/watch?v=Ry1IjOft95c) and [Lex Fridman](https://www.youtube.com/watch?v=qCbfTN-caFI)
+          - 2. This essentially describes basically the entire "alternative media" podcast circuit.
+      - 3. "Adversarial Conversations"
+        - 1. You show up with both audiences understanding that there is some (or significant) disagreement between both sides, with the goal of drawing some similarities and some disagreements between you. The focus will be on critically analyzing the differences between both sides with the goal of making the other side warmer towards the opposite's viewpoint. In these conversations, substance and rhetoric matters a lot more since the other side is looking to somewhat undermine your positions.
+        - 2. Style
+          - 1. Some back and forth disagreement, oftentimes some tougher follow-ups, requires both sides to justify their positions more, will rarely push someone until they're squirming.
+        - 3. Examples
+          - 1. Pete Buttigieg on [Andrew Schulz](https://www.youtube.com/watch?v=bgx7GvYSq64), Gavin Newsom's [podcast](https://www.youtube.com/watch?v=9XJ6rQDRKGA)
+      - 4. "Hostile Conversations"
+        - 1. You show up with both audiences understanding there is a massive ideological contention between both sides with the goal of having a very critical conversation. British interviewers are very effective at this, e.g. Piers Morgan, Medhi Hasan, James O'Brien. These conversations can oftentimes have clear winners and losers, with a lot to gain from smaller participants and potentially a lot to lose from larger participants.
+        - 2. Style
+          - 1. The goal is to demonstrate the absurdity/immorality of the other party's position. Involves asking for discrete facts, or tough follow-up questions pushed until the opposing party squirms or cannot answer. Also can involve "ambushing" with quotes or prior examples of the other parties' beliefs/behaviors.
+        - 3. Examples
+          - 1. Kaitlin Collins interviewing basically anyone from the Trump admin, Piers Morgan and Jubilee style shows
+    - 2. It is important that people have a clear understanding of what kind of conversation they are prepared to engage with. Conversations where the understanding is different between both parties will end in disaster, generally for the party invited to the talk. People like Ro Khanna constantly [misunderstand](https://x.com/atrupar/status/2040791335578599664) what kind of engagement people are looking for when it comes to engaging with adversarial or hostile parties.
+      - 1. Examples
+        - 1. Ted Cruz thought he was signing up for a "same team" or "friendly conversation" with Tucker Carlson, but Carlson was intending for a "hostile" conversation, [leading](https://www.youtube.com/watch?v=smemFVe0l5E) to many Cruz blunders which made him look foolish.)
+        - 2. Ben Shapiro thought he was going into a "friendly conversation" with Andrew Neil, but it was a "hostile" [conversation](https://www.youtube.com/watch?v=6VixqvOcK8E).
+        - 3. Many times there are Democratic candidates who are trying to "engage with the social or alternative media" landscape who assume they are walking into "same team" or "friendly" environments but are repeatedly taken surprise by "hostile" conversations. (Krystal Ball [grilling](https://www.youtube.com/watch?v=AFrEJTFbSTc) Slotkin on Israel/Palestine)
+  - 3. Why Socialists/Hasan should be excluded from the Democratic Party
+    - 1. There are severe ideological mismatches, and any "similarities" are only true at the surface level, and will quickly diverge as soon as you dig into them.
+      - 1. Examples
+        - 1. "Single payer healthcare"
+          - 1. Liberals will happily push along an axis towards single payer healthcare, such as the victory with the ACA, and then potentially to a public option, and then further, because the goal is to provide more healthcare to more people. 
+          - 2. Socialists will advocate for "single payer healthcare" but every incremental push is considered a failure because their goal is the absolute decommodification of anything they consider to be a "human right," meaning there are times when they will describe healthcare victories as failures because they see it as a cheap way to appease the masses.
+          - 3. Examples
+            - 1. Cenk constantly attacking [the Affordable Care Act](https://www.youtube.com/watch?v=gfzzXXfGKmA&t=164s) as a "corporate release valve"
+        - 2. "Equality on social issues"
+          - 1. Liberals will happily push for more equality on social issues because fundamentally we came from a more intersectional background that views competing identities as requiring different considerations to bolster their standing in society.
+          - 2. Socialists will collapse all of these issues into "class struggle" and will sometimes fight against any perceived "identity politics" as they view it as a distraction from the class struggle narrative.
+          - 3. Examples
+            - 1. Hasan says "[Social policies are completely irrelevant, they are literally just distractions.](https://www.youtube.com/watch?v=use0z1PGTGw&t=910s&ab_channel=HasanAbi)" from class consciousness.
+        - 3. "No more foreign wars/Israel criticism"
+          - 1. Liberals will generally criticize involvement in wars that the US participates in with great detriment to foreign civilian populations or other humanitarian issues.
+          - 2. Socialists only oppose military action by the West, or anything they view as aligned with the United States, so they will criticize US or Western intervention into conflict but they will often have nothing to say (or will even be supportive) of adversaries to the west.
+          - 3. Examples
+            - 1. Israel/Palestine has become the single rallying cry for almost every socialist/populist figure on the left, but it's unclear what you could possibly offer them (beyond potentially the physical destruction of Israel) that would actually convince them to support you as a candidate.
+              - 1. Hasan [tweet](https://x.com/hasanthehun/status/1937504769884717287) to invade Israel if they don't "stop the genocide." June 24th, 2025
+              - 2. Hasan [tweet](https://x.com/hasanthehun/status/1950722583684669879) to invade Israel if they don't "stop the genocide." July 30th, 2025
+        - 4. These people support Stalinist Russia, Mao's China, Hamas and Hezbollah, the Houthi takeovers of ships, etc...etc...
+      - 2. [Recent polling](https://manhattan.institute/article/do-democrats-want-to-be-normal-survey-analysis-of-todays-democratic-coalition) from the Manhattan Institute shows a broad voter preference for remaining more moderate in Democratic beliefs, or even appealing more towards the center.
+        - 1. The three most popular Democrats that voters would support in a 2028 Democratic Presidential primary are Kamala Harris, Gavin Newsom and Pete Buttgieg. How are these three individuals treated on "far left" media platforms? Do they seem to take a more constructive/friendly approach, or do they instead appear as openly hostile? (Scanning YouTube video titles of The Majority Report, Kyle Kulinski, Breaking Points, The Young Turks, Vaush and Hasan Piker)
+          - 1. Kamala Harris
+            - 1. The Majority Report (Is openly hostile)
+              - 1. [Anti-War Protesters Interrupting Kamala Harris Is Great, Actually](https://www.youtube.com/watch?v=yh8Lsez-dWI) August 8th, 2024
+              - 2. [Harris Sticks To Biden’s Israel-Gaza Stance In CNN Interview](https://www.youtube.com/watch?v=_EOXYLLiP-w) August 30th, 2024
+              - 3. [Harris Campaign FULL Of Excuses For 2024 Fail](https://www.youtube.com/watch?v=MKJP9qBshdA) November 29th, 2024
+              - 4. [Kamala Harris's Book Proves She Was Never Prepared To Be President](https://www.youtube.com/watch?v=H693nVvcBbQ) September 25th, 2025
+              - 5. [Dem 2024 autopsy report: Kamala Harris lost votes cause of support for the Gaza genocide](https://www.youtube.com/watch?v=JnfuQHxSSUk&pp=0gcJCdkKAYcqIYzv) February 24th, 2026
+                - 1. There are [defensive videos](https://www.youtube.com/watch?v=frNpmwEUREk) of Kamala Harris, but instead they seem to be focused on just attacking other enemies, for instance, in the earlier voter, not a single positive thing is offered about Kamala Harris, and even when Hillary Clinton is brought up, Emma immediately hedges with negative statements about her.
+            - 2. Kyle Kulinski (Generally favorable, but not much "glazing" and much more focused on attacking Trump/adversaries)
+              - 1. [Kamala SHOCKS Kyle With BASED Policy Agenda | The Kyle Kulinski Show](https://www.youtube.com/watch?v=c431xR62Wi4) August 19th, 2024
+                - 1. A decently positive coverage of Kamala!
+              - 2. [KAMALA SMOKES TRUMP IN BRUTAL DEBATE | The Kyle Kulinski Show](https://www.youtube.com/watch?v=9KS_PoUu3z0) September 11th, 2024
+                - 1. More positive Kamala coverage.
+              - 3. [KYLE’S DEFINITIVE CASE AGAINST TRUMP. | The Kyle Kulinski Show](https://www.youtube.com/watch?v=ZKL668z8fA4) November 4th, 2024
+                - 1. Even the day before the election, the framing of this video is "AGAINST Trump", Kamala's name is only brought up a single time, at the end of the video, by Kyle. Kyle himself literally linked this video to show he "[VERY OPENLY SUPPORTED HER!!](https://x.com/KyleKulinski/status/2033177380508876801)"
+              - 4. [The View Hosts GO QUIET As Kamala STUNS Them | The Kyle Kulinski Show](https://www.youtube.com/watch?v=rP2w5a1YqXA) October 9th, 2024 
+                - 1. Starts off with 20 seconds of something positive, immediately dives into constant negative coverage.
+            - 3. Breaking Points (Markets itself as a right and left leaning host, but is really just populist slop, is openly hostile)
+              - 1. [Dem Focus Group SAVAGES Kamala Harris | Breaking Points](https://www.youtube.com/watch?v=zc_YJGtqSZM) October 19th, 2023
+              - 2. [Kamala GASLIGHTS On Ceasefire As US Airdrops Gaza Aid](https://www.youtube.com/watch?v=oxZKXHHpGac) March 4th, 2024
+              - 3. [Kamala SNEERS At Gaza Protesters 'YOU WANT TRUMP'](https://www.youtube.com/watch?v=ri2yqw8mWzo) August 8th, 2024
+              - 4. [1968? MASSIVE Gaza Protests CRASH Kamala DNC Party](https://www.youtube.com/watch?v=cZWDPqTCAHk) August 15th, 2024
+              - 5. [Krystal, Saagar REACT Kamala DNC: Warmongering, Abortion, Trump](https://www.youtube.com/watch?v=MIqGHI3K1rY) August 23rd, 2024
+              - 6. [BREAKDOWN: Kamala WORD SALAD 60 Minutes Interview](https://www.youtube.com/watch?v=XO1bRgjui-g) October 8th, 2024
+              - 7. [FULL BLOWN PANIC As Kamala FALLS IN Polls](https://www.youtube.com/watch?v=R8-JPe23gy4) October 14th, 2024
+            - 4. The Young Turks (Is openly hostile)
+              - 1. [Kamala Harris Makes DUMB Campaign Move](https://www.youtube.com/watch?v=E5Ik48vHij8) October 4th, 2024
+              - 2. [Exclusive Kamala Harris Interview Raises Eyebrows](https://www.youtube.com/watch?v=TpD-nLwFB0E) October 7th, 2024
+              - 3. [Harris TRIPLES DOWN On AWFUL Strategy](https://www.youtube.com/watch?v=834mpZofypE) October 15th, 2024
+              - 4. [Kamala Harris FLAUNTS Hawkishness With New Pal Liz Cheney](https://www.youtube.com/watch?v=xtEzQKZfb2I) October 22nd, 2024
+              - 5. [DNC Posts BIZARRE Video Of Kamala Harris, Proving They've Learned NOTHING](https://www.youtube.com/watch?v=EH6Se7ZIWnQ) November 27th, 2024
+              - 6. [Was Kamala Harris RUDE To Teamsters Reps?](https://www.youtube.com/watch?v=a73l_m_XvaY) December 27th, 2024
+              - 7. [Cenk and Ana COOK Kamala Harris For 60 Straight Minutes](https://www.youtube.com/watch?v=Z7cYL0KabOU) October 6th, 2025
+            - 5. Vaush (Seems to be somewhat ambivalent to positive-ish)
+            - 6. Hasan Piker
+              - 1. [KAMALA HARRIS F***ED UP](https://www.youtube.com/watch?v=8V7Dqf9SAK4) August 9th, 2024
+              - 2. [KAMALA CHANGES HER RESPONSE TO PROTESTORS](https://www.youtube.com/watch?v=SDWez7nIq4w) August 11th, 2024
+              - 3. [THIS IS VERY VERY BAD (Kamala Harris DNC Speech)](https://www.youtube.com/watch?v=onq0dHcwwoU) August 23rd, 2024
+              - 4. [WHY WOULD KAMALA PROMISE THIS??](https://www.youtube.com/watch?v=jH4zbKUDXJM) August 27th, 2024
+              - 5. [KAMALA HARRIS' TOWN HALL WAS A DISASTER](https://www.youtube.com/watch?v=ing9DoCgPeI) October 24th, 2024
+    - 2. The outward stated goal of many of these socialists is to co-opt the Democratic Party to turn it into a Socialist party. They view Democrats in the best light as useful idiots, but never as allies. This is why their demand is always for us to appeal to them, and why they will never, ever meet us halfway on anything ("voting for lesser of two evils" quote constantly pops up)
+      - 1. They constantly view Democrats and Republicans as being very close ("two party [duopoly](https://www.youtube.com/live/5tO2BMKtfUU?t=3204s)") and always ready to yield to fascism to fight against the proletariat. "Cut a liberal and a fascist bleeds" and "liberals always side with fascists" are popular sayings in the Socialist camps.
+      - 2. Hasan has explicitly and repeatedly stated that his goal is to be a subversive element in the Democratic party to radicalize people towards Socialist beliefs.
+        - 1. "[Many people don't start off in here as card-carrying Marxist-Leninists](https://www.youtube.com/watch?v=Haf1QQ-j-vw&t=27204s)"
+        - 2. "[I don't know why he thinks my audience is gonna think wow, this is a bridge too far, what are you gonna say next, that you have Marxist-Leninist tendencies? How dare you!](https://youtu.be/MNyQpRDwYyE?t=3368)"
+        - 3. "[Until you find a more appropriate, more successful method of building a Marxist-Leninist vanguard party, ima keep doing what I'm doing.](https://www.youtube.com/watch?v=Q_M6Jc7LkyY&t=13440s)"
+        - 4. His entire [appearance](https://www.youtube.com/watch?v=NBrC62rPoIw&t=2425s) on The Deprogram was an explanation of his propaganda pipeline.
+        - 5. "[re-education camps seems good](https://x.com/hasanthehun/status/1151356596288491520)" Tweet
+    - 3. Socialists are likely out-of-step with where the public consensus is on most issues, which is why they rarely support candidates that can win elections outside of deep blue areas, and will oftentimes contribute to rhetoric or ideas that are deeply unpopular in other competitive districts. They can get platformed or mistakenly amplified, however, by liberals who confuse them as allies who are simply a bit further to the left than they are.
+    - 4. Their form of engagement with politics is very "slopulist" oriented.
+      - 1. There is an eerily identical form of argumentation that almost all of them engage in.
+        - 1. Ignore the subject matter.
+        - 2. Pivot to something that's easy to morally grandstand on.
+        - 3. Attack personally or misrepresent your opponent.
+        - 4. Always push for an unreasonable and unrealistic solution that will likely never come to fruition.
+        - 5. Examples
+          - 1. Hasan referred to Sarah as "Hysterical" and his entire fanbase is now engaged in a series of personal attacks against her instead of engaging substantively with a single point she brought up. He claimed she lobbied to "make drunk driving legal."
+          - 2. Chorus being universally attacked by the far left.
+  
+  Hasan positions
+  - Ukraine/Crimea https://www.reddit.com/r/Destiny/comments/1sdbteu/hasan_doubles_down_on_his_opinion_that_annexation/?share_id=oXA57CztQxs0tCURNkFwJ&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=1
+  - Pussy Riot/Russia https://www.instagram.com/reels/DWt9ttRDqZ3/
+  - Hasan is not "edgy" and has not said "heinous, stupid shit" like Jon Lovett [suggest](https://youtu.be/0VYWBq6RbWo?t=1686), it's foundational, substantial ideological disagreement.
+  - Hasan [claiming](https://x.com/BentleysAsshole/status/2040629773563736256) Zelensky is sending Ukrainians off to die (propaganda) in Iran and is being loyal to Israel
+  
+  Vaush
+  - "[Every Zionist is a rapist.](https://x.com/kuihman/status/2040770425630691400)"
+#
